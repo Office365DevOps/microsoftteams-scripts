@@ -80,7 +80,7 @@ foreach ($item in $result) {
     if (!$item.Name.EndsWith($credential.UserName.Substring($credential.UserName.LastIndexOf('@')))) {
 
         # 这里发送邀请，设置Display Name
-        New-AzureADMSInvitation -InvitedUserEmailAddress $item.Email -InvitedUserDisplayName $item.Name -InviteRedirectURL https://teams.microsoft.com/ -SendInvitationMessage $false
+        New-AzureADMSInvitation -InvitedUserEmailAddress $item.Email -InvitedUserDisplayName $item.Name -InviteRedirectURL https://teams.microsoft.com/ -SendInvitationMessage $true
 
     }
 
