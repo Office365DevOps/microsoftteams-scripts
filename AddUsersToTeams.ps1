@@ -61,6 +61,9 @@ $team = "你的Team编号"
 # 这是当前用户的凭据
 $credential = Get-Credential
 
+# 如果你想是实现完全自动化，也可以考虑将用户名和密码明文地放在这里（但这并不是推荐的做法，而且如果账号启用了MFA则会失效
+# $credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList "你的账号",(ConvertTo-SecureString "你的密码" -AsPlainText -Force)
+
 # 连接到Azure AD
 Connect-AzureAD -Credential $credential
 
