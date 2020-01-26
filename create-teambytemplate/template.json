@@ -21,8 +21,7 @@
         }
     ],
     "members": [
-        "ares@greatchinaoffice365.onmicrosoft.com",
-        "admin@greatchinaoffice365.onmicrosoft.com"
+        "testuser@greatchinaoffice365.onmicrosoft.com"
     ],
     "settings": {
         "allowAddRemoveApps": false,
