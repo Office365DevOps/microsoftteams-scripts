@@ -1,0 +1,31 @@
+{
+    "visibility": "private",
+    "owner": [
+        "admin@greatchinaoffice365.onmicrosoft.com"
+    ],
+    "channels": [
+        {
+            "displayName": "产品反馈",
+            "type": "standard"
+        },
+        {
+            "displayName": "应用场景",
+            "type": "standard"
+        },
+        {
+            "displayName": "高层",
+            "type": "private",
+            "users": [
+                "admin@greatchinaoffice365.onmicrosoft.com"
+            ]
+        }
+    ],
+    "members": [
+        "ares@greatchinaoffice365.onmicrosoft.com",
+        "admin@greatchinaoffice365.onmicrosoft.com"
+    ],
+    "settings": {
+        "allowAddRemoveApps": false,
+        "showInTeamsSearchAndSuggestions":false
+    }
+}
