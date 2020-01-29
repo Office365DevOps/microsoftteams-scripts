@@ -1,0 +1,5259 @@
+[
+    {
+        "id": "WA200000953",
+        "title": "Roby",
+        "description": "Roby is a smart help desk bot for support teams to increase employee satisfaction.",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Imageous",
+        "version": "1.0.2",
+        "modifiedDate": "12/4/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000973",
+        "title": "Workstreams.ai - Results-oriented task management",
+        "description": "Kanban task management. Data-driven, results-oriented collaboration app for modern teams.",
+        "reviewCount": 3,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Workstreams.ai",
+        "version": "1.0.0",
+        "modifiedDate": "12/10/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000588",
+        "title": "Coo Kai Team Build",
+        "description": "\u30c1\u30fc\u30e0\u30d3\u30eb\u30c9\u306b\u300c\u30b9\u30d4\u30fc\u30c9\u300d\u3068\u300c\u30d1\u30ef\u30fc\u300d\u3092\u30ea\u30fc\u30c0\u30fc\u306e\u601d\u3044\u306e\u307e\u307e\u306e\u6226\u7565\u7684\u306a\u30c1\u30fc\u30e0\u4f5c\u308a\u3092\u652f\u63f4\u3002",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "PSC Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "9/4/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000475",
+        "title": "e-Share External Collaboration Bot",
+        "description": "Highly-secure external file sharing using the e-Share bot",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "e-Share LLC",
+        "version": "1.0",
+        "modifiedDate": "8/7/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA200000937",
+        "title": "InCare",
+        "description": "Care Management app by Innovaccer that personalizes care and integrates teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Innovaccer Inc",
+        "version": "1.0.0",
+        "modifiedDate": "11/6/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000931",
+        "title": "Digitala Lektioner",
+        "description": "Digitala Lektioner in Teams. Copy content from digitalalektioner.se to your Teams Class Notebook.",
+        "reviewCount": 3,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Haldor AB",
+        "version": "1.0.1",
+        "modifiedDate": "12/2/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000395",
+        "title": "Cloud Index",
+        "description": "Access legacy file share content in Teams without migration or synchronization.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "AvePoint Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "8/18/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001164",
+        "title": "Gtmhub",
+        "description": "Allows you to view, share and update your OKRs",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Gtmhub EOOD",
+        "version": "1.0.0",
+        "modifiedDate": "12/11/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104382098",
+        "title": "iTask",
+        "description": "\u521b\u9020\u6027\u7684\u865a\u62df\u56e2\u961f\u673a\u5236\uff0c\u57fa\u4e8e\u4efb\u52a1\u5efa\u7acb\uff0c\u5b8c\u6210\u5373\u5f52\u6863\u3002\u6307\u6d3e\u4eba\uff0c\u8d1f\u8d23\u4eba\uff0c\u53c2\u4e0e\u4eba\uff0c\u622a\u6b62\u65f6\u95f4\uff0c\u5206\u7c7b\u7b5b\u9009\uff0c\u6807\u7b7e\u3002\u57fa\u4e8eBot\u804a\u5929\u540c\u6b65\u4efb\u52a1\u4fe1\u606f\uff0c\u663e\u793a\u5ef6\u8bef\u6216\u5269\u4f59\u65f6\u95f4",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "\u4e0a\u6d77\u79fb\u54c1\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "version": "1.0.0.0",
+        "modifiedDate": "8/9/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200001114",
+        "title": "HRwiz",
+        "description": "Onboard-Train-Engage employees",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Helvia Technologies IKE",
+        "version": "1.0.1",
+        "modifiedDate": "10/30/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000894",
+        "title": "TeamSticker",
+        "description": "Teams\u306e\u4f1a\u8a71\u4e0a\u304b\u3089\u9001\u308c\u308b\u30c7\u30b8\u30bf\u30eb\u30b5\u30f3\u30af\u30b9\u30ab\u30fc\u30c9\u3067\u3059\u3002",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Communitio Corporation",
+        "version": "1.0.13",
+        "modifiedDate": "12/1/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity",
+            "Social"
+        ]
+    },
+    {
+        "id": "WA200001189",
+        "title": "Cloud Solutions Selvbetjening",
+        "description": "Appen lader jer nemt administrere abonnementer, services og mobilpakker og giver indsigt i forbrug",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "TDC Erhverv",
+        "version": "1.0.10",
+        "modifiedDate": "1/7/2020",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381349",
+        "title": "MeisterTask - Task Management",
+        "description": "MeisterTask is a collaborative task manager for agile teams that\u2019s smart, powerful and beautiful.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "MeisterLabs GmbH",
+        "version": "1.0.0",
+        "modifiedDate": "8/31/2017",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381390",
+        "title": "Wrike for Teams",
+        "description": "Manage all your Wrike Projects, collaborate on tasks, and receive notifications, right in Teams.",
+        "reviewCount": 9,
+        "ratingValue": 2.3,
+        "offer": "free",
+        "publisher": "Wrike Inc.",
+        "version": "2.5.0",
+        "modifiedDate": "12/6/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381473",
+        "title": "Open Agora Polls",
+        "description": "Open Agora polling application for Microsoft Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Open Agora",
+        "version": "2.4.0",
+        "modifiedDate": "11/29/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Project Management",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104381560",
+        "title": "Cloudbot for Azure",
+        "description": "Reports and alerts directly posted from your Azure backend services.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "FreevolutLTD",
+        "version": "1.0.0",
+        "modifiedDate": "4/25/2018",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "IT + administration",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381551",
+        "title": "CheckMarket",
+        "description": "Conduct customer surveys.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/26/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381566",
+        "title": "Sentry",
+        "description": "Capture and aggregate exceptions in code.",
+        "reviewCount": 4,
+        "ratingValue": 3.3,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381571",
+        "title": "Stack Overflow",
+        "description": "Ask and answer programming questions.",
+        "reviewCount": 2,
+        "ratingValue": 3.5,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "Reference"
+        ]
+    },
+    {
+        "id": "WA104381580",
+        "title": "Microsoft Teams Connector for Salesforce",
+        "description": "Build relationships with your customers.",
+        "reviewCount": 12,
+        "ratingValue": 2.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA104381583",
+        "title": "Constant Contact",
+        "description": "Helping small businesses do more business",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/27/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104380975",
+        "title": "Smartsheet for Teams",
+        "description": "Combine communications and work platforms to improve visibility and collaboration.",
+        "reviewCount": 6,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "Smartsheet.com, Inc.",
+        "version": "1.6.0",
+        "modifiedDate": "3/7/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381098",
+        "title": "Nearpod for Teams",
+        "description": "Formative assessment ed-tech tool that helps teachers teach interactive digital lessons",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Nearpod",
+        "version": "1.1.2",
+        "modifiedDate": "5/31/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381374",
+        "title": "Skooler",
+        "description": "Skooler integration for Microsoft Teams",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Skooler AS",
+        "version": "1.1",
+        "modifiedDate": "11/16/2017",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381870",
+        "title": "CoreView How-To",
+        "description": "Help & Training Videos for Users of Microsoft Teams",
+        "reviewCount": 8,
+        "ratingValue": 4.8,
+        "offer": "free",
+        "publisher": "CoreView USA, Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "10/4/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Reference",
+            "Training + Tutorial"
+        ]
+    },
+    {
+        "id": "WA104381935",
+        "title": "Lucidchart Diagrams for Teams",
+        "description": "Create clarity as your team works visually\u2014collaborate on diagrams directly in Microsoft Teams",
+        "reviewCount": 26,
+        "ratingValue": 3.7,
+        "offer": "free",
+        "publisher": "Lucid Software Inc",
+        "version": "1.2.0",
+        "modifiedDate": "11/14/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000819",
+        "title": "Wide Ideas - Idea Management software for Teams",
+        "description": "Ignite your idea sharing and employee engagement.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Wide Ideas",
+        "version": "1.0.0",
+        "modifiedDate": "11/19/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000150",
+        "title": "Zoom.ai Meeting Assistant",
+        "description": "Faster, smarter meeting scheduling in Microsoft Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Zoom.ai Inc",
+        "version": "1.3.0",
+        "modifiedDate": "7/8/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000197",
+        "title": "Streem",
+        "description": "Receive Realtime Notifications for your Mention Streams here in Microsoft Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Streem",
+        "version": "1.0.0",
+        "modifiedDate": "8/2/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "News + Weather"
+        ]
+    },
+    {
+        "id": "WA200000249",
+        "title": "Atomist",
+        "description": "Get actionable alerts and control delivery in one place.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Atomist",
+        "version": "1.0.0",
+        "modifiedDate": "1/1/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000383",
+        "title": "Text",
+        "description": "Text Bot allows text, SMS, & MMS messages into and out of Microsoft Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Approved Contact",
+        "version": "1.0",
+        "modifiedDate": "8/7/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Marketing",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA200000708",
+        "title": "ASC Recording Insights",
+        "description": "Get the most out of voice or video recordings",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "ASC Technologies AG",
+        "version": "1.0.0",
+        "modifiedDate": "10/7/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "File Managers",
+            "Site Design"
+        ]
+    },
+    {
+        "id": "WA200000716",
+        "title": "Myfone",
+        "description": "H\u00e5ndter dine telefonopkald i Teams, og f\u00e5 overblik over dine kolleger.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Flexfone A/S",
+        "version": "1.0.2",
+        "modifiedDate": "10/25/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000725",
+        "title": "Alli",
+        "description": "Alli helps business resolve employee's questions automatically by NLU AI",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Allganize, Inc",
+        "version": "1.0.0",
+        "modifiedDate": "10/2/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000726",
+        "title": "MyHub",
+        "description": "Easily request and manage Microsoft Teams, Groups, and Sites in Office 365.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "AvePoint Inc.",
+        "version": "1.0.4",
+        "modifiedDate": "10/11/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000738",
+        "title": "Kno2",
+        "description": "Retrieve, send and collaborate on patient records in real-time from your Teams window",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Kno2",
+        "version": "1.0.0",
+        "modifiedDate": "8/30/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Operations + supply chain"
+        ]
+    },
+    {
+        "id": "WA200000765",
+        "title": "bob HR",
+        "description": "Stay up-to-date on company events, manage attendance and get to know co-workers.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Hibob LTD",
+        "version": "1.0.3",
+        "modifiedDate": "10/10/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000766",
+        "title": "AMION",
+        "description": "AMION Physician Scheduling",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Amion",
+        "version": "1.0.0",
+        "modifiedDate": "11/5/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Operations + supply chain"
+        ]
+    },
+    {
+        "id": "WA200001061",
+        "title": "Talentsoft for Teams",
+        "description": "Talentsoft for Teams, your day to day companion on your HR journey",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Talentsoft SA",
+        "version": "1.0.0",
+        "modifiedDate": "1/6/2020",
+        "categories": [
+            "Teams",
+            "Human resources"
+        ]
+    },
+    {
+        "id": "WA200000147",
+        "title": "Rabibo - \u53d7\u4ed8\u901a\u77e5\u30c1\u30e3\u30c3\u30c8\u30dc\u30c3\u30c8",
+        "description": "\u6765\u8a2a\u53d7\u4ed8\u901a\u77e5\u7528\u306e\u30c1\u30e3\u30c3\u30c8\u30dc\u30c3\u30c8\u3067\u3059\u3002Microsoft Teams\u306b\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3059\u308b\u3053\u3068\u3067Rabibo\u304c\u53d7\u4ed8\u696d\u52d9\u306e\u30b5\u30dd\u30fc\u30c8\u3092\u3057\u307e\u3059\u3002",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "ABCD Partners",
+        "version": "1.0.0",
+        "modifiedDate": "6/1/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001175",
+        "title": "LeaveBot",
+        "description": " Employee Leave Management Application",
+        "reviewCount": 3,
+        "ratingValue": 3.7,
+        "offer": "free",
+        "publisher": "Techno Brain Group",
+        "version": "1.0.0",
+        "modifiedDate": "1/13/2020",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Utilities",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA200000070",
+        "title": "Envoy",
+        "description": "Envoy helps you handle everything that comes through your office front door.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Envoy",
+        "version": "1.0.0",
+        "modifiedDate": "4/5/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA200001015",
+        "title": "LumApps - Share Teams messages",
+        "description": "Create a LumApps post from a Teams messages in a couple of clicks",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "LumApps",
+        "version": "1.0.0",
+        "modifiedDate": "12/16/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Social"
+        ]
+    },
+    {
+        "id": "WA200000743",
+        "title": "Google Analytics Insights",
+        "description": "Monitor your business 24x7 with real-time alert and scheduled alerts for Google Analytics",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "FreevolutLTD",
+        "version": "1.0.0",
+        "modifiedDate": "11/2/2019",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Marketing",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA200000679",
+        "title": "aulaPlaneta",
+        "description": "Agrega tus unidades de aulaPlaneta a Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Grupo Planeta",
+        "version": "1.0.0",
+        "modifiedDate": "10/10/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381258",
+        "title": "Sociabble",
+        "description": "Showcase content and amplify reach through employee advocacy.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Sociabble",
+        "version": "1.0",
+        "modifiedDate": "9/28/2017",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Social"
+        ]
+    },
+    {
+        "id": "WA104381433",
+        "title": "Q",
+        "description": "Timely business news about your customers, selected for you by AI.",
+        "reviewCount": 3,
+        "ratingValue": 1.7,
+        "offer": "free",
+        "publisher": "ModuleQ",
+        "version": "2.2.1",
+        "modifiedDate": "10/21/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381395",
+        "title": "Tasks in a Box for Teams",
+        "description": "Streamline your meetings, boost your projects",
+        "reviewCount": 14,
+        "ratingValue": 4.7,
+        "offer": "free",
+        "publisher": "Spikes NV.",
+        "version": "1.0.6",
+        "modifiedDate": "8/7/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381572",
+        "title": "Satismeter",
+        "description": "Collect customer feedback to reduce churn and accelerate growth.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA104381585",
+        "title": "OpBeat",
+        "description": "Pinpoint performance issues.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381592",
+        "title": "StatusPage.io",
+        "description": "Track and communicate about downtime issues with your customers.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381591",
+        "title": "TestFairy",
+        "description": "Test mobile apps and retrace events that precipitate errors.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381594",
+        "title": "WebEngage",
+        "description": "Multi-channel user engagement platform.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381353",
+        "title": "Cellip 365 Response Group",
+        "description": "Get notification from your Cellip response group.",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Cellip",
+        "version": "1.0",
+        "modifiedDate": "11/20/2017",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381664",
+        "title": "Woobot",
+        "description": "Woobot connects your teams with their important Salesforce data so they can get things done.",
+        "reviewCount": 2,
+        "ratingValue": 4.5,
+        "offer": "free",
+        "publisher": "Woobot.io",
+        "version": "1.1.8",
+        "modifiedDate": "5/1/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Operations + supply chain",
+            "Sales",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA104381819",
+        "title": "AI\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30dc\u30c3\u30c8",
+        "description": "AI Assictant Bot is a Chatbot that supports schedule management etc as your personal assistant.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "TIS Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "10/4/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381933",
+        "title": "Qubie - team improvement app",
+        "description": "Improve team performance with real time feedback",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Questback",
+        "version": "2.2",
+        "modifiedDate": "11/19/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381962",
+        "title": "Kaltura Video",
+        "description": "Integrate your Kaltura Video capabilities directly into Microsoft Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Kaltura, Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "11/22/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Training + Tutorial"
+        ]
+    },
+    {
+        "id": "WA104382005",
+        "title": "Priority Matrix",
+        "description": "Free project management app to help teams prioritize better and truly focus on high-impact tasks.",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Appfluence Inc",
+        "version": "1.0.22",
+        "modifiedDate": "11/30/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000103",
+        "title": "Projectplace for Teams",
+        "description": "Work with Projectplace in Microsoft Teams.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Planview, Inc.",
+        "version": "1.0.2",
+        "modifiedDate": "5/21/2019",
+        "categories": [
+            "Teams",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000104",
+        "title": "POEditor",
+        "description": "Integrate POEditor with Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "POEditor",
+        "version": "1.0.10",
+        "modifiedDate": "6/19/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Content Management",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000174",
+        "title": "ScheduleLook",
+        "description": "ScheduleLook\u306f\u3001Teams\u306e\u30c1\u30fc\u30e0\u306b\u6240\u5c5e\u3059\u308b\u30e1\u30f3\u30d0\u30fc\u306e\u4e88\u5b9a\u3092\u3001\u4e00\u89a7\u3067\u53c2\u7167\u3067\u304d\u308b\u6a5f\u80fd\u3067\u3059\u3002",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "\u682a\u5f0f\u4f1a\u793e\u30d3\u30fc\u30d3\u30fc\u30b7\u30b9\u30c6\u30e0",
+        "version": "1.0.1",
+        "modifiedDate": "7/18/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000177",
+        "title": "Pear Deck",
+        "description": "Add formative assessments and activities to lessons and presentations",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Pear Deck",
+        "version": "1.0.0",
+        "modifiedDate": "8/6/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000644",
+        "title": "Azure Boards for Microsoft Teams",
+        "description": "Monitor and collaborate on existing work items and create new work items.",
+        "reviewCount": 4,
+        "ratingValue": 4.3,
+        "offer": "free",
+        "publisher": "Microsoft Corporation",
+        "version": "1.0",
+        "modifiedDate": "9/27/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000666",
+        "title": "ClickUp",
+        "description": "ClickUp is a productivity platform that provides a fundamentally new way to work",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "ClickUp",
+        "version": "1.0.2",
+        "modifiedDate": "9/10/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104382057",
+        "title": "Squigl for Teams",
+        "description": "Convert  your message to Squigl video",
+        "reviewCount": 6,
+        "ratingValue": 4.3,
+        "offer": "free",
+        "publisher": "Squigl",
+        "version": "1.0.0",
+        "modifiedDate": "2/14/2019",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Productivity",
+            "Sales",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000874",
+        "title": "Bizfone",
+        "description": "H\u00e5ndter dine telefonopkald i Teams, og f\u00e5 overblik over dine kolleger.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "MobiKOM",
+        "version": "1.0.2",
+        "modifiedDate": "11/22/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001113",
+        "title": "Gemini Connected",
+        "description": "A solution for managing the progress of infrastructure projects",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Powel AS",
+        "version": "1.0.0",
+        "modifiedDate": "1/1/2020",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001128",
+        "title": "MSPBots",
+        "description": "MSPbots is an RPA (Robotic Process Automation) tool designed for Managed Service Providers.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Jexet Technologies LLC",
+        "version": "1.1.10",
+        "modifiedDate": "1/7/2020",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Operations + supply chain",
+            "Productivity",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA200001148",
+        "title": "Nimble Contacts",
+        "description": "Access actionable contact data and interaction history from Microsoft Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Nimble Inc.",
+        "version": "1.1",
+        "modifiedDate": "12/30/2019",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Productivity",
+            "Sales",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA200001174",
+        "title": "SmartDB",
+        "description": "Cloud services that digitize operations for large companies",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Dreamarts Corp.",
+        "version": "1.0.0",
+        "modifiedDate": "12/25/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104382045",
+        "title": "Microsoft Dynamics 365 for Teams",
+        "description": "Collaborate on Dynamics 365, share files, and easily get info via chat.",
+        "reviewCount": 3,
+        "ratingValue": 4.3,
+        "offer": "free",
+        "publisher": "Microsoft Corporation",
+        "version": "1.0.0.1034",
+        "modifiedDate": "4/26/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA104381415",
+        "title": "Quizlet",
+        "description": "Search, share and study Quizlet sets right within Teams",
+        "reviewCount": 10,
+        "ratingValue": 4.6,
+        "offer": "free",
+        "publisher": "Quizlet",
+        "version": "1.0.0",
+        "modifiedDate": "1/15/2018",
+        "categories": [
+            "Teams",
+            "Training + Tutorial",
+            "Utilities",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381965",
+        "title": "elmah.io",
+        "description": "Post a new chat message to Microsoft Teams when errors occur on elmah.io.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "elmah io",
+        "version": "1.0.1",
+        "modifiedDate": "11/16/2018",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104381491",
+        "title": "BlueBridge Glossary",
+        "description": "Easily add, retrieve and browse important project- or team-related terms and their definitions.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "BlueBridge Technologies AG",
+        "version": "1.0.0",
+        "modifiedDate": "3/12/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Content Management",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381607",
+        "title": "RememberThis",
+        "description": "Set time-based reminders on important conversations.",
+        "reviewCount": 8,
+        "ratingValue": 2.1,
+        "offer": "free",
+        "publisher": "Tom Morgan",
+        "version": "1.0.0",
+        "modifiedDate": "4/23/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381623",
+        "title": "SignEasy: Sign Documents & Request Signatures",
+        "description": "SignEasy: Sign documents or request signatures within Microsoft Teams",
+        "reviewCount": 4,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "Glykka LLC",
+        "version": "1.3",
+        "modifiedDate": "4/30/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Operations + supply chain",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381548",
+        "title": "PagerDuty",
+        "description": "Track and manage incidents, and define escalation policies.",
+        "reviewCount": 2,
+        "ratingValue": 4.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381549",
+        "title": "Twitter",
+        "description": "Send and receive messages called Tweets.",
+        "reviewCount": 2,
+        "ratingValue": 2.5,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "News + Weather",
+            "Social"
+        ]
+    },
+    {
+        "id": "WA104381604",
+        "title": "Cloud 66",
+        "description": "Build, deploy, and manage applications.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/26/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381085",
+        "title": "SecretaryBot",
+        "description": "Help you to arrange 1:1 and team meeting.",
+        "reviewCount": 2,
+        "ratingValue": 2.5,
+        "offer": "free",
+        "publisher": "MySecretary",
+        "version": "1.0.1",
+        "modifiedDate": "9/30/2017",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104381357",
+        "title": "iCliniq MD",
+        "description": "Get medical second opinion to your health queries from doctors on iCliniq.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "iCliniq",
+        "version": "1.2.2",
+        "modifiedDate": "11/16/2017",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Reference"
+        ]
+    },
+    {
+        "id": "WA104381669",
+        "title": "Ruum by SAP",
+        "description": "Ruum takes over project management and enables teams to deliver at their best.",
+        "reviewCount": 4,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "Ruum by SAP",
+        "version": "1.0",
+        "modifiedDate": "5/30/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381672",
+        "title": "Lifeliqe",
+        "description": "Search for interactive 3D models",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "LifeLiQe",
+        "version": "1.0.1",
+        "modifiedDate": "6/18/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381391",
+        "title": "Pickit Images for Teams",
+        "description": "Simplify your workflow with easy access to over a million images in Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Pickit",
+        "version": "2.0.0",
+        "modifiedDate": "12/18/2017",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Productivity",
+            "Sales",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA104381622",
+        "title": "Bonusly",
+        "description": "Spark frequent and timely recognition by integrating Bonusly with MS Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Bonusly",
+        "version": "1.1.0",
+        "modifiedDate": "5/9/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381561",
+        "title": "Beeminder",
+        "description": "Keep your long-term goals in focus.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/26/2018",
+        "categories": [
+            "Teams",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381547",
+        "title": "MailChimp",
+        "description": "Manage contacts and send email messages to subscribers.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381586",
+        "title": "Papertrail",
+        "description": "Track and manage incidents and downtime issues.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381588",
+        "title": "CircleCI",
+        "description": "Build, test, and deploy software continuously.",
+        "reviewCount": 2,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/26/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381595",
+        "title": "AppSignal",
+        "description": "Track throughput, response times, and error rates in your apps.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "5/1/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381602",
+        "title": "Rollbar",
+        "description": "Full-stack error monitoring for developers",
+        "reviewCount": 1,
+        "ratingValue": 2.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381174",
+        "title": "Egnyte for Microsoft Teams",
+        "description": "Easy view, access and share your Egnyte managed content right from within Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Egnyte, Inc.",
+        "version": "1.2.0",
+        "modifiedDate": "8/17/2017",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA104381362",
+        "title": "Freehand by InVision",
+        "description": "Draw, plan, and collaborate with your team on an infinite whiteboard - in real time.",
+        "reviewCount": 1,
+        "ratingValue": 4.0,
+        "offer": "free",
+        "publisher": "InVisionApp Inc.",
+        "version": "1.1.0",
+        "modifiedDate": "1/5/2018",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381801",
+        "title": "Marvel - Design Collaboration for your team",
+        "description": "Marvel - Wireframe, Design and Prototyping for everyone",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Marvelapp",
+        "version": "1.0.0",
+        "modifiedDate": "6/25/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381744",
+        "title": "InfoMentor Teacher Collaborator",
+        "description": "Collaborate with other teachers about InfoMentor teaching material.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "InfoMentor",
+        "version": "1.0.0",
+        "modifiedDate": "8/2/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381756",
+        "title": "OfficeAmp",
+        "description": "Your internal help desk bot",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Anaek",
+        "version": "1.0",
+        "modifiedDate": "7/16/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381759",
+        "title": "Unikum - Embed content",
+        "description": "Embed content from Unikum.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Unikum",
+        "version": "1.0.0",
+        "modifiedDate": "8/7/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104382040",
+        "title": "Formida",
+        "description": "Formative feedback and assessment - at the click of a button!",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "NE",
+        "version": "1.0.0",
+        "modifiedDate": "2/25/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104382060",
+        "title": "Yammer for Teams",
+        "description": "Empower engagement and collaboration in your organization through conversations and communities.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Microsoft Corporation",
+        "version": "1.2.1",
+        "modifiedDate": "3/12/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Social"
+        ]
+    },
+    {
+        "id": "WA200000076",
+        "title": "OK Roger",
+        "description": "Personal Assistant for Business Travellers",
+        "reviewCount": 3,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "OK Roger Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "4/17/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000093",
+        "title": "Hive",
+        "description": "Hive empowers your team collaborate more effectively",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Hive Technology, Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "5/29/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000159",
+        "title": "Enabling Studio",
+        "description": "A customizable webchat app for your website that fits your business processes",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Enabling Studio Inc",
+        "version": "1.0.0",
+        "modifiedDate": "5/15/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Marketing",
+            "Operations + supply chain",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA200000179",
+        "title": "Avaya Assistant",
+        "description": "Start or join your Avaya Spaces or Equinox meeting",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Avaya, Inc.",
+        "version": "1.0.40",
+        "modifiedDate": "7/7/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000440",
+        "title": "Live Chat",
+        "description": "Chat with your website visitors right from your team.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Social Intents",
+        "version": "1.0.7",
+        "modifiedDate": "9/5/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Marketing",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA200000474",
+        "title": "Lifesize for Teams",
+        "description": "Create, schedule and join Lifesize video meetings directly from Microsoft Teams",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Lifesize Inc.",
+        "version": "1.0.3",
+        "modifiedDate": "8/15/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000510",
+        "title": "Highfive Video Conferencing",
+        "description": "Highfive Video Conferencing for Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Highfive Video Conferencing",
+        "version": "2.76.0.78",
+        "modifiedDate": "9/19/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000285",
+        "title": "Quote Master",
+        "description": "Quote and reply to messages with just a couple of clicks!",
+        "reviewCount": 7,
+        "ratingValue": 4.0,
+        "offer": "free",
+        "publisher": "SYSTEMZ LLC",
+        "version": "1.0.12",
+        "modifiedDate": "8/9/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000723",
+        "title": "Pegg",
+        "description": "Pegg is the smart digital assistant from Sage",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Sage Global Services (CoE)",
+        "version": "1.1.0",
+        "modifiedDate": "10/25/2019",
+        "categories": [
+            "Teams",
+            "Finance",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000798",
+        "title": "Listy",
+        "description": "Listy is a Flexible tool for creating and sharing lists - Subscription required after free trial",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Information Age Technologies, Inc.",
+        "version": "1.0.1",
+        "modifiedDate": "9/13/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Reference",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA200000962",
+        "title": "Jive Communications",
+        "description": "Enables Jive users to get voicemail notifications and initiate calls with Jive",
+        "reviewCount": 3,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "LogMeIn Inc.",
+        "version": "1.2.0",
+        "modifiedDate": "12/5/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001037",
+        "title": "SmarterTour",
+        "description": "SmarterTour provides guided and interactive tours through Teams so users can easily learn how to use",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Pokeshot Headquarter",
+        "version": "1.2",
+        "modifiedDate": "12/10/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Training + Tutorial",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA200001112",
+        "title": "KUDO Meetings",
+        "description": "KUDO enables businesses to communicate globally in multiple languages.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "KUDO, Inc.",
+        "version": "1.0",
+        "modifiedDate": "12/23/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381768",
+        "title": "POPin",
+        "description": "Ask a question to get anonymous feedback from your team.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "POPin",
+        "version": "2.0.0",
+        "modifiedDate": "8/15/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200001224",
+        "title": "Jinie",
+        "description": "Jinie is an AI based Chat Bot serving as  HR buddy for the users.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Peoplestrong Hr Services Pvt Ltd",
+        "version": "1.0.1",
+        "modifiedDate": "1/7/2020",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "News + Weather",
+            "Professional services",
+            "Retail"
+        ]
+    },
+    {
+        "id": "WA104381576",
+        "title": "Librato",
+        "description": "Collect metrics about your application stack in a dashboard.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381640",
+        "title": "Karma",
+        "description": "In-chat peer engagement and recognition system",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Sliday LTD",
+        "version": "1.4.8",
+        "modifiedDate": "5/25/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381569",
+        "title": "Semaphore",
+        "description": "Hosted continuous integration and deployment",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381552",
+        "title": "GitHub Enterprise",
+        "description": "Manage and collaborate on code projects hosted on a GitHub Enterprise instance.",
+        "reviewCount": 2,
+        "ratingValue": 4.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381597",
+        "title": "Wikipedia Search",
+        "description": "Share articles from Wikipedia.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Corporation",
+        "version": "1.1",
+        "modifiedDate": "4/26/2018",
+        "categories": [
+            "Teams",
+            "Reference",
+            "Site Design",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381615",
+        "title": "SIMON \u2013 Microsoft Cloud Management",
+        "description": "SIMON is an AI chatbot that helps IT Ops manage their Microsoft cloud services.",
+        "reviewCount": 4,
+        "ratingValue": 4.0,
+        "offer": "free",
+        "publisher": "Lumagate Inc",
+        "version": "1.0.3",
+        "modifiedDate": "3/6/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104381467",
+        "title": "LMS365 for Teams",
+        "description": "LMS365 for Teams delivers LMS365 Training Courses inside your Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "ELEARNINGFORCE",
+        "version": "1.0.0.0",
+        "modifiedDate": "2/23/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Training + Tutorial"
+        ]
+    },
+    {
+        "id": "WA104381505",
+        "title": "Freshdesk",
+        "description": "Receive instant ticket updates from the Freshdesk bot.",
+        "reviewCount": 6,
+        "ratingValue": 2.5,
+        "offer": "free",
+        "publisher": "Freshworks INC",
+        "version": "1.0.0",
+        "modifiedDate": "3/14/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA104381435",
+        "title": "Cisco Webex Meetings",
+        "description": "Start or join Cisco Webex meetings directly from Microsoft Teams.",
+        "reviewCount": 83,
+        "ratingValue": 3.1,
+        "offer": "free",
+        "publisher": "Cisco WebEx",
+        "version": "2.0.0",
+        "modifiedDate": "10/30/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381253",
+        "title": "Talla",
+        "description": "Talla Brings AI-Powered Automation to Service and Support Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Talla",
+        "version": "1.0.3",
+        "modifiedDate": "6/22/2017",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Operations + supply chain",
+            "Sales",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA104381219",
+        "title": "AtBot - Trainable Workplace Assistant",
+        "description": "Build conversational UIs quickly, no coding experience needed!",
+        "reviewCount": 3,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "H3 Solutions",
+        "version": "2.0.1",
+        "modifiedDate": "9/22/2017",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104381599",
+        "title": "Workboard for Active Strategy Management",
+        "description": "Iterate and Achieve Strategic Priorities Faster",
+        "reviewCount": 5,
+        "ratingValue": 4.2,
+        "offer": "free",
+        "publisher": "Workboard Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "4/17/2018",
+        "categories": [
+            "Teams",
+            "Finance",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381554",
+        "title": "do!attach",
+        "description": "Cloud conference room that can be used in conjunction with conversations, schedule, Skype.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Digital Office Inc.",
+        "version": "1.0",
+        "modifiedDate": "4/25/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000643",
+        "title": "Azure Repos for Microsoft Teams",
+        "description": "Monitor pull request activity in your Azure Repos repository.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Corporation",
+        "version": "1.0",
+        "modifiedDate": "9/27/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381886",
+        "title": "Workfront",
+        "description": "Workfront for Microsoft Teams combines modern work management with your hub for teamwork.",
+        "reviewCount": 4,
+        "ratingValue": 2.3,
+        "offer": "free",
+        "publisher": "Workfront Inc.",
+        "version": "1.1.0",
+        "modifiedDate": "11/6/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381887",
+        "title": "AppFollow: Review Monitor",
+        "description": "Track your application reviews and reply to them from Microsoft Teams with AppFollow.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Appfllow",
+        "version": "2.0.0",
+        "modifiedDate": "9/17/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Marketing",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381994",
+        "title": "Kiwi - Reporting Automation for Tableau",
+        "description": "Connect Tableau with MS Teams and receive automated updates from Tableau",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Kiwimydata",
+        "version": "1.0.7",
+        "modifiedDate": "10/15/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Marketing",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381383",
+        "title": "Axure Share",
+        "description": "Get updates for your Axure Share projects",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Axure",
+        "version": "1.0",
+        "modifiedDate": "1/23/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381450",
+        "title": "Lunchbreak",
+        "description": "Make trips to your favourite lunch place more efficient by sharing a car ride with your work mates.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Tudor Oprea",
+        "version": "1.0.0",
+        "modifiedDate": "2/15/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381562",
+        "title": "Airbrake",
+        "description": "Captures errors and aggregates the results for developer review.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "4/26/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381582",
+        "title": "Crashlytics",
+        "description": "Track errors in mobile apps.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/27/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381652",
+        "title": "AttendanceBot",
+        "description": "Modern HR, time tracking, leave management, shift planning & attendance tracking for Microsoft Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Anaek",
+        "version": "1.0.2",
+        "modifiedDate": "3/1/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104381656",
+        "title": "LawToolBox Deadline & Matter Management for Teams",
+        "description": "Click \u201cGet it Now\u201d to try before you buy - Transforms Microsoft 365 into Office for Legal",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "LawToolBox.com Inc.",
+        "version": "1.0.1",
+        "modifiedDate": "9/5/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Site Design"
+        ]
+    },
+    {
+        "id": "WA104381088",
+        "title": "SurveyMonkey: Surveys for Teams",
+        "description": "Seamlessly collaborate to create, send, and view results from surveys and polls.",
+        "reviewCount": 2,
+        "ratingValue": 2.5,
+        "offer": "free",
+        "publisher": "SurveyMonkey",
+        "version": "1.12",
+        "modifiedDate": "7/6/2017",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381060",
+        "title": "Polly",
+        "description": "Create instant polls with live results for your team with Polly! Mention @polly to get started.",
+        "reviewCount": 8,
+        "ratingValue": 4.0,
+        "offer": "free",
+        "publisher": "Polly",
+        "version": "1.2.0",
+        "modifiedDate": "6/22/2017",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104381116",
+        "title": "MindMeister - Mind Mapping for Teams",
+        "description": "Create mind maps to brainstorm and plan with your collaborators in real-time",
+        "reviewCount": 26,
+        "ratingValue": 2.9,
+        "offer": "free",
+        "publisher": "MeisterLabs GmbH",
+        "version": "3.2.0",
+        "modifiedDate": "5/21/2019",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381671",
+        "title": "RSpace electronic lab notebook",
+        "description": "Add RSpace ELN documents to a tab for easy access by your team.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "ResearchSpace",
+        "version": "1.0.4",
+        "modifiedDate": "6/8/2018",
+        "categories": [
+            "Teams",
+            "Content Management",
+            "Project Management",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381729",
+        "title": "TINYpulse",
+        "description": "Responding to pulse surveys is easier than ever with the TINYpulse app for Teams.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "TINYpulse",
+        "version": "1.1.0",
+        "modifiedDate": "5/29/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381784",
+        "title": "GlobalMeet",
+        "description": "Start, join, and share GlobalMeet\u00ae meetings",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Premiere Global Services",
+        "version": "5.14.0",
+        "modifiedDate": "7/27/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381883",
+        "title": "AvePoint\u2019s Virtual Assistant",
+        "description": "AVA, AvePoint\u2019s Virtual Assistant, helping users find lost content",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "AvePoint Inc.",
+        "version": "1.1.3",
+        "modifiedDate": "6/10/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104382021",
+        "title": "Staffbase News",
+        "description": "Receive news from your Staffbase app",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Staffbase",
+        "version": "1.0.0",
+        "modifiedDate": "1/11/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA200000038",
+        "title": "JogNog",
+        "description": "Challenges students to learn state standards by playing our review quizzes",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "G7 Research LLC",
+        "version": "1.0",
+        "modifiedDate": "4/26/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000080",
+        "title": "InformaCast",
+        "description": "Send and receive mass notifications",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Singlewire Software",
+        "version": "1.1.0",
+        "modifiedDate": "5/22/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000102",
+        "title": "Dynamic Signal",
+        "description": "Send content from the Dynamic Signal platform to your employees in Microsoft Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Dynamic Signal Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "6/12/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Social"
+        ]
+    },
+    {
+        "id": "WA200000188",
+        "title": "Zoho Sprints for Teams",
+        "description": "Planning and tracking tool for agile teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "1.0",
+        "modifiedDate": "7/17/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000307",
+        "title": "Luware Stratus Team",
+        "description": "An intelligent routing engine in the cloud which automatically manages incoming calls",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Luware",
+        "version": "1.0.7",
+        "modifiedDate": "8/16/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Marketing",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA200000367",
+        "title": "Seismic for Teams",
+        "description": "Search for and add content into your conversations and always stay up-to-date on the latest content",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "www.seismic.com",
+        "version": "1.0.1",
+        "modifiedDate": "8/29/2019",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Sales",
+            "Content Management",
+            "Training + Tutorial"
+        ]
+    },
+    {
+        "id": "WA200000409",
+        "title": "Upwave",
+        "description": "Organize, plan, track, collaborate and get things done with visual boards.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Upwave",
+        "version": "1.3.2",
+        "modifiedDate": "6/26/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000650",
+        "title": "Ment.io",
+        "description": "The decision making platform that empowers teams to make faster, transparent and reliable decisions",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Epistema",
+        "version": "1.0.0",
+        "modifiedDate": "10/2/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000677",
+        "title": "Beedle",
+        "description": "Create plans, manage your class, register comments and share content.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "InfoMentor",
+        "version": "1.2.0",
+        "modifiedDate": "1/6/2020",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000714",
+        "title": "SharePoint|sapiens Event Management for Teams",
+        "description": "Connects your teams with your SharePoint|sapiens Event Management sites.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "SharePointSapiens",
+        "version": "1.5.0",
+        "modifiedDate": "10/4/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Marketing",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA200000744",
+        "title": "EasyIQ",
+        "description": "EasyIQ SkolePortal l\u00e6ringsplatform med opgave/afleveringer.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "EasyIQ",
+        "version": "1.1",
+        "modifiedDate": "7/1/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000755",
+        "title": "Slido Q&A",
+        "description": "The simplest way to add Q&A to your Teams channel.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Slido",
+        "version": "1.1.0",
+        "modifiedDate": "11/5/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000757",
+        "title": "ServiceBot",
+        "description": "Get all the critical updates from your service desk with ServiceBot",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Freshworks INC",
+        "version": "1.0.0",
+        "modifiedDate": "10/17/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381741",
+        "title": "SignalFx",
+        "description": "Share dashboards and receive real-time alerts from SignalFx.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "SignalFx",
+        "version": "2.0.0",
+        "modifiedDate": "11/12/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000800",
+        "title": "MackeyRMS",
+        "description": "MackeyRMS bot allows for seamless two-way integration between MackeyRMS and MS Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "MackeyRMS",
+        "version": "1.0.0",
+        "modifiedDate": "8/28/2019",
+        "categories": [
+            "Teams",
+            "Finance",
+            "Operations + supply chain"
+        ]
+    },
+    {
+        "id": "WA200000840",
+        "title": "NE",
+        "description": "Anv\u00e4nd NE: digitala kunskapstj\u00e4nster f\u00f6r att hitta, dela och samarbeta med ditt team.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "NE",
+        "version": "1.1.0",
+        "modifiedDate": "11/21/2019",
+        "categories": [
+            "Teams",
+            "Site Design",
+            "Training + Tutorial",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000887",
+        "title": "Tasks",
+        "description": "Effectively create tasks right from Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Awara IT",
+        "version": "1.0",
+        "modifiedDate": "11/28/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000961",
+        "title": "Markup.Law",
+        "description": "Privately redline and collaborate on legislation in Microsoft Word & Microsoft Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Markup.law",
+        "version": "1.0.4",
+        "modifiedDate": "12/10/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "File Managers",
+            "Reference"
+        ]
+    },
+    {
+        "id": "WA200001024",
+        "title": "iObeya",
+        "description": "iObeya unleashes the power of Visual Management for Lean and Agile enterprises",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "KAP IT",
+        "version": "1.0.0",
+        "modifiedDate": "12/9/2019",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200001048",
+        "title": "TD Assignments for Teacher Dashboard",
+        "description": "TD Assignments frees you up to do what matters most - teaching",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Axis12 Ltd",
+        "version": "1.0.7",
+        "modifiedDate": "2/14/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200001104",
+        "title": "NewCOS - Governance",
+        "description": "Automatizaci\u00f3n del gobierno y cumplimiento de pol\u00edticas en Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Newtech Solutions Multimedia",
+        "version": "1.0.1",
+        "modifiedDate": "1/3/2020",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA200001117",
+        "title": "do!book",
+        "description": "\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\u3092\u7d20\u65e9\u304f\u306b\u898b\u308c\u308b\u3002\u63a2\u305b\u308b\u3002",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Digital Office Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "12/24/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001182",
+        "title": "Clever Google Ads",
+        "description": "Clever Google Ads is the easiest way to link Google Ads with Microsoft Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Clever Ads",
+        "version": "1.0",
+        "modifiedDate": "1/13/2020",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Marketing",
+            "Productivity",
+            "Sales",
+            "Financial services",
+            "Retail"
+        ]
+    },
+    {
+        "id": "WA200000803",
+        "title": "Capturi",
+        "description": "Share details from your meetings with your team.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Capturi A/S",
+        "version": "1.0.0",
+        "modifiedDate": "9/26/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001217",
+        "title": "FormMachines for Teams",
+        "description": "Easily create powerful, enterprise-grade forms in Teams with FormMachines!",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "ENTERPRISE DIGITAL MACHINES PTY LTD",
+        "version": "1.0.0",
+        "modifiedDate": "1/23/2020",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104382084",
+        "title": "Simple In/Out",
+        "description": "The most accurate in/out board ever created.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Simply Made Apps",
+        "version": "1.2",
+        "modifiedDate": "3/19/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001207",
+        "title": "Aktivlearn Plus",
+        "description": "Aktivlearn Plus is a learning experience platform for all Assessment and Development requirements",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "KNOLSKAPE Solutions",
+        "version": "1.0.0",
+        "modifiedDate": "1/22/2020",
+        "categories": [
+            "Teams",
+            "Training + Tutorial",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104382085",
+        "title": "TaskList",
+        "description": "A shared task manager for your team",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "LimeStat, Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "3/22/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000201",
+        "title": "MetKnow",
+        "description": "Learn your coworkers\u2019 name and fun facts through flashcards and quizzes.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "MetKnow",
+        "version": "1.0.0",
+        "modifiedDate": "6/25/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources"
+        ]
+    },
+    {
+        "id": "WA200001186",
+        "title": "sybo",
+        "description": "\u4e09\u6b65\u4ee5\u5167\uff0csybo\u6a5f\u5668\u4eba\u5e6b\u60a8\u5b8c\u6210\u6703\u8b70\u7528\u8cc7\u6e90\u9810\u7d04",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "SystexSoftware_AppSource",
+        "version": "1.0.0",
+        "modifiedDate": "1/15/2020",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA200001149",
+        "title": "SmartWork",
+        "description": "SmartWork is a Conversational AI for convenience operation of Office 365",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Intumit Inc.",
+        "version": "1.0.1",
+        "modifiedDate": "1/8/2020",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Training + Tutorial"
+        ]
+    },
+    {
+        "id": "WA200001146",
+        "title": "Insight HR",
+        "description": "Get relevant information and on time about your workforce",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Grupo Sega",
+        "version": "1.0",
+        "modifiedDate": "1/8/2020",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA200001116",
+        "title": "Clarizen Go",
+        "description": "Clarizen Go helps you manage agile projects effectively and easily directly from Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Clarizen LTD.",
+        "version": "2.9.2",
+        "modifiedDate": "11/23/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000952",
+        "title": "metis sofie",
+        "description": "metis sofie\u3067\u4f1a\u8b70\u306e\u751f\u7523\u6027\u3092\u5411\u4e0a\u3055\u305b\u307e\u3057\u3087\u3046",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Japan Business Systems, Inc.",
+        "version": "1.0.2",
+        "modifiedDate": "12/4/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001116",
+        "title": "Clarizen Go",
+        "description": "Clarizen Go helps you manage agile projects effectively and easily directly from Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Clarizen LTD.",
+        "version": "2.9.2",
+        "modifiedDate": "11/23/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000952",
+        "title": "metis sofie",
+        "description": "metis sofie\u3067\u4f1a\u8b70\u306e\u751f\u7523\u6027\u3092\u5411\u4e0a\u3055\u305b\u307e\u3057\u3087\u3046",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Japan Business Systems, Inc.",
+        "version": "1.0.2",
+        "modifiedDate": "12/4/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000797",
+        "title": "Lobbipad Integration",
+        "description": "Get Lobbipad visitor notifications to Microsoft Teams chat",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "The Offix",
+        "version": "1.0.0",
+        "modifiedDate": "5/2/2019",
+        "categories": [
+            "Teams",
+            "Human resources"
+        ]
+    },
+    {
+        "id": "WA104381892",
+        "title": "Guidiance",
+        "description": "Easily create and share learnings - or use our learning library!",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Guidiance",
+        "version": "1.0.0",
+        "modifiedDate": "9/7/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Training + Tutorial",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000758",
+        "title": "Standup Alice",
+        "description": "Help you to effectively run daily stand-up meetings for Scrum teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Bao Le Duc",
+        "version": "1.0.0",
+        "modifiedDate": "6/18/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000742",
+        "title": "Wunder365 for Teams",
+        "description": "Wunder365 is an easy-to-use tool to get your projects done on Office 365",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "JiJi Technologies Private Limited",
+        "version": "1.0.0",
+        "modifiedDate": "7/3/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381289",
+        "title": "Site24x7",
+        "description": "Flexible uptime and performance monitoring from the cloud.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "3.0",
+        "modifiedDate": "4/3/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381501",
+        "title": "SoapBox",
+        "description": "Build collaborative meeting agendas and stay on top of next steps easily from within Microsoft Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "SoapBox",
+        "version": "1.2.0",
+        "modifiedDate": "3/8/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381568",
+        "title": "Promoter",
+        "description": "The most effective way to capture actionable customer feedback.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381565",
+        "title": "Bitbucket Server",
+        "description": "Manage and collaborate on your code projects.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/26/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381570",
+        "title": "OpsGenie",
+        "description": "Route critical alerts to the appropriate recipients.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.1",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381581",
+        "title": "Bugsnag",
+        "description": "Track errors in web and mobile apps.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/26/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381589",
+        "title": "UserVoice",
+        "description": "Collect new customer ideas, and track and respond to customers' problems.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "Collaboration"
+        ]
+    },
+    {
+        "id": "WA104381635",
+        "title": "Jibble - Time & Attendance Tracking",
+        "description": "Track time & attendance through simple commands with the Jibble bot for MS Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Jibble",
+        "version": "1.0.0",
+        "modifiedDate": "2/21/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Operations + supply chain",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381222",
+        "title": "Adobe Creative Cloud",
+        "description": "Creative work, meet teamwork.",
+        "reviewCount": 4,
+        "ratingValue": 4.0,
+        "offer": "free",
+        "publisher": "Adobe Inc.",
+        "version": "2.5.0.0",
+        "modifiedDate": "1/18/2018",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381496",
+        "title": "Crewhu: customer feedback + employee rewards",
+        "description": "View customer feedback, and give recognition badges & rewards, inside MS Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Crewhu LLC",
+        "version": "2.0.2",
+        "modifiedDate": "6/5/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA104381662",
+        "title": "Way We Do",
+        "description": "Easily find your Way We Do playbooks, policies, procedures and processes.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Way We Do",
+        "version": "1.0.0",
+        "modifiedDate": "5/22/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381718",
+        "title": "Droplr",
+        "description": "Create shared media tabs for your team. Markup images and leave feedback.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Droplr",
+        "version": "1.0.0",
+        "modifiedDate": "6/15/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381749",
+        "title": "Tonkean",
+        "description": "A.I. powered management platform",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Tonkean",
+        "version": "1.0.0",
+        "modifiedDate": "6/27/2018",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Operations + supply chain",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381866",
+        "title": "BlueJeans Meetings for Teams",
+        "description": "Start a BlueJeans video meeting",
+        "reviewCount": 1,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "BlueJeans Network",
+        "version": "1.0.0",
+        "modifiedDate": "11/1/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381906",
+        "title": "Miro (formerly RealtimeBoard)",
+        "description": "Get updates about all the changes on your Miro boards right in Microsoft Teams",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Realtimeboard Inc.",
+        "version": "2.0.1.2",
+        "modifiedDate": "9/13/2018",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000739",
+        "title": "Stack Overflow for Teams",
+        "description": "Quickly search and discover organizational knowledge within Microsoft Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Stack Overflow",
+        "version": "1.0.0",
+        "modifiedDate": "11/1/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA104381925",
+        "title": "CelliBot",
+        "description": "A bot that helps you send SMS, straight from your Microsoft Teams client!",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Cellip",
+        "version": "1.0.1",
+        "modifiedDate": "7/13/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381981",
+        "title": "BrainBot - Boost your learning",
+        "description": "BrainBot sends short, periodic interactions to help you retain knowledge from training courses.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Bigger Brains",
+        "version": "1.1.0",
+        "modifiedDate": "8/1/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Training + Tutorial",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104382013",
+        "title": "xMatters incident prevention",
+        "description": "Prevent, manage, and resolve IT issues by automating communication across your toolchains",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "xMatters Inc.",
+        "version": "1.0.3",
+        "modifiedDate": "11/30/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104382012",
+        "title": "ADP Virtual Assistant",
+        "description": "Enable your employees to access their own workforce information without leaving Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "ADP, LLC",
+        "version": "1.0.17",
+        "modifiedDate": "1/24/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104382015",
+        "title": "Givitas",
+        "description": "A knowledge collaboration platform that improves employee knowledge sharing",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Give and Take Inc.",
+        "version": "1.0.1",
+        "modifiedDate": "10/18/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104382079",
+        "title": "Anywhere365 inDialogue",
+        "description": "Enable supervisor capabilities for your Anywhere365 Contact Center",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "WORKSTREAMPEOPLE BV",
+        "version": "1.0.14",
+        "modifiedDate": "3/25/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000037",
+        "title": "ServiceDesk Plus Cloud for Microsoft Teams",
+        "description": "Leverage Microsoft Teams as an additional channel for your IT support with ServiceDesk Plus Cloud.",
+        "reviewCount": 3,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "1.0.0",
+        "modifiedDate": "4/22/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000055",
+        "title": "Azure Pipelines for Microsoft Teams",
+        "description": "An app to monitor Azure Pipelines from Microsoft Teams channels",
+        "reviewCount": 6,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "Microsoft Corporation",
+        "version": "1.1",
+        "modifiedDate": "5/6/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000077",
+        "title": "Digibook",
+        "description": "The aim of the Digibook is to provide a didactically valuable digital textbook for all subjects",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "MedienLB",
+        "version": "1.0.1",
+        "modifiedDate": "2/19/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000127",
+        "title": "Team O'clock - Scrum meetings",
+        "description": "A bot for starting planning poker estimations, retrospectives & daily standups.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Team O'clock",
+        "version": "1.2.0",
+        "modifiedDate": "7/1/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000153",
+        "title": "Wanda - Digital Assistant",
+        "description": "Wanda helps you take care of your most routine Business World tasks.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Unit4 People Platform",
+        "version": "1.0.0",
+        "modifiedDate": "2/20/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000178",
+        "title": "Josh Bersin Academy",
+        "description": "Bring HR learning into the flow of work and discuss HR topics with your team",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Nomadic Learning",
+        "version": "1.0.7",
+        "modifiedDate": "7/11/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Content Management",
+            "Training + Tutorial"
+        ]
+    },
+    {
+        "id": "WA200000514",
+        "title": "Buncee",
+        "description": "Unlock the power of creativity! Buncee is a tool for all your creation needs.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "buncee llc",
+        "version": "1.0.0",
+        "modifiedDate": "9/11/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Social",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000573",
+        "title": "Achievers",
+        "description": "Recognize colleagues in the Achievers platform without leaving Microsoft Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Achievers",
+        "version": "1.0.2",
+        "modifiedDate": "9/25/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000709",
+        "title": "Avochato - Two-way SMS Inbox for Teams",
+        "description": "Engagement platform to interact directly with prospects, customers, and employees via SMS",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Avochato Inc.",
+        "version": "1.0.1",
+        "modifiedDate": "10/31/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Marketing",
+            "Sales",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA200000756",
+        "title": "Zenduty - Incident management platform",
+        "description": "Manage your critical alerts, incidents and tickets from Teams channels",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "YellowAnt",
+        "version": "1.0.0",
+        "modifiedDate": "11/4/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Operations + supply chain"
+        ]
+    },
+    {
+        "id": "WA200000764",
+        "title": "Teams Manager",
+        "description": "Create new Teams based on complex, customizable templates with approval workflow",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Solutions2Share",
+        "version": "1.0.0",
+        "modifiedDate": "11/7/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA200000707",
+        "title": "AddressLook",
+        "description": "AddressLook\u306f\u3001\u7d44\u7e54\u306b\u6240\u5c5e\u3059\u308b\u30e6\u30fc\u30b6\u30fc\u3092\u968e\u5c64\u304b\u3089\u53c2\u7167\u30fb\u691c\u7d22\u3067\u304d\u308b\u6a5f\u80fd\u3067\u3059\u3002 \u9078\u629e\u3057\u305f\u30e6\u30fc\u30b6\u30fc\u306b\u5bfe\u3057\u3066\u3001\u4f1a\u8b70\u306e\u4f5c\u6210\u3084IM\u306e\u9001\u4fe1\u306a\u3069\u3092\u884c\u3046\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "\u682a\u5f0f\u4f1a\u793e\u30d3\u30fc\u30d3\u30fc\u30b7\u30b9\u30c6\u30e0",
+        "version": "1.0.0",
+        "modifiedDate": "10/25/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000802",
+        "title": "BA Insight for Enterprise Search",
+        "description": "Provide your organization access to the knowledge they need in Teams independent of where it resides",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "BAInsight",
+        "version": "1.0.0.3",
+        "modifiedDate": "11/13/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Site Design"
+        ]
+    },
+    {
+        "id": "WA200000873",
+        "title": "Merge EDU",
+        "description": "Share and interact with AR/VR activities from the Merge EDU Platform",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "MERGE",
+        "version": "1.0.8",
+        "modifiedDate": "11/21/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000877",
+        "title": "SWOOP Analytics",
+        "description": "Improve collaborative performance on Microsoft Teams with SWOOP Analytics.",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "SWOOP Analytics",
+        "version": "1.0.0",
+        "modifiedDate": "11/24/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000938",
+        "title": "Dynatrace Davis Assistant",
+        "description": "Get answers for actionable insight into your Dynatrace monitored environment.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Dynatrace LLC",
+        "version": "1.0.0",
+        "modifiedDate": "12/10/2019",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "IT + administration",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA200000940",
+        "title": "Joan",
+        "description": "Looking for a free meeting room? Joanbot will find it and book it for you.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Visionect",
+        "version": "1.0.16",
+        "modifiedDate": "11/7/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000972",
+        "title": "SkyCiv",
+        "description": "SkyCiv helps structural engineers review their 3D models, changes and comments in real time.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "SkyCiv Engineering",
+        "version": "1.0.0",
+        "modifiedDate": "12/11/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Operations + supply chain",
+            "Project Management",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA200001018",
+        "title": "Thanks",
+        "description": "Social rewards and recognition platform.",
+        "reviewCount": 5,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Kwench Global Technologies Pvt Ltd",
+        "version": "1.0.0",
+        "modifiedDate": "12/17/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Social",
+            "Professional services",
+            "Retail"
+        ]
+    },
+    {
+        "id": "WA200001036",
+        "title": "Marvin",
+        "description": "The Matrix42 Virtual Support Agent integration for Service Management.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Matrix42 MyWorkspace",
+        "version": "1.0.0",
+        "modifiedDate": "12/16/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001096",
+        "title": "S+ Helpdesk",
+        "description": "S+ Helpdesk is your Chatbot which can reduce IT team\u2019s effort to handle daily M365 or O365 questions",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "SOS Group Limited",
+        "version": "1.0.0",
+        "modifiedDate": "1/3/2020",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "IT + administration",
+            "Training + Tutorial",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA200001118",
+        "title": "Workbot",
+        "description": "Build custom workflows between your business apps and Workbot.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Workato",
+        "version": "1.1.0",
+        "modifiedDate": "5/13/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001157",
+        "title": "Beezy Stories",
+        "description": "Enhance employee experience with an engaging company culture. ",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Beezy Inc",
+        "version": "1.0.0",
+        "modifiedDate": "12/5/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "News + Weather",
+            "Social",
+            "Financial services",
+            "Manufacturing"
+        ]
+    },
+    {
+        "id": "WA200001218",
+        "title": "EXOffice",
+        "description": "\u300c\u5728\u5e2d\u7ba1\u7406\uff63\uff62\u4f1a\u8b70\u5ba4\u7ba1\u7406\u300d\uff62\u5165\u9000\u5ba4\u7ba1\u7406\uff63\u305d\u3057\u3066\u300c\u30aa\u30d5\u30a3\u30b9\u8a3a\u65ad\u300d\u306a\u3069\u3092\u30ab\u30fc\u30c91\u679a\u3001\u30ef\u30f3\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u63d0\u4f9b\u3059\u308b\u65b0\u3057\u3044\u30aa\u30d5\u30a3\u30b9\u30fb\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3002",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Kyowa Exeo Corporation",
+        "version": "1.3.0.5",
+        "modifiedDate": "1/16/2020",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Operations + supply chain",
+            "Productivity",
+            "Education",
+            "Manufacturing"
+        ]
+    },
+    {
+        "id": "WA200001232",
+        "title": "\ucee4\uba3c\uc2a4\ud398\uc774\uc2a4 \ubd07",
+        "description": "Microsoft Teams\ub97c \uc0ac\uc6a9\ud55c \uac04\ud3b8\ud55c \uadfc\ud0dc \uad00\ub9ac",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "\ucee4\uba3c\uc2a4\ud398\uc774\uc2a4",
+        "version": "1.0.0",
+        "modifiedDate": "12/17/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Distribution",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA200000660",
+        "title": "Clearedin",
+        "description": "This app generates security reports against suspicious messages/users.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Clearedin",
+        "version": "1.0.0",
+        "modifiedDate": "10/4/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA104381418",
+        "title": "Perfony - action plan manager",
+        "description": "Combine the best action plan and discussion apps to be more efficient at work",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Perfony.com",
+        "version": "1.1.0",
+        "modifiedDate": "1/1/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000089",
+        "title": "YeeFlow",
+        "description": "The BPM solution that allow you build workflow, online forms, and business data.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Akmii",
+        "version": "1.0.0",
+        "modifiedDate": "6/4/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA200000275",
+        "title": "Preciate",
+        "description": "FREE, full-featured recognition platform. Strengthen teams & culture.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Preciate",
+        "version": "1.0.2",
+        "modifiedDate": "11/19/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000165",
+        "title": "Wakelet",
+        "description": "Display any public or unlisted Wakelet collection by pinning it as a tab.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Wakelet",
+        "version": "1.0.0",
+        "modifiedDate": "7/17/2019",
+        "categories": [
+            "Teams",
+            "Content Management",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA200000135",
+        "title": "RingCentral",
+        "description": "Start and join RingCentral video or audio calls with quick bot commands and Messaging features.",
+        "reviewCount": 4,
+        "ratingValue": 4.5,
+        "offer": "free",
+        "publisher": "RingCentral Inc.",
+        "version": "2.0.0",
+        "modifiedDate": "11/15/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381233",
+        "title": "Adobe Sign for Teams",
+        "description": "Sign any document or send it for e-signature.",
+        "reviewCount": 4,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "Adobe Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "9/23/2017",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381271",
+        "title": "Approved Contact Calendar BOT & TAB",
+        "description": "Compare open times on your calendar to open times on any of your Approved Contact's calendars.",
+        "reviewCount": 3,
+        "ratingValue": 1.7,
+        "offer": "free",
+        "publisher": "Approved Contact",
+        "version": "1.2.0",
+        "modifiedDate": "10/24/2017",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381546",
+        "title": "Heroku",
+        "description": "Build and run applications in the cloud.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381553",
+        "title": "Enchant",
+        "description": "Provide customer support with chat and email.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/27/2018",
+        "categories": [
+            "Teams",
+            "Collaboration"
+        ]
+    },
+    {
+        "id": "WA104381550",
+        "title": "Buildkite",
+        "description": "Manage tools and run your tests on your own infrastructure.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/26/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381573",
+        "title": "New Relic",
+        "description": "Application Performance Management & Monitoring",
+        "reviewCount": 2,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381574",
+        "title": "Raygun",
+        "description": "Monitor crashes in web and mobile apps.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381579",
+        "title": "GhostInspector",
+        "description": "Build or record automated tests for your web site.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381593",
+        "title": "Help Scout",
+        "description": "Provide customer support through email messages.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "5/1/2018",
+        "categories": [
+            "Teams",
+            "Collaboration"
+        ]
+    },
+    {
+        "id": "WA104381590",
+        "title": "XP-Dev",
+        "description": "Collaborate on Git, Mercurial, Subversion, or other source-code projects.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381605",
+        "title": "Pingdom",
+        "description": "Track uptime/downtime and performance of web sites.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381611",
+        "title": "Runscope",
+        "description": "Log, monitor, and measure your API usage.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/29/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381639",
+        "title": "Evernote for Teams",
+        "description": "Capture, organize, and share notes.",
+        "reviewCount": 13,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "Evernote",
+        "version": "1.0.1",
+        "modifiedDate": "5/23/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381142",
+        "title": "Suttna",
+        "description": "Suttna, your remote team assistant.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Suttna",
+        "version": "1.3.0",
+        "modifiedDate": "7/27/2017",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381668",
+        "title": "Zoho Projects for Teams",
+        "description": "Create and manage projects effectively with the collaborative Zoho Projects",
+        "reviewCount": 3,
+        "ratingValue": 2.3,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "3.0",
+        "modifiedDate": "7/10/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381731",
+        "title": "Haldor Education",
+        "description": "Haldor is the pedagogical tool to handle planning och courses, collaboration and assessment.",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Haldor AB",
+        "version": "1.0.0",
+        "modifiedDate": "7/1/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381748",
+        "title": "Clarizen Bot",
+        "description": "Stay up to date on Clarizen with the Clarizen Bot",
+        "reviewCount": 2,
+        "ratingValue": 4.5,
+        "offer": "free",
+        "publisher": "Clarizen LTD.",
+        "version": "1.0.0",
+        "modifiedDate": "7/15/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381781",
+        "title": "Zokrates LMS",
+        "description": "Zokrates LMS App",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Enable AS",
+        "version": "1.0.0",
+        "modifiedDate": "6/5/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381812",
+        "title": "ApproveSimple",
+        "description": "The Enterprise Approvals Platform.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Capriza, Inc",
+        "version": "2.5.0",
+        "modifiedDate": "9/21/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381816",
+        "title": "Now Virtual Agent",
+        "description": "Find answers, file requests and complete routine ServiceNow tasks within chat!",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "ServiceNow",
+        "version": "1.0.0",
+        "modifiedDate": "9/5/2018",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381836",
+        "title": "Datadog for Teams",
+        "description": "Receive your Datadog alerts and notifications within Microsoft Teams.",
+        "reviewCount": 3,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Datadog",
+        "version": "1.0",
+        "modifiedDate": "9/24/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381996",
+        "title": "ThingLink - interactive images and virtual tours",
+        "description": "Build visual learning experiences with interactive images, videos, and 360 media",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Thinglink Inc",
+        "version": "1.0.1",
+        "modifiedDate": "1/21/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Training + Tutorial",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104382002",
+        "title": "EdCast Knowledge Cloud",
+        "description": "EdCast brings content recommendations, search and content discovery.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "EdCast",
+        "version": "1.1.1",
+        "modifiedDate": "4/22/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Content Management",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104382011",
+        "title": "Zoho Sign for Teams",
+        "description": "Digital signature extension for Microsoft Teams - sign documents & collect signatures",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "1.0.0",
+        "modifiedDate": "1/30/2019",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Operations + supply chain",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104382044",
+        "title": "Zoho Desk for Teams",
+        "description": "Zoho Desk is the industry\u2019s first context-aware customer service software.",
+        "reviewCount": 4,
+        "ratingValue": 3.3,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "1.1",
+        "modifiedDate": "2/28/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Operations + supply chain",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA200000091",
+        "title": "LuckyDraw",
+        "description": "A smart bot for lucky draw activities in channels",
+        "reviewCount": 3,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Tony Xia",
+        "version": "1.0.0",
+        "modifiedDate": "6/1/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000148",
+        "title": "MIPA - Your Personal Assistant",
+        "description": "Have your own personal assistant and never miss a task",
+        "reviewCount": 5,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "iGlobe",
+        "version": "1.0.6",
+        "modifiedDate": "7/3/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "CRM",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000160",
+        "title": "HunchBuzz - Idea Management",
+        "description": "HunchBuzz is a collaboration tool for crowdsourcing ideas from employees, partners and customers",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "HunchBuzz",
+        "version": "1.1.0.0",
+        "modifiedDate": "9/10/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000681",
+        "title": "Smartnotation - Smart Meeting Minutes",
+        "description": "Take notes, actions and decisions and manage your meeting minutes with ease.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Smartnotation B.V.",
+        "version": "1.0.3",
+        "modifiedDate": "10/17/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Content Management",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000717",
+        "title": "Orchestly for Teams",
+        "description": "Automate and optimize automating\u00ac\u2020complex routine workflows on a drag and drop platform.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "1.0",
+        "modifiedDate": "10/29/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Operations + supply chain",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000818",
+        "title": "Opsgenie",
+        "description": "Quickly take actions on Opsgenie alerts and track the alert updates.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Atlassian.com",
+        "version": "1.2.0",
+        "modifiedDate": "11/19/2019",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA200000987",
+        "title": "Ramco CHIA",
+        "description": "Ramco CHIA is an intelligent Virtual Assistant which simplifies HR and other business functions",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Ramco Systems Pte. Ltd.",
+        "version": "1.0.0",
+        "modifiedDate": "12/16/2019",
+        "categories": [
+            "Teams",
+            "Finance",
+            "Human resources",
+            "CRM",
+            "Financial services",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA200001038",
+        "title": "Coo Kai \u6d3b\u52d5\u5206\u6790",
+        "description": "\u500b\u4eba\u30fb\u7d44\u7e54\u306e\u6d3b\u52d5\u30c7\u30fc\u30bf\u306e\u898b\u3048\u308b\u5316\u3067\u751f\u7523\u6027\u5411\u4e0a\u306b\u8ca2\u732e",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "PSC Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "12/25/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200001238",
+        "title": "WorkplaceBuddy - your productivity buddy",
+        "description": "WorkplaceBuddy helps you become more productive",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "WorkplaceBuddy",
+        "version": "1.0.0",
+        "modifiedDate": "12/9/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Training + Tutorial"
+        ]
+    },
+    {
+        "id": "WA200000096",
+        "title": "Zoho Forms for Teams",
+        "description": "Keep your team up-to-date with alerts on your Teams channel when a new form response is received.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "1.0.0",
+        "modifiedDate": "6/11/2019",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Operations + supply chain",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA200000157",
+        "title": "BravoNow",
+        "description": "Bravo recognition platform",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "SpadeWorx Software Services Pvt Ltd",
+        "version": "1.0.3",
+        "modifiedDate": "7/15/2019",
+        "categories": [
+            "Teams",
+            "Human resources"
+        ]
+    },
+    {
+        "id": "WA200000085",
+        "title": "MayLeo",
+        "description": "MayLeo Bot is your personal Office 365 assistant",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Giuliano De Luca",
+        "version": "1.0.0",
+        "modifiedDate": "6/3/2019",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA200000185",
+        "title": "StarLeaf",
+        "description": "Easily create StarLeaf video meetings directly from Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "StarLeaf",
+        "version": "1.0.0",
+        "modifiedDate": "5/14/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000390",
+        "title": "confidoo",
+        "description": "Turn your portfolio into a stock exchange",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "K-at-R Consulting Riecicky",
+        "version": "1.0.0",
+        "modifiedDate": "7/29/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000420",
+        "title": "Kudos Boards",
+        "description": "Make task and project management more productive for Teams and Individuals",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "kudosapps.com by ISW Development Pty Ltd",
+        "version": "1.0.5",
+        "modifiedDate": "8/28/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381384",
+        "title": "Power BI Collaboration Connector",
+        "description": "Send notifications from the Power BI Collaboration SharePoint add-in.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Ataira",
+        "version": "1.0.0",
+        "modifiedDate": "3/11/2019",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381416",
+        "title": "YellowAnt",
+        "description": "Intelligent workplace assistant bot that helps you automate work from Microsoft Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "YellowAnt",
+        "version": "1.0.0",
+        "modifiedDate": "1/4/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381575",
+        "title": "Groove",
+        "description": "Provide customer support with team collaboration.",
+        "reviewCount": 1,
+        "ratingValue": 2.0,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381578",
+        "title": "Honeybadger",
+        "description": "Monitor performance, uptime, and exceptions in web apps.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381421",
+        "title": "iGlobe CRM for Teams",
+        "description": "Give your team built-in access to customer CRM data where they need it, right in Microsoft Teams",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "iGlobe",
+        "version": "1.0.0.6",
+        "modifiedDate": "12/18/2017",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Sales",
+            "CRM",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381048",
+        "title": "Flipgrid",
+        "description": "Record, view, and receive notifications when videos and Topics are created in your integrated Grid.",
+        "reviewCount": 1,
+        "ratingValue": 4.0,
+        "offer": "free",
+        "publisher": "Flipgrid, Inc.",
+        "version": "1.2.1",
+        "modifiedDate": "6/27/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381027",
+        "title": "busuu quizbot",
+        "description": "Learn a language with busuu",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "busuu",
+        "version": "1.0.0",
+        "modifiedDate": "5/24/2017",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381324",
+        "title": "Urkund",
+        "description": "Urkund is a market leading plagiarism checker with seamless integration in Teams.",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Haldor AB",
+        "version": "1.0.2",
+        "modifiedDate": "8/16/2017",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Utilities",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381765",
+        "title": "Skolon",
+        "description": "Find, access and use all of your educational tools in Skolon directly in Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Skolon",
+        "version": "1.0.0",
+        "modifiedDate": "8/14/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381863",
+        "title": "Literatu Scribo",
+        "description": "Scribo helps English and Humanities teachers to help students write better.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Literatu",
+        "version": "1.2.0",
+        "modifiedDate": "7/4/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    },
+    {
+        "id": "WA104381873",
+        "title": "ProjectWise 365 Services",
+        "description": "Accelerate collaboration with access to ProjectWise 365 Services from Teams.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Bentley Systems Inc.",
+        "version": "1.0.3",
+        "modifiedDate": "10/26/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA104381894",
+        "title": "Disco",
+        "description": "Disco makes it easy to celebrate your company culture and values",
+        "reviewCount": 2,
+        "ratingValue": 3.0,
+        "offer": "free",
+        "publisher": "Discotheque Inc.",
+        "version": "1.0.5",
+        "modifiedDate": "10/30/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381979",
+        "title": "Open as App for Teams",
+        "description": "Get your business data as apps and bots in Microsoft Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Open as App GmbH",
+        "version": "1.0.1",
+        "modifiedDate": "7/13/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Marketing",
+            "Sales",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA104382094",
+        "title": "Zoho CRM for team collaboration",
+        "description": "Share vital CRM records and stay updated on key sales metrics with Zoho CRM.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Zoho Corporation Private Limited",
+        "version": "1.1",
+        "modifiedDate": "2/5/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "CRM"
+        ]
+    },
+    {
+        "id": "WA200000110",
+        "title": "officeatwork | Template Chooser for Teams",
+        "description": "A simple way to discover, find, use and manage your own Office templates in Teams",
+        "reviewCount": 2,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "officeatwork 365",
+        "version": "1.0.2",
+        "modifiedDate": "6/20/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA104381773",
+        "title": "iTrainer365 EN",
+        "description": "An educational chat-bot for continuous improvement of Microsoft Office365 skills",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Chernevsky",
+        "version": "1.83.1",
+        "modifiedDate": "7/18/2018",
+        "categories": [
+            "Teams",
+            "Training + Tutorial"
+        ]
+    },
+    {
+        "id": "WA200000155",
+        "title": "Stormboard",
+        "description": "Make your meetings, brainstorms, and projects more productive and effective.",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Stormboard (Edistorm Inc.)",
+        "version": "1.0",
+        "modifiedDate": "7/4/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000300",
+        "title": "Social27 AI",
+        "description": "Accelerate the buyers journey by serving their needs in real-time.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Social27 Inc.",
+        "version": "1.0.0",
+        "modifiedDate": "8/6/2019",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Sales",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA200000111",
+        "title": "DocHawk",
+        "description": "Watch over certifications, forms, compliance and other company documentation in Teams and Outlook",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Information Age Technologies, Inc.",
+        "version": "1.0.5",
+        "modifiedDate": "5/1/2019",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "IT + administration",
+            "Utilities"
+        ]
+    },
+    {
+        "id": "WA200000592",
+        "title": "Zenkit",
+        "description": "The project management tool that grows with you.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Zenkit",
+        "version": "1.0.0",
+        "modifiedDate": "9/27/2019",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200000618",
+        "title": "OfficeSuite UC",
+        "description": "Calling, meeting and call notification app",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Windstream",
+        "version": "1.0.4",
+        "modifiedDate": "5/7/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000618",
+        "title": "OfficeSuite UC",
+        "description": "Calling, meeting and call notification app",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Windstream",
+        "version": "1.0.4",
+        "modifiedDate": "5/7/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000622",
+        "title": "Azure AD Notifications",
+        "description": "Sends notifications to Azure AD users on behalf of Azure AD services.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Microsoft Corporation",
+        "version": "1.0.4",
+        "modifiedDate": "9/18/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA200000651",
+        "title": "WittyParrot Knowledge Box",
+        "description": "Your knowledge base at your finger tips right inside your teams",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Acrowit, Inc. DBA WittyParrot",
+        "version": "1.0.0",
+        "modifiedDate": "9/13/2019",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Productivity",
+            "Sales",
+            "Content Management"
+        ]
+    },
+    {
+        "id": "WA200000710",
+        "title": "myTask2do - Task manager for Teams",
+        "description": "Simple task management for effective collaboration and increased productivity",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "iXora Solution Ltd.",
+        "version": "1.2.0",
+        "modifiedDate": "10/27/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104382042",
+        "title": "MeetingRoomMap for Teams",
+        "description": "Team Bot showing floor-plan of meeting rooms and office locations of your co-workers.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "TNS Consulting ApS",
+        "version": "1.0.0",
+        "modifiedDate": "3/1/2019",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Human resources",
+            "Site Design"
+        ]
+    },
+    {
+        "id": "WA200000849",
+        "title": "Kudos\u00ae",
+        "description": "Send and receive Kudos recognition from within Teams.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Kudos Inc",
+        "version": "1.0.0",
+        "modifiedDate": "11/20/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Human resources",
+            "Social"
+        ]
+    },
+    {
+        "id": "WA200001047",
+        "title": "Navo",
+        "description": "Beautiful universal navigation for SharePoint, Teams, and anywhere you work.",
+        "reviewCount": 3,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Regroove Solutions Inc.",
+        "version": "1.1.1",
+        "modifiedDate": "12/19/2019",
+        "categories": [
+            "Teams",
+            "IT + administration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA200001022",
+        "title": "Teams Ideas for Teams",
+        "description": "Engage the entire value chain on your innovation process with Teams Ideas\u2122",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "DLN Consultoria e Informatica Ltda",
+        "version": "1.0.0",
+        "modifiedDate": "12/23/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management",
+            "Manufacturing",
+            "Professional services"
+        ]
+    },
+    {
+        "id": "WA104381441",
+        "title": "Zoom for Teams",
+        "description": "Start, schedule and join Zoom Meetings right from your Team space.",
+        "reviewCount": 23,
+        "ratingValue": 4.7,
+        "offer": "free",
+        "publisher": "Zoom Video Communications, Inc.",
+        "version": "1.4.1213",
+        "modifiedDate": "1/13/2020",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "IT + administration",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104382058",
+        "title": "Klaxoon",
+        "description": "Share activities : Meeting, Brainstorm, Quiz, Survey, Questions with your team",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Klaxoon",
+        "version": "1.0.2",
+        "modifiedDate": "3/27/2019",
+        "categories": [
+            "Teams",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104382034",
+        "title": "Trustbot",
+        "description": "Send, sign and verify Non-Disclosure agreements without leaving your workspace",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Trustbot Software",
+        "version": "1.0.0",
+        "modifiedDate": "1/23/2019",
+        "categories": [
+            "Teams",
+            "Marketing",
+            "Operations + supply chain",
+            "Productivity",
+            "Sales"
+        ]
+    },
+    {
+        "id": "WA104381995",
+        "title": "Mindomo for Teams",
+        "description": "Collaborative mind mapping, concept mapping, outlining, and Gantt charts",
+        "reviewCount": 1,
+        "ratingValue": 5.0,
+        "offer": "free",
+        "publisher": "Expert Software Applications",
+        "version": "1.0.1",
+        "modifiedDate": "12/21/2018",
+        "categories": [
+            "Teams",
+            "Analytics",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381880",
+        "title": "Decisions",
+        "description": "Plan, organize and run successful meetings, all within Microsoft Teams",
+        "reviewCount": 10,
+        "ratingValue": 4.3,
+        "offer": "free",
+        "publisher": "Decisions",
+        "version": "1.1.0",
+        "modifiedDate": "10/11/2018",
+        "categories": [
+            "Teams",
+            "Operations + supply chain",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381629",
+        "title": "Kronos Bot",
+        "description": "Kronos Bot is your personal assistant for daily routine time and labor management tasks.",
+        "reviewCount": 1,
+        "ratingValue": 1.0,
+        "offer": "free",
+        "publisher": "Kronos Inc.",
+        "version": "1.3",
+        "modifiedDate": "5/4/2018",
+        "categories": [
+            "Teams",
+            "Human resources",
+            "Productivity"
+        ]
+    },
+    {
+        "id": "WA104381577",
+        "title": "Google Analytics",
+        "description": "Get Google Analytics summary reports",
+        "reviewCount": 10,
+        "ratingValue": 1.2,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381601",
+        "title": "Logentries",
+        "description": "Search and monitor log data from any environment.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "Microsoft Teams Ecosystem",
+        "version": "1.0",
+        "modifiedDate": "3/28/2018",
+        "categories": [
+            "Teams",
+            "IT + administration"
+        ]
+    },
+    {
+        "id": "WA104381097",
+        "title": "ScrumGenius - Automate daily standups",
+        "description": "Best Teams bot used by leading agile teams. ScrumGenius helps managers run asynchronous standups.",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "ScrumGenius",
+        "version": "1.2.0",
+        "modifiedDate": "6/3/2019",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Productivity",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381679",
+        "title": "MailClark: Email, Facebook, Twitter bot",
+        "description": "Manage & respond to emails, Facebook and Twitter messages in Microsoft Teams.",
+        "reviewCount": 6,
+        "ratingValue": 3.3,
+        "offer": "free",
+        "publisher": "MailClark",
+        "version": "1.5",
+        "modifiedDate": "7/2/2018",
+        "categories": [
+            "Teams",
+            "Collaboration",
+            "Marketing",
+            "Sales",
+            "Project Management"
+        ]
+    },
+    {
+        "id": "WA104381733",
+        "title": "SAFARI Montage",
+        "description": "Share digital learning objects, including videos and playlists, from SAFARI Montage to Teams",
+        "reviewCount": 0,
+        "ratingValue": -1,
+        "offer": "free",
+        "publisher": "SAFARI Montage",
+        "version": "1.0.1",
+        "modifiedDate": "7/25/2018",
+        "categories": [
+            "Teams",
+            "Productivity",
+            "Education"
+        ]
+    }
+]

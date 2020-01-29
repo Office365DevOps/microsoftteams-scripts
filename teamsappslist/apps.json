@@ -1,0 +1,3250 @@
+{
+    "search": {
+        "searchText": "",
+        "appSearchResults": [],
+        "servicesSearchResults": [],
+        "ecaSearchResults": [],
+        "searchIdCurrentlyOngoing": 0,
+        "ocpSearchResults": []
+    },
+    "modal": {
+        "appId": "",
+        "parnerId": "",
+        "modalId": 0,
+        "isSignedIn": false,
+        "showModal": false,
+        "payload": null,
+        "entityType": 1
+    },
+    "apps": {
+        "dataList": [
+            {
+                "entityId": "WA104379617",
+                "title": "Evernote",
+                "publisher": "Evernote",
+                "builtFor": "Office 365",
+                "iconBackgroundColor": null,
+                "actionString": "CTA_Get",
+                "ctaTypes": [
+                    1
+                ],
+                "primaryProduct": 16384,
+                "products": 147456,
+                "industries": 0,
+                "categories": 8388992,
+                "trials": 0,
+                "pricingModel": 1,
+                "ratings": 15,
+                "showcaseLink": null,
+                "leadgenEnabled": false,
+                "filtermatch": true,
+                "detailInformation": {
+                    "Description": "<p>Important project communication gets lost in a crowded inbox. With Evernote, add the power of Evernote right into your email composer. Save emails from Outlook to Evernote and organize them with the rest of the project, or quickly add notes from Evernote to any Outlook email to share them with others. </p><p>To start managing email better, install Evernote for Outlook and get Evernote at http://www.evernote.com.</p><p>Never lose an email again. Organize important email by clipping any Outlook thread and its attachments to Evernote. Save and access it from all the devices where Evernote is installed.  </p><p>Organize emails in notebooks. Send emails directly to your project notebooks so you can keep all the moving parts together. </p><p>Attach Evernote notes to email. Add Evernote right into your Outlook email composer. Give your recipients the greater context of your Evernote notes and documents by adding them to the email as beautiful snippets. Great for sharing tasks, articles, and projects.</p><p>What is Evernote? Keep your ideas, to-dos, and projects in a workspace that syncs everywhere. For everything you’ll do, Evernote helps you get it done. Watch the video for more information, and get the app at http://www.evernote.com</p><p>What’s new in version 1.5</p><p>- Support for Yinxiang Biji 印象笔记</p><p>- UX improvements</p><p>- Bug fixes</p>",
+                    "LargeIconUri": "https://store-images.s-microsoft.com/image/apps.35722.9a78b7aa-63f4-46d3-b5ec-ea252757d1ee.14847234-fd55-4248-8fb5-eed7d98b9313.039084f0-7347-46f9-888c-cf367a1afab4.png",
+                    "Images": [
+                        {
+                            "ImageName": "",
+                            "ImageUri": "https://store-images.s-microsoft.com/image/apps.38151.9a78b7aa-63f4-46d3-b5ec-ea252757d1ee.14847234-fd55-4248-8fb5-eed7d98b9313.7ef4edac-1d3d-43eb-a0d7-2a597f96522d.png"
+                        },
+                        {
+                            "ImageName": "",
+                            "ImageUri": "https://store-images.s-microsoft.com/image/apps.3495.9a78b7aa-63f4-46d3-b5ec-ea252757d1ee.14847234-fd55-4248-8fb5-eed7d98b9313.0100f7e2-2b23-4be1-b509-5a45ce5568a0.png"
+                        },
+                        {
+                            "ImageName": "",
+                            "ImageUri": "https://store-images.s-microsoft.com/image/apps.53473.9a78b7aa-63f4-46d3-b5ec-ea252757d1ee.14847234-fd55-4248-8fb5-eed7d98b9313.ffa77763-34af-4041-a350-29ff4756c521.png"
+                        },
+                        {
+                            "ImageName": "",
+                            "ImageUri": "https://store-images.s-microsoft.com/image/apps.53280.9a78b7aa-63f4-46d3-b5ec-ea252757d1ee.14847234-fd55-4248-8fb5-eed7d98b9313.8e09e747-1e31-4f2b-9ec9-e3cfa427b036.png"
+                        },
+                        {
+                            "ImageName": "",
+                            "ImageUri": "https://store-images.s-microsoft.com/image/apps.43908.9a78b7aa-63f4-46d3-b5ec-ea252757d1ee.14847234-fd55-4248-8fb5-eed7d98b9313.6fc71158-006a-43cb-bae8-510539ddeb1d.png"
+                        }
+                    ],
+                    "DemoVideos": [
+                        {
+                            "VideoLink": "https://www.youtube.com/watch?v=3OUjlzLkAyM",
+                            "VideoName": "",
+                            "ThumbnailURL": "https://store-images.s-microsoft.com/image/apps.38151.9a78b7aa-63f4-46d3-b5ec-ea252757d1ee.14847234-fd55-4248-8fb5-eed7d98b9313.7ef4edac-1d3d-43eb-a0d7-2a597f96522d.png"
+                        }
+                    ],
+                    "CollateralDocuments": null,
+                    "LanguagesSupported": null,
+                    "Keywords": [],
+                    "HelpLink": null,
+                    "SupportLink": "https://help.evernote.com/hc/articles/209005997/?layout=inapp",
+                    "PrivacyPolicyUrl": "https://evernote.com/privacy/policy?layout=inapp",
+                    "AdditionalPurchasesRequired": false,
+                    "Countries": null,
+                    "AppVersion": "1.8.1",
+                    "PlatformVersion": null,
+                    "ReleaseDate": "2019-05-06T00:00:00Z",
+                    "Capabilities": [
+                        "Capability7"
+                    ],
+                    "WorksWith": [
+                        "App_Details_Requirements_Products_OutlookOnWeb",
+                        "OfficeProductForAndroid",
+                        "OfficeProductForIOS",
+                        "Outlook_2013",
+                        "Outlook_2016_Mac"
+                    ],
+                    "IconBackgroundColor": null,
+                    "TestDriveDetails": null
+                },
+                "detailLoadFailed": false,
+                "startingPrice": {
+                    "pricingData": 1
+                },
+                "testDriveType": null,
+                "awards": null,
+                "universalAmendmentUrl": null,
+                "CertificationState": "None",
+                "CertificationLink": null,
+                "tags": null,
+                "locale": "en",
+                "AverageRating": 4.0958904109589,
+                "NumberOfRatings": 876,
+                "planPricingType": 1,
+                "offerType": 0,
+                "extraDataLoaded": true,
+                "iconURL": "https://store-images.s-microsoft.com/image/apps.35722.9a78b7aa-63f4-46d3-b5ec-ea252757d1ee.14847234-fd55-4248-8fb5-eed7d98b9313.039084f0-7347-46f9-888c-cf367a1afab4.png",
+                "shortDescription": "Tame your inbox. Save important email to a workspace where ideas go from projects to completion.",
+                "handoffURL": null,
+                "licenseTermsUrl": "https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC&p5=WA104379617&cmu=en-US",
+                "isSolutionMap": false,
+                "pricingInformation": {
+                    "billingRegion": "us",
+                    "skus": null
+                }
+            }
+        ],
+        "curatedData": {
+            "top": [
+                {
+                    "id": "bb3d4f363b1186141950a3ac55d72ba909ee79df46fc7e5f22232c3fadc17eab",
+                    "parentId": null,
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "crossware.crosswaremailsignaturesaaslive",
+                            "order": 1
+                        },
+                        {
+                            "id": "lawtoolboxinc.lawtoolboxdeadlinesteams",
+                            "order": 2
+                        },
+                        {
+                            "id": "qunifiltd.qunificall2teamstpo1",
+                            "order": 3
+                        },
+                        {
+                            "id": "constructionindustrysolutionslimited-5057232.coinsconstructioncloud",
+                            "order": 4
+                        },
+                        {
+                            "id": "neal_analytics.8066ad01-1e61-40cd-bd33-9b86c65fa73a",
+                            "order": 5
+                        },
+                        {
+                            "id": "sitecore.sxp_824",
+                            "order": 6
+                        },
+                        {
+                            "id": "proscpq.15fbc600-c6cb-489f-9bb9-7577900de637",
+                            "order": 7
+                        },
+                        {
+                            "id": "prevedere_.prevedere_demand_forecasting-mfg",
+                            "order": 8
+                        },
+                        {
+                            "id": "proscpq.6c58581a-e15f-4378-aa84-5601a67a903a",
+                            "order": 9
+                        },
+                        {
+                            "id": "wa104381639",
+                            "order": 10
+                        },
+                        {
+                            "id": "indegene.omnipresence",
+                            "order": 11
+                        },
+                        {
+                            "id": "o9solutions.o9-ibp-mfg",
+                            "order": 12
+                        },
+                        {
+                            "id": "adoxio.adoxio-regulate365-license-and-permit",
+                            "order": 13
+                        },
+                        {
+                            "id": "wa200000056",
+                            "order": 14
+                        }
+                    ],
+                    "sectionId": "top",
+                    "titleId": "top"
+                }
+            ],
+            "everything": [
+                {
+                    "id": "fbc2d9bfccfe19740e4a872f4c6be638255c730d742aaa2a03247bc3e9f2aeb9",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "crossware.crosswaremailsignaturesaaslive",
+                            "order": 1
+                        },
+                        {
+                            "id": "lawtoolboxinc.lawtoolboxdeadlinesoutlook",
+                            "order": 2
+                        },
+                        {
+                            "id": "lawtoolboxinc.lawtoolboxdeadlinesteams",
+                            "order": 3
+                        },
+                        {
+                            "id": "qunifiltd.qunificall2teamstpo1",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379221",
+                            "order": 5
+                        },
+                        {
+                            "id": "atwork.demo-delegate365",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Azure for Web Apps",
+                    "titleId": 4096
+                },
+                {
+                    "id": "926ca42031ce8aa7366a60c30062a7932f208da21af14f9942873d37887ef846",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "mscrm.44f192ec-e387-436c-886c-879923d8a448",
+                            "order": 1
+                        },
+                        {
+                            "id": "docusign.3701c77e-1cfa-4c56-91e6-3ed0b622145a",
+                            "order": 2
+                        },
+                        {
+                            "id": "adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86",
+                            "order": 3
+                        },
+                        {
+                            "id": "versium-analytics.e74ab7ae-bf54-4561-9e76-373c1a66016d",
+                            "order": 4
+                        },
+                        {
+                            "id": "north52.a67b3d73-064c-4794-988b-1c7a40c6d886",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Sales",
+                    "titleId": 128
+                },
+                {
+                    "id": "fb62af1f80a869aefe066ce2752965c0f22c906d0e196737c6a2b8c16a8ad846",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "cafexliveassistfor365.27ac7522-68b2-44a2-9f36-da66a47e2b19",
+                            "order": 1
+                        },
+                        {
+                            "id": "pubid.360|aid.360quicklink|pappid.86d537f5-1b78-4de0-9289-8a170b200310",
+                            "order": 2
+                        },
+                        {
+                            "id": "iotapapps.a760c5b7-71e7-4355-8213-43d4895b03a3",
+                            "order": 3
+                        },
+                        {
+                            "id": "provance-itsm.b53e59b6-d92d-422d-b90f-66c3eb342f6b",
+                            "order": 4
+                        },
+                        {
+                            "id": "mtccrm.ad859fd0-01a2-4bd2-a40a-671567c57e90",
+                            "order": 5
+                        },
+                        {
+                            "id": "powerobjects.3803cf60-2a2b-4d0e-8565-59195eeec914",
+                            "order": 6
+                        },
+                        {
+                            "id": "mscrm-addons.476a180b-fafb-46ee-815b-a4bc76134928",
+                            "order": 7
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Customer Services",
+                    "titleId": 1024
+                },
+                {
+                    "id": "c0e10bc8e3778d9ad95f5ba466cd419b3c02d29351ad1a79da9685cc25c9d9fe",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 4,
+                    "items": [
+                        {
+                            "id": "mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070",
+                            "order": 1
+                        },
+                        {
+                            "id": "cafexliveassistfor365.27ac7522-68b2-44a2-9f36-da66a47e2b19",
+                            "order": 2
+                        },
+                        {
+                            "id": "mscrm.58666c7d-65ee-452d-8708-70b4d471d4c0",
+                            "order": 3
+                        },
+                        {
+                            "id": "inogic.f6f3c73f-29de-4fa8-a396-87ea8a07b6c4",
+                            "order": 4
+                        },
+                        {
+                            "id": "powerobjects.0c493268-7875-47dc-ac4d-2dec340cc9bc",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Field Services",
+                    "titleId": 256
+                },
+                {
+                    "id": "15db676a767c45e341a8e63f30a72497827f639cfd3918579c1e7f1f47623240",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 5,
+                    "items": [
+                        {
+                            "id": "experlogix.4a304dd3-3938-4f4e-98a5-ee923f46ca6e",
+                            "order": 1
+                        },
+                        {
+                            "id": "sana-commerce.66bd2982-af0d-443e-90b7-e5e8f4bd038e",
+                            "order": 2
+                        },
+                        {
+                            "id": "sbs-group.1aae5b60-0d79-4feb-b819-4adfbe17672f",
+                            "order": 3
+                        },
+                        {
+                            "id": "ncs.068423f7-5beb-4f86-b812-bea081bc858b",
+                            "order": 4
+                        },
+                        {
+                            "id": "fourvision.219f0132-0677-45e6-a2ae-d1088003974a",
+                            "order": 5
+                        },
+                        {
+                            "id": "annata.6e80c00d-74f6-499d-a44a-ef3f7aaec0bd",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Operations",
+                    "titleId": 1
+                },
+                {
+                    "id": "f3723032fdf4ce005e68475de062a8b5f07219014231249404989b2d62cdc5b1",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 6,
+                    "items": [
+                        {
+                            "id": "pubid.microsoftdynsmb|aid.3a67602d-0a4f-4ae4-ad03-c1124f6ac3cf|pappid.54fbef8e-d15e-4424-9504-5aeb21281e65",
+                            "order": 1
+                        },
+                        {
+                            "id": "pubid.chargelogic|aid.ed54560c-caad-4ba0-872f-7fa8df3c8ff8|pappid.0f30fcab-5ea0-4345-ba83-a32015759fbe",
+                            "order": 2
+                        },
+                        {
+                            "id": "pubid.sana-commerce|aid.6aa1d5cc-7833-45d2-83f5-02a9a33f08a7|pappid.e6a22a66-7535-431e-89ae-263b9f76712d",
+                            "order": 3
+                        },
+                        {
+                            "id": "pubid.scapta|aid.50395b48-f7b6-4445-96df-6faaa8c96deb|pappid.96da1317-c2e8-42ec-aa19-216e33d0da19",
+                            "order": 4
+                        },
+                        {
+                            "id": "pubid.konica-minolta-its|aid.04ee5e83-b9f0-4fbd-885f-55d16bc9c885|pappid.a850208f-7c6a-4cd8-a896-b9f4389fc0a0",
+                            "order": 5
+                        },
+                        {
+                            "id": "pubid.chargelogic|aid.d6214a3f-51d6-4c84-af0b-eb5125495670|pappid.ae0aa4c5-27ba-411d-82f8-5080e8c2a6af",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Financials",
+                    "titleId": 8
+                },
+                {
+                    "id": "10c789af10e744bc8960f6423b4360d8c504721dbc4be00a4f912977767a66c3",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 7,
+                    "items": [
+                        {
+                            "id": "mscrm.80da2797-b9d7-4084-a25f-49371c39737d",
+                            "order": 1
+                        },
+                        {
+                            "id": "xrm1.dbc80f93-9971-4550-bc34-f30507d713f0",
+                            "order": 2
+                        },
+                        {
+                            "id": "promx_gmbh.3516badf-ab0e-4552-8b6a-87e0595d2369",
+                            "order": 3
+                        },
+                        {
+                            "id": "crowe_horwath.a67f17fd-9b92-4199-a768-0d81a30c12e6",
+                            "order": 4
+                        },
+                        {
+                            "id": "xrmconsultancy.32117cb8-1811-4271-b2d1-6ffd10acf280",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Project Services Automation",
+                    "titleId": 512
+                },
+                {
+                    "id": "c2abc991156a3522864d2448c8185f69a331b1aff58935b40f550f271fd539ff",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 9,
+                    "items": [
+                        {
+                            "id": "swisssalary.279e36b0-a2cd-43c8-911d-c8aba2bc6ed7",
+                            "order": 1
+                        },
+                        {
+                            "id": "orango-ab.792b46cd-efc4-41b4-9b37-c15ee042c38f",
+                            "order": 2
+                        },
+                        {
+                            "id": "nab.a49e6393-37f9-43fc-8b10-03ebff712d32",
+                            "order": 3
+                        },
+                        {
+                            "id": "ecraft-go.d71592d0-efca-4e6f-8031-dc337147e43a",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Dynamics NAV",
+                    "titleId": 4
+                },
+                {
+                    "id": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 10,
+                    "items": [],
+                    "sectionId": "Dynamics 365",
+                    "titleId": 2
+                },
+                {
+                    "id": "e991b1a4226c12de7514fa92f67b265497e6a93f7fe40c063ad4a7a704faa679",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 11,
+                    "items": [],
+                    "sectionId": "Office365",
+                    "titleId": 16384
+                },
+                {
+                    "id": "dec7b3ecd5ee21a83e322d99f9c01ea659e61d3074ac8b097c7d33b33f2db54f",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 12,
+                    "items": [],
+                    "sectionId": "Power BI",
+                    "titleId": 16
+                },
+                {
+                    "id": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 13,
+                    "items": [],
+                    "sectionId": "add-ins",
+                    "titleId": 8192
+                }
+            ],
+            "Dynamics 365": [
+                {
+                    "id": "62cce2964f5d99546d7875d049b5954ab47464b3f24300115264ad18b713a38c",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "cafexliveassistfor365.27ac7522-68b2-44a2-9f36-da66a47e2b19",
+                            "order": 1
+                        },
+                        {
+                            "id": "docusign.3701c77e-1cfa-4c56-91e6-3ed0b622145a",
+                            "order": 2
+                        },
+                        {
+                            "id": "proscpq.6c58581a-e15f-4378-aa84-5601a67a903a",
+                            "order": 3
+                        },
+                        {
+                            "id": "promx_gmbh.3516badf-ab0e-4552-8b6a-87e0595d2369",
+                            "order": 4
+                        },
+                        {
+                            "id": "xrm1.e8242cc1-bab9-4bb2-8451-d4abe636c41f",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Popular Apps for Dynamics 365",
+                    "titleId": "Popular Apps for Dynamics 365"
+                },
+                {
+                    "id": "71705f36b3db28535f497c99d3ad185e95b5e3aee9639b54a7c31304a53e8eda",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 2,
+                    "items": [],
+                    "sectionId": "Dynamics 365 for Sales",
+                    "titleId": 128
+                },
+                {
+                    "id": "07e2b84100bab41eec3c900994c41be8d3aa8b8d729d6da54a1c07ce65137c9d",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "cafexliveassistfor365.27ac7522-68b2-44a2-9f36-da66a47e2b19",
+                            "order": 1
+                        },
+                        {
+                            "id": "tribridge_health360.h360materials",
+                            "order": 2
+                        },
+                        {
+                            "id": "provance-itsm.b53e59b6-d92d-422d-b90f-66c3eb342f6b",
+                            "order": 3
+                        },
+                        {
+                            "id": "mtccrm.ad859fd0-01a2-4bd2-a40a-671567c57e90",
+                            "order": 4
+                        },
+                        {
+                            "id": "powerobjects.3803cf60-2a2b-4d0e-8565-59195eeec914",
+                            "order": 5
+                        },
+                        {
+                            "id": "mscrm-addons.476a180b-fafb-46ee-815b-a4bc76134928",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Customer Services",
+                    "titleId": 1024
+                },
+                {
+                    "id": "e7de4c4133ab35f0709a6b44c50327c08371e0b62fa73a5ef1286a59ee9f228a",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 4,
+                    "items": [
+                        {
+                            "id": "mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070",
+                            "order": 1
+                        },
+                        {
+                            "id": "cafexliveassistfor365.27ac7522-68b2-44a2-9f36-da66a47e2b19",
+                            "order": 2
+                        },
+                        {
+                            "id": "mscrm.58666c7d-65ee-452d-8708-70b4d471d4c0",
+                            "order": 3
+                        },
+                        {
+                            "id": "inogic.f6f3c73f-29de-4fa8-a396-87ea8a07b6c4",
+                            "order": 4
+                        },
+                        {
+                            "id": "powerobjects.0c493268-7875-47dc-ac4d-2dec340cc9bc",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Field Services",
+                    "titleId": 256
+                },
+                {
+                    "id": "ba040db3b0573b1086721abac3a202b0639933b5c4466137400109c45008c6da",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 5,
+                    "items": [
+                        {
+                            "id": "experlogix.4a304dd3-3938-4f4e-98a5-ee923f46ca6e",
+                            "order": 1
+                        },
+                        {
+                            "id": "sana-commerce.66bd2982-af0d-443e-90b7-e5e8f4bd038e",
+                            "order": 2
+                        },
+                        {
+                            "id": "sbs-group.1aae5b60-0d79-4feb-b819-4adfbe17672f",
+                            "order": 3
+                        },
+                        {
+                            "id": "ncs.068423f7-5beb-4f86-b812-bea081bc858b",
+                            "order": 4
+                        },
+                        {
+                            "id": "fourvision.219f0132-0677-45e6-a2ae-d1088003974a",
+                            "order": 5
+                        },
+                        {
+                            "id": "annata.6e80c00d-74f6-499d-a44a-ef3f7aaec0bd",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Operations",
+                    "titleId": 1
+                },
+                {
+                    "id": "adbf28921ae65bace96c5b35a3cda0632edeab2c8f42aa4d7b9beccfbe16603f",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 6,
+                    "items": [
+                        {
+                            "id": "pubid.microsoftdynsmb|aid.3a67602d-0a4f-4ae4-ad03-c1124f6ac3cf|pappid.54fbef8e-d15e-4424-9504-5aeb21281e65",
+                            "order": 1
+                        },
+                        {
+                            "id": "pubid.chargelogic|aid.ed54560c-caad-4ba0-872f-7fa8df3c8ff8|pappid.0f30fcab-5ea0-4345-ba83-a32015759fbe",
+                            "order": 2
+                        },
+                        {
+                            "id": "pubid.sana-commerce|aid.6aa1d5cc-7833-45d2-83f5-02a9a33f08a7|pappid.e6a22a66-7535-431e-89ae-263b9f76712d",
+                            "order": 3
+                        },
+                        {
+                            "id": "pubid.scapta|aid.50395b48-f7b6-4445-96df-6faaa8c96deb|pappid.96da1317-c2e8-42ec-aa19-216e33d0da19",
+                            "order": 4
+                        },
+                        {
+                            "id": "pubid.konica-minolta-its|aid.04ee5e83-b9f0-4fbd-885f-55d16bc9c885|pappid.a850208f-7c6a-4cd8-a896-b9f4389fc0a0",
+                            "order": 5
+                        },
+                        {
+                            "id": "pubid.chargelogic|aid.d6214a3f-51d6-4c84-af0b-eb5125495670|pappid.ae0aa4c5-27ba-411d-82f8-5080e8c2a6af",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Financials",
+                    "titleId": 8
+                },
+                {
+                    "id": "9860efedf11ed2ee8ea9eff528b19cecb845084239261ee9605160cfb60c08fb",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 7,
+                    "items": [
+                        {
+                            "id": "mscrm.80da2797-b9d7-4084-a25f-49371c39737d",
+                            "order": 1
+                        },
+                        {
+                            "id": "xrm1.dbc80f93-9971-4550-bc34-f30507d713f0",
+                            "order": 2
+                        },
+                        {
+                            "id": "promx_gmbh.3516badf-ab0e-4552-8b6a-87e0595d2369",
+                            "order": 3
+                        },
+                        {
+                            "id": "crowe_horwath.a67f17fd-9b92-4199-a768-0d81a30c12e6",
+                            "order": 4
+                        },
+                        {
+                            "id": "xrmconsultancy.32117cb8-1811-4271-b2d1-6ffd10acf280",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Project Services Automation",
+                    "titleId": 512
+                }
+            ],
+            "Dynamics 365 for Sales": [
+                {
+                    "id": "919f667f2198d542e0bf42151cf6d06634d5178facba2ddd24efc381365c2a69",
+                    "parentId": "926ca42031ce8aa7366a60c30062a7932f208da21af14f9942873d37887ef846",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "experlogix.a0edac83-bac4-4847-a68f-3301cbe32503",
+                            "order": 1
+                        },
+                        {
+                            "id": "proscpq.15fbc600-c6cb-489f-9bb9-7577900de637",
+                            "order": 2
+                        }
+                    ],
+                    "sectionId": "Configure, Price & Quote",
+                    "titleId": "Configure, Price & Quote"
+                },
+                {
+                    "id": "9fea17b0af25d80ac16edbb3b8e09da96c400edad45000f25cc78b5d0810a367",
+                    "parentId": "926ca42031ce8aa7366a60c30062a7932f208da21af14f9942873d37887ef846",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "insideviewinc.b5386882-4312-4d69-879a-23081897c012",
+                            "order": 1
+                        },
+                        {
+                            "id": "versium-analytics.e74ab7ae-bf54-4561-9e76-373c1a66016d",
+                            "order": 2
+                        },
+                        {
+                            "id": "dnb.dnb_hoovers_dynamics",
+                            "order": 3
+                        },
+                        {
+                            "id": "dnb.dnb_optimizer",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": " Business data and insights",
+                    "titleId": " Business data and insights"
+                }
+            ],
+            "Office365": [
+                {
+                    "id": "b15167b32ecaf6f7d8ea3d7e87a1e0086e15e7772240f2b3c3ce4c5153f60d0b",
+                    "parentId": "e991b1a4226c12de7514fa92f67b265497e6a93f7fe40c063ad4a7a704faa679",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "wa104379477",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104178141",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104380444",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104380519",
+                            "order": 4
+                        },
+                        {
+                            "id": "hyperfish.8437f635-56d2-402b-bb8b-2b5549267c61",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104114857",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Best apps of the year for Office 365",
+                    "titleId": "Best apps of the year for Office 365"
+                },
+                {
+                    "id": "6b1a5af8d4de5a04de1b8b103903da346fe3999412dd9d773325ace2bd83ad83",
+                    "parentId": "e991b1a4226c12de7514fa92f67b265497e6a93f7fe40c063ad4a7a704faa679",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "wa104379526",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104380519",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104114857",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104379047",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379334",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104380711",
+                            "order": 6
+                        },
+                        {
+                            "id": "wa104379327",
+                            "order": 7
+                        }
+                    ],
+                    "sectionId": "Editor's Pick for Office 365",
+                    "titleId": "Editor's Pick for Office 365"
+                },
+                {
+                    "id": "059f633d02abc90ab3cf4de323cb84db3eb520e8ccd6a562cb11d6e8293344e1",
+                    "parentId": "e991b1a4226c12de7514fa92f67b265497e6a93f7fe40c063ad4a7a704faa679",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "wa104178141",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104381155",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104380118",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104380919",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104380519",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Word",
+                    "titleId": 4194304
+                },
+                {
+                    "id": "88632b8cc6aa1d3f21da04a885dd07757afb1a2d52cfcb829a823f7493f9e5c3",
+                    "parentId": "e991b1a4226c12de7514fa92f67b265497e6a93f7fe40c063ad4a7a704faa679",
+                    "order": 4,
+                    "items": [
+                        {
+                            "id": "wa104379220",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104381026",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104380194",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104380050",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104380255",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104380519",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Excel",
+                    "titleId": 32768
+                },
+                {
+                    "id": "2eea92f885d9e1de513698806774c8f629bb090ad06c790970ed725fb76921d4",
+                    "parentId": "e991b1a4226c12de7514fa92f67b265497e6a93f7fe40c063ad4a7a704faa679",
+                    "order": 5,
+                    "items": [
+                        {
+                            "id": "wa104178141",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104380117",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104218073",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104380050",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104380907",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "PowerPoint",
+                    "titleId": 262144
+                },
+                {
+                    "id": "68e54a16481b2e5f5e6c81f5f6486b95fb4207f0bbf7327b9cce16bd6e73a5b2",
+                    "parentId": "e991b1a4226c12de7514fa92f67b265497e6a93f7fe40c063ad4a7a704faa679",
+                    "order": 6,
+                    "items": [
+                        {
+                            "id": "wa104379606",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104380494",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104379909",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104218067",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104380464",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104381158",
+                            "order": 6
+                        },
+                        {
+                            "id": "wa104380444",
+                            "order": 7
+                        },
+                        {
+                            "id": "wa104380775",
+                            "order": 8
+                        }
+                    ],
+                    "sectionId": "Outlook",
+                    "titleId": 131072
+                },
+                {
+                    "id": "7f3603efe65ce2e529b227cd326cb42ee0919491ab0826d09b92b40c89d2f25f",
+                    "parentId": "e991b1a4226c12de7514fa92f67b265497e6a93f7fe40c063ad4a7a704faa679",
+                    "order": 7,
+                    "items": [
+                        {
+                            "id": "wa104381565",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104381599",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104381349",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104381374",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104381088",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104381552",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Teams",
+                    "titleId": 2097152
+                }
+            ],
+            "add-ins": [
+                {
+                    "id": "25eb7b8073d7af7d95adda8377bb929b0df9065dea144838629a25aa6ef1b064",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "cafexliveassistfor365.27ac7522-68b2-44a2-9f36-da66a47e2b19",
+                            "order": 1
+                        },
+                        {
+                            "id": "docusign.3701c77e-1cfa-4c56-91e6-3ed0b622145a",
+                            "order": 2
+                        },
+                        {
+                            "id": "proscpq.6c58581a-e15f-4378-aa84-5601a67a903a",
+                            "order": 3
+                        },
+                        {
+                            "id": "promx_gmbh.3516badf-ab0e-4552-8b6a-87e0595d2369",
+                            "order": 4
+                        },
+                        {
+                            "id": "xrm1.e8242cc1-bab9-4bb2-8451-d4abe636c41f",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Popular Apps for Dynamics 365",
+                    "titleId": "Popular Apps for Dynamics 365"
+                },
+                {
+                    "id": "62facd6ab84ab6842e46663f5e6edd6f123dfa7c71d452fb0de65de9f5b27ca2",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "wa104379606",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104380259",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104381095",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104380646",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104380444",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104114857",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Best apps of the year for Office 365",
+                    "titleId": "Best apps of the year for Office 365"
+                },
+                {
+                    "id": "8fa1d624699ee2abb75ae17c7e4d5f6669d854637d97b397eb9dc01a2c198ddf",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 3,
+                    "items": [],
+                    "sectionId": "Power BI",
+                    "titleId": 16
+                },
+                {
+                    "id": "645ae76b462495851d7feaf720572307900d3439389cf5d84d6ebfcfed41199f",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 4,
+                    "items": [
+                        {
+                            "id": "swisssalary.279e36b0-a2cd-43c8-911d-c8aba2bc6ed7",
+                            "order": 1
+                        },
+                        {
+                            "id": "orango-ab.792b46cd-efc4-41b4-9b37-c15ee042c38f",
+                            "order": 2
+                        },
+                        {
+                            "id": "nab.a49e6393-37f9-43fc-8b10-03ebff712d32",
+                            "order": 3
+                        },
+                        {
+                            "id": "ecraft-go.d71592d0-efca-4e6f-8031-dc337147e43a",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Dynamics NAV",
+                    "titleId": 4
+                },
+                {
+                    "id": "acfb0d6350d24b350501970628b7e9fe88ed5564286e597506c96be858e280fd",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 5,
+                    "items": [
+                        {
+                            "id": "cafexliveassistfor365.27ac7522-68b2-44a2-9f36-da66a47e2b19",
+                            "order": 1
+                        },
+                        {
+                            "id": "axtension.62748ec2_00d2_4e33_a4f7_cf1fed94d24a",
+                            "order": 2
+                        },
+                        {
+                            "id": "provance-itsm.b53e59b6-d92d-422d-b90f-66c3eb342f6b",
+                            "order": 3
+                        },
+                        {
+                            "id": "mtccrm.ad859fd0-01a2-4bd2-a40a-671567c57e90",
+                            "order": 4
+                        },
+                        {
+                            "id": "powerobjects.3803cf60-2a2b-4d0e-8565-59195eeec914",
+                            "order": 5
+                        },
+                        {
+                            "id": "mscrm-addons.476a180b-fafb-46ee-815b-a4bc76134928",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Customer Services",
+                    "titleId": 1024
+                },
+                {
+                    "id": "c00803132332e5bd1d8915dd2bf4b0472cc57adc99ae25bc25399ce028b6a57a",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 6,
+                    "items": [
+                        {
+                            "id": "mscrm.44f192ec-e387-436c-886c-879923d8a448",
+                            "order": 1
+                        },
+                        {
+                            "id": "docusign.3701c77e-1cfa-4c56-91e6-3ed0b622145a",
+                            "order": 2
+                        },
+                        {
+                            "id": "adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86",
+                            "order": 3
+                        },
+                        {
+                            "id": "versium-analytics.e74ab7ae-bf54-4561-9e76-373c1a66016d",
+                            "order": 4
+                        },
+                        {
+                            "id": "north52.a67b3d73-064c-4794-988b-1c7a40c6d886",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Sales",
+                    "titleId": 128
+                },
+                {
+                    "id": "12d8f2cdae125444c23e1ce6b48d21f9edd54ed3c38f46500e97dd22f7d58c18",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 7,
+                    "items": [
+                        {
+                            "id": "wa104379806",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104380148",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104379874",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104380757",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379568",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Word",
+                    "titleId": 4194304
+                },
+                {
+                    "id": "aa9a2184b90c74bfb46cb6419312e198974e88fb98d2b7c0a3f1155a233049e1",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 8,
+                    "items": [
+                        {
+                            "id": "wa104380194",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104379629",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104380142",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104099688",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379485",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Excel",
+                    "titleId": 32768
+                },
+                {
+                    "id": "a646034f4f8a1a218a7de8966aa287007b76ee061a98cfc5246ea7f272259763",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 9,
+                    "items": [
+                        {
+                            "id": "wa104379617",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104379878",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104381158",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104379615",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379811",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104380626",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Outlook",
+                    "titleId": 131072
+                },
+                {
+                    "id": "22767da02d7e5da66d7dbb76bfd068a2a7f90c3a90ddf292ce2e850a0d7ad56a",
+                    "parentId": "522389ca249a81f3a7e25e7c1f6857333c2722b066974099977ad00b2a5859be",
+                    "order": 10,
+                    "items": [
+                        {
+                            "id": "wa104381060",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104381116",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104381390",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104380975",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104381088",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104381552",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Teams",
+                    "titleId": 2097152
+                }
+            ],
+            "Analytics": [
+                {
+                    "id": "f6d4a2e672962ead5f4628c8ea975285b6ffe43b58c2320d7d22a3be29bee366",
+                    "parentId": "0c9ad08582785759159f02df7aa40e3947dfb17e7b16b467ff44f3ffdae542f4",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "wa104380142",
+                            "order": 1
+                        },
+                        {
+                            "id": "bc-platforms.bcpgv1835",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104381196",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104038830",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "ArtificialIntelligence": [
+                {
+                    "id": "d000e11cc0dd27ca49a34310cc711dbe49c2675b3ca9f8867d5c8f7903383edb",
+                    "parentId": "3d6542986da20b7abc26cd4ccc5b3edf719dd5a9220b24186f00ce13ff9cb883",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "parallelm.mcenter-v112-az",
+                            "order": 1
+                        },
+                        {
+                            "id": "graphawareltd.hume",
+                            "order": 2
+                        },
+                        {
+                            "id": "o9solutions.o9-ibp-mfg",
+                            "order": 3
+                        },
+                        {
+                            "id": "proscpq.15fbc600-c6cb-489f-9bb9-7577900de637",
+                            "order": 4
+                        },
+                        {
+                            "id": "kensci.4831168d-903c-4ac9-a2fc-75952624b577",
+                            "order": 5
+                        },
+                        {
+                            "id": "wysdom.wysdom",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "Collaboration": [
+                {
+                    "id": "65406c85773b958d5031cd5e929bb3de98cb79636025ce7f0d19e23546a684ba",
+                    "parentId": "2ec791b440fa4a418c8cfad70f2336eaeecbd9cd1b985bd19050c44df4b87fad",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "grantvantage.543837c7-3bee-41ca-9c29-c24d8a87e738",
+                            "order": 1
+                        },
+                        {
+                            "id": "adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86",
+                            "order": 2
+                        },
+                        {
+                            "id": "icertiscontractmanagement.5fc2f665-edf2-40cf-b522-5e6a6fb654a9",
+                            "order": 3
+                        },
+                        {
+                            "id": "wa104380626",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379606",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "CustomerService": [
+                {
+                    "id": "f3159f144740fffc775d543833dee20ae1765d409fa00d1ec2e5b6313127f380",
+                    "parentId": "c02c73ddf5c7e884303faaafe304331c8779a07d94c72c216eeb1dd118bbdd30",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "pubid.360|aid.360quicksign|pappid.e650fd47-7d47-4728-9402-dde118edb4ad",
+                            "order": 1
+                        },
+                        {
+                            "id": "iotapapps.a760c5b7-71e7-4355-8213-43d4895b03a3",
+                            "order": 2
+                        },
+                        {
+                            "id": "sonata-software-ltd.6f10533c-c49e-473c-8e1b-033d97a80cc5",
+                            "order": 3
+                        },
+                        {
+                            "id": "axtension.62748ec2_00d2_4e33_a4f7_cf1fed94d24a",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379222",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "Finance": [
+                {
+                    "id": "c107e83ba862c16e0ab45302a8cc67d52cc4cce89bdd1a5dd9600f6376f90b57",
+                    "parentId": "d53ee109a9f599770a446f8428c63bc58b9a8e522812d0d1e19a00211b0413f8",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "crowe_horwath.4aa0180c-0b70-4c5e-9539-e7d7d841ee52",
+                            "order": 1
+                        },
+                        {
+                            "id": "awarait.awaraeasycreditnote",
+                            "order": 2
+                        },
+                        {
+                            "id": "pubid.appxite|aid.appxite_subscription_commerce_and_billing|pappid.c00d3fca-de79-4409-a9b1-e50f41a98eac",
+                            "order": 3
+                        },
+                        {
+                            "id": "pubid.boltrics|aid.365fortransportation|pappid.0e4c2bf7-ed4f-4651-aebf-b4162f1684ca",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379716",
+                            "order": 5
+                        },
+                        {
+                            "id": "sa000000069",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "HumanResources": [
+                {
+                    "id": "d9f9be46fea4ced1bb9c4016cc92cac9cfd69f892e00a035a542235918b20a57",
+                    "parentId": "a1a8ef4e5f9103c69582f733a9b43b0a8394deff8714ec0bfc49b2ed850f2681",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "xrm1.dbc80f93-9971-4550-bc34-f30507d713f0",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104381217",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa104380782",
+                            "order": 3
+                        },
+                        {
+                            "id": "cloudsonmars.hqops",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379131",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "ITandAdministration": [
+                {
+                    "id": "48a3b120eb0bc20b53c2f1814a47bd5288540962ec527e07126464a3f1e37667",
+                    "parentId": "488e26ad0d0c7c090baf00d5f24a66b31ead9e194849ff038e8960c015a4f7fb",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "provance-itsm.b53e59b6-d92d-422d-b90f-66c3eb342f6b",
+                            "order": 1
+                        },
+                        {
+                            "id": "bc-platforms.bcpgv1835",
+                            "order": 2
+                        },
+                        {
+                            "id": "data8.duplicare",
+                            "order": 3
+                        },
+                        {
+                            "id": "crm-partners-memberslife.b0d06c80-cbec-4a6f-9e06-60c46bf9c9c4",
+                            "order": 4
+                        },
+                        {
+                            "id": "kaskelasolutions.8e2a0463-dde5-4869-bf39-5efc945ffdbb",
+                            "order": 5
+                        },
+                        {
+                            "id": "wa104381403",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "IoT": [
+                {
+                    "id": "99f10cd19ea81fe7538ed6aa5735ba7dee51d559cad0253b81236413e83d7011",
+                    "parentId": "dba4a28f97b8d952c013ea3199992ab2ffd3a293ffc260237f3f08b8481d1952",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "bright-wolf.springboard-industrial-iot-azure-system",
+                            "order": 1
+                        },
+                        {
+                            "id": "hitachi-solutions-america.4e6e21a4-07f0-4aea-8736-23b1d9b315f2",
+                            "order": 2
+                        },
+                        {
+                            "id": "ebecsltd.smartworker",
+                            "order": 3
+                        },
+                        {
+                            "id": "mariner.spyglassconnectedfactory",
+                            "order": 4
+                        },
+                        {
+                            "id": "energisme.012345",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "Marketing": [
+                {
+                    "id": "544b70a61ae42e324b3c2bcf4ffd76779791b7bbce34c6e20b60657281d47692",
+                    "parentId": "23249bee6029f85486e8a261542f9ca203ef3635a936348ef3fd99a4979a643c",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "sitecore.sxp_824",
+                            "order": 1
+                        },
+                        {
+                            "id": "episerver.episervercommerce",
+                            "order": 2
+                        },
+                        {
+                            "id": "data8.gdpr-provenance",
+                            "order": 3
+                        },
+                        {
+                            "id": "clickdimensions1.dca08b69-4f2b-4b6e-b0d4-5f11e9da1439",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "OperationsSupplyChain": [
+                {
+                    "id": "de48cca721574a6efae38bb22b0628234673f477be0ef83910d0003cb7a7efe1",
+                    "parentId": "d26045fdac470044a869b9cfbb1307b8f7c680fedc015a27db65f51e9de06e4c",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "yavicaamericas.facilitymanagement",
+                            "order": 1
+                        },
+                        {
+                            "id": "icertiscontractmanagement.5fc2f665-edf2-40cf-b522-5e6a6fb654a9",
+                            "order": 2
+                        },
+                        {
+                            "id": "pubid.esc_bvba|aid.metalmanager|pappid.55630db6-add9-4ef6-bb20-db89e40f126c",
+                            "order": 3
+                        },
+                        {
+                            "id": "neal_analytics.8066ad01-1e61-40cd-bd33-9b86c65fa73a",
+                            "order": 4
+                        },
+                        {
+                            "id": "dicentralcorporation.dicentral-smartturn",
+                            "order": 5
+                        },
+                        {
+                            "id": "pubid.allium|aid.pimics|pappid.394dc561-0292-494f-93f0-4583392bd7e0",
+                            "order": 6
+                        },
+                        {
+                            "id": "sana-commerce.66bd2982-af0d-443e-90b7-e5e8f4bd038e",
+                            "order": 7
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "Productivity": [
+                {
+                    "id": "9462c24849ea0264888221ed5503f818f5e149d0d2e436da83145e6009562f78",
+                    "parentId": "bdd740f40eda00904ce248362fd9b8bdef8186424b0ba7f6df29c835445abde2",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "wa104379617",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104380827",
+                            "order": 2
+                        },
+                        {
+                            "id": "adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86",
+                            "order": 3
+                        },
+                        {
+                            "id": "pubid.comsol|aid.docutie|pappid.0aab5c33-b858-47a9-8d34-3f2375692e01",
+                            "order": 4
+                        },
+                        {
+                            "id": "pobuca.pobuca-webapp",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "Sales": [
+                {
+                    "id": "ea00024a5129eaac5a4ed116af322ac2b13fefaafa7a73b8dc1c9ee923e052df",
+                    "parentId": "72bbc6982ff4b63e43543d81e2fc6e5155ea383c9937296f30461ecd81336d19",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "sana-commerce.66bd2982-af0d-443e-90b7-e5e8f4bd038e",
+                            "order": 1
+                        },
+                        {
+                            "id": "fpx.cpq-dynamics",
+                            "order": 2
+                        },
+                        {
+                            "id": "pobuca.pobuca_sales",
+                            "order": 3
+                        },
+                        {
+                            "id": "pubid.eos_solutions|aid.ecb_historical_exchange_rates|pappid.5ef3dff7-0eaf-4884-987c-e5c5956df75b",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "Distribution": [
+                {
+                    "id": "5f3701a1a0c32e00b737c58844af5e354bdd735f6fba053fb63bd680c0b646d1",
+                    "parentId": "77e712202f1efed0830838e665b534ae89428cf7b88103a51912978ae7d774bd",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "experlogix.4a304dd3-3938-4f4e-98a5-ee923f46ca6e",
+                            "order": 1
+                        },
+                        {
+                            "id": "toolsgroup.68211dad-3960-4da8-a6a8-5b9cd0de8119",
+                            "order": 2
+                        },
+                        {
+                            "id": "neal-analytics.marketdriveranalysis",
+                            "order": 3
+                        },
+                        {
+                            "id": "bluehorseshoe.e2a04907-a8d0-4e0b-9ce3-e3a675966043",
+                            "order": 4
+                        },
+                        {
+                            "id": "bluehorseshoe.734f8407-259f-4a10-9706-0b50c9173b15",
+                            "order": 5
+                        },
+                        {
+                            "id": "ibisinc.732a9efb-d204-49fc-b73d-9c815a36c9cf",
+                            "order": 6
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "Education": [
+                {
+                    "id": "4522d8ee8c85f5d737a5fc47ab0e557ada19c72747b29852bd74f0f1f80f2122",
+                    "parentId": "62c36d70203d9f1c2a9e865680ab5eb3875c82c4c96ec12b20827b3bb02fde40",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "wa104381391",
+                            "order": 1
+                        },
+                        {
+                            "id": "sa000000022",
+                            "order": 2
+                        },
+                        {
+                            "id": "wa103623707",
+                            "order": 3
+                        },
+                        {
+                            "id": "xrm1.hr-management-for-education",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104379370",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "ProfessionalServices": [
+                {
+                    "id": "7fa10169785d0b7e3ab818adccc1923fd609a9fa93a644b52c167fc03013e452",
+                    "parentId": "0b4069cecec16148f80bdf2b0d53ac427f84c2ee5348a26f9f49488e9fa93bf0",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "connecting-software.395d444b-1985-4303-884d-9698072ef249",
+                            "order": 1
+                        },
+                        {
+                            "id": "ls_retail.d18812b2-4022-4a65-962f-210f198dde10",
+                            "order": 2
+                        },
+                        {
+                            "id": "neal_analytics.8066ad01-1e61-40cd-bd33-9b86c65fa73a",
+                            "order": 3
+                        },
+                        {
+                            "id": "affinio.affinio",
+                            "order": 4
+                        },
+                        {
+                            "id": "wa104381257",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Featured",
+                    "titleId": "Featured"
+                }
+            ],
+            "FinancialServices": [
+                {
+                    "id": "0c1fa8a58ccb5c55d30d9a8e0cd2fb6be2a4e3519fd491d48a506cc2c0e5181b",
+                    "parentId": "258dc8c70ba4476f5fa8eed5ec5b086197463540507ba9b8b18d6265cdc80591",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "cafexliveassistfor365.27ac7522-68b2-44a2-9f36-da66a47e2b19",
+                            "order": 1
+                        },
+                        {
+                            "id": "sitecore.sxp_824",
+                            "order": 2
+                        },
+                        {
+                            "id": "proscpq.15fbc600-c6cb-489f-9bb9-7577900de637",
+                            "order": 3
+                        }
+                    ],
+                    "sectionId": "Insurance",
+                    "titleId": "Insurance"
+                },
+                {
+                    "id": "d55f6d3a847c2ebb6cd775f7ff2b0c3bc7d601fe7e75f54aff54f93107fd0fa6",
+                    "parentId": "258dc8c70ba4476f5fa8eed5ec5b086197463540507ba9b8b18d6265cdc80591",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "icertiscontractmanagement.58e63518-78dc-4033-b87d-ed372a84a018",
+                            "order": 1
+                        },
+                        {
+                            "id": "numerix.32502914-857f-402f-a0b0-3cd948b4a5ba",
+                            "order": 2
+                        },
+                        {
+                            "id": "biocatch.biocatch_behavioral_biometrics",
+                            "order": 3
+                        }
+                    ],
+                    "sectionId": "Banking & capital markets",
+                    "titleId": "Banking & capital markets"
+                },
+                {
+                    "id": "6c5fae09544a6de8c96a3e2405c3ab35d2c6c5987bd365d7139d9de613f600e4",
+                    "parentId": "258dc8c70ba4476f5fa8eed5ec5b086197463540507ba9b8b18d6265cdc80591",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "temenos.9632b3b6-0e0a-494d-88d8-39a5620999dc",
+                            "order": 1
+                        },
+                        {
+                            "id": "prevedere_.prevedere_demand_forecasting-mfg",
+                            "order": 2
+                        },
+                        {
+                            "id": "finpal.7ab686b4-f939-4ed8-b31e-121aaff36e7e",
+                            "order": 3
+                        }
+                    ],
+                    "sectionId": "More apps for financial services",
+                    "titleId": "More apps for financial services"
+                }
+            ],
+            "Government": [
+                {
+                    "id": "a88f6c872b784d83c6849e6bf234f5f9bca2a40727c7c69960af1dbec5b835c6",
+                    "parentId": "db54898d23051d0d60dd7a65f77399f0b78cbbbb0478658d7baa4c213cc1d32c",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "avepoint.7738ac97-fd40-4ed3-aaab-327c3e0fe0b3",
+                            "order": 1
+                        },
+                        {
+                            "id": "grantvantage.543837c7-3bee-41ca-9c29-c24d8a87e738",
+                            "order": 2
+                        },
+                        {
+                            "id": "icertiscontractmanagement.58e63518-78dc-4033-b87d-ed372a84a018",
+                            "order": 3
+                        },
+                        {
+                            "id": "bismart.bismart-citybot",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Civilian",
+                    "titleId": "Civilian"
+                },
+                {
+                    "id": "815e85de4cea83a81294761f52c4602089700a87e664557efe648b2b4068ad4b",
+                    "parentId": "db54898d23051d0d60dd7a65f77399f0b78cbbbb0478658d7baa4c213cc1d32c",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86",
+                            "order": 1
+                        },
+                        {
+                            "id": "emappetizer.291b60c4-dc1c-4879-888a-063f586c1d46",
+                            "order": 2
+                        },
+                        {
+                            "id": "avepoint.7738ac97-fd40-4ed3-aaab-327c3e0fe0b3",
+                            "order": 3
+                        },
+                        {
+                            "id": "grantvantage.543837c7-3bee-41ca-9c29-c24d8a87e738",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Local regional government",
+                    "titleId": "Local regional government"
+                },
+                {
+                    "id": "7fbb2eab9d74b2a73024c825d7d5d02de934f0a6a55aff2a613b97aa264dda6a",
+                    "parentId": "db54898d23051d0d60dd7a65f77399f0b78cbbbb0478658d7baa4c213cc1d32c",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "mscrm.58666c7d-65ee-452d-8708-70b4d471d4c0",
+                            "order": 1
+                        },
+                        {
+                            "id": "bismart.bismart-citybot",
+                            "order": 2
+                        },
+                        {
+                            "id": "emappetizer.291b60c4-dc1c-4879-888a-063f586c1d46",
+                            "order": 3
+                        },
+                        {
+                            "id": "adoxio.adoxio-regulate365-license-and-permit",
+                            "order": 4
+                        },
+                        {
+                            "id": "finpal.7ab686b4-f939-4ed8-b31e-121aaff36e7e",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "More apps for governement",
+                    "titleId": "More apps for governement"
+                }
+            ],
+            "HealthCareandLifeSciences": [
+                {
+                    "id": "60599f935f6f3cce74f3d9e6ade6a62717fc8f0c2e76e0a85b4376d0952c5000",
+                    "parentId": "c7cc7b11ea336ac2d17e50f510089046141baf2de33c0d41b9b3bba897effca6",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "cgi.d9827e75-9119-45ef-a505-67deec14db48",
+                            "order": 1
+                        },
+                        {
+                            "id": "kensci.4831168d-903c-4ac9-a2fc-75952624b577",
+                            "order": 2
+                        },
+                        {
+                            "id": "proscpq.15fbc600-c6cb-489f-9bb9-7577900de637",
+                            "order": 3
+                        },
+                        {
+                            "id": "optiks.clinicalsite360",
+                            "order": 4
+                        },
+                        {
+                            "id": "brillio-technologies.9d56edfc-b702-45db-8890-6ffbb5fc0264",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Health payor",
+                    "titleId": "Health payor"
+                },
+                {
+                    "id": "8aef4869cdc8c4a25171dce1cefd08dfc6f1c5b6adc39355541fc5d49e4a3bf6",
+                    "parentId": "c7cc7b11ea336ac2d17e50f510089046141baf2de33c0d41b9b3bba897effca6",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "tribridge_health360.h360materials",
+                            "order": 1
+                        },
+                        {
+                            "id": "bc-platforms.bcpgv1835",
+                            "order": 2
+                        },
+                        {
+                            "id": "indegene.omnipresence",
+                            "order": 3
+                        },
+                        {
+                            "id": "snp-technologies.smart-healthcare-analytics",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Health provider",
+                    "titleId": "Health provider"
+                },
+                {
+                    "id": "c007b690c9fc34b4e7d1916105d730ee0ee15d0d6fe55739f76ed4a081a062b7",
+                    "parentId": "c7cc7b11ea336ac2d17e50f510089046141baf2de33c0d41b9b3bba897effca6",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "cgi.d9827e75-9119-45ef-a505-67deec14db48",
+                            "order": 1
+                        },
+                        {
+                            "id": "tribridge_health360.7bf3521c-2af4-4f86-8034-1dfbeee79b78",
+                            "order": 2
+                        },
+                        {
+                            "id": "getrealhealth.ellie-grh",
+                            "order": 3
+                        },
+                        {
+                            "id": "mazikglobal.mazikcareappointmentscheduling",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "More apps for health",
+                    "titleId": "More apps for health"
+                }
+            ],
+            "Manufacturing": [
+                {
+                    "id": "17c699ff6b2caa2371879b925a0dcec154733fb238a0163e6f82697eda2888a1",
+                    "parentId": "5f850b1bc45a68503fc0d88570785d9c9809d07e687a54dec3eb3db5bdc7954a",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "annata.6e80c00d-74f6-499d-a44a-ef3f7aaec0bd",
+                            "order": 1
+                        },
+                        {
+                            "id": "prevedere_.prevedere_demand_planning-cpg_retail",
+                            "order": 2
+                        },
+                        {
+                            "id": "toolsgroup.68211dad-3960-4da8-a6a8-5b9cd0de8119",
+                            "order": 3
+                        },
+                        {
+                            "id": "o9solutions.o9-ibp-mfg",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Discrete manufacturing",
+                    "titleId": "Discrete manufacturing"
+                },
+                {
+                    "id": "6370c20c7e12824b78e5b6e42d8175fe635d7a6e6ca5e54c429d7139307342bc",
+                    "parentId": "5f850b1bc45a68503fc0d88570785d9c9809d07e687a54dec3eb3db5bdc7954a",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "proscpq.6c58581a-e15f-4378-aa84-5601a67a903a",
+                            "order": 1
+                        },
+                        {
+                            "id": "xrm1.hr-management-for-agriculture",
+                            "order": 2
+                        },
+                        {
+                            "id": "scalable.8c1f3064-865b-43b8-98e0-aef607af1d4b",
+                            "order": 3
+                        }
+                    ],
+                    "sectionId": "Chemicals & agrochemicals",
+                    "titleId": "Chemicals & agrochemicals"
+                },
+                {
+                    "id": "646ca72103a80cf397859d47e74b0632308059d238859a6e5580f197402c9b19",
+                    "parentId": "5f850b1bc45a68503fc0d88570785d9c9809d07e687a54dec3eb3db5bdc7954a",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "dynaway.dynaway-eam-for-manufacturing",
+                            "order": 1
+                        },
+                        {
+                            "id": "indusa.dsc",
+                            "order": 2
+                        },
+                        {
+                            "id": "icertiscontractmanagement.5fc2f665-edf2-40cf-b522-5e6a6fb654a9",
+                            "order": 3
+                        },
+                        {
+                            "id": "toolsgroup.tgmeiodemo",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "More apps for manufacturing",
+                    "titleId": "More apps for manufacturing"
+                }
+            ],
+            "RetailandConsumerGoods": [
+                {
+                    "id": "d3bcde35af5f53e0a2d642aa06008ce38de02245f5b319dd2897bc8e3dad7830",
+                    "parentId": "336835ce0524ad095a600e1c2d17c35aef362f37f3370c6116cc69fdc3157672",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "affinio.affinio",
+                            "order": 1
+                        },
+                        {
+                            "id": "episerver.episervercommerce",
+                            "order": 2
+                        },
+                        {
+                            "id": "neal_analytics.8066ad01-1e61-40cd-bd33-9b86c65fa73a",
+                            "order": 3
+                        },
+                        {
+                            "id": "flintfox-trade-management-dist.2c631707-e421-4248-b22c-27b430af9fd9",
+                            "order": 4
+                        },
+                        {
+                            "id": "afs.fa9fc926-3bc3-43dd-becd-3ef41b52c10b",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Consumer goods",
+                    "titleId": "Consumer goods"
+                },
+                {
+                    "id": "f185b15c6580448022aa55ff9e141583d7fa041337df6b2552c406a7bec5fb0c",
+                    "parentId": "336835ce0524ad095a600e1c2d17c35aef362f37f3370c6116cc69fdc3157672",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "toolsgroup.68211dad-3960-4da8-a6a8-5b9cd0de8119",
+                            "order": 1
+                        },
+                        {
+                            "id": "wa104380142",
+                            "order": 2
+                        },
+                        {
+                            "id": "sonata-software-ltd.6f10533c-c49e-473c-8e1b-033d97a80cc5",
+                            "order": 3
+                        },
+                        {
+                            "id": "pubid.scapta|aid.50395b48-f7b6-4445-96df-6faaa8c96deb|pappid.96da1317-c2e8-42ec-aa19-216e33d0da19",
+                            "order": 4
+                        },
+                        {
+                            "id": "triomis.71747891-df31-49e5-a748-1d1a199caf41",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Retailers",
+                    "titleId": "Retailers"
+                },
+                {
+                    "id": "372f933fdce349508d1446199c8e04b3ae150d86da7ddb2b6a9d31fe2e514ace",
+                    "parentId": "336835ce0524ad095a600e1c2d17c35aef362f37f3370c6116cc69fdc3157672",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "afs.fa9fc926-3bc3-43dd-becd-3ef41b52c10b",
+                            "order": 1
+                        },
+                        {
+                            "id": "ls_retail.d18812b2-4022-4a65-962f-210f198dde10",
+                            "order": 2
+                        },
+                        {
+                            "id": "neal_analytics.8066ad01-1e61-40cd-bd33-9b86c65fa73a",
+                            "order": 3
+                        },
+                        {
+                            "id": "affinio.affinio",
+                            "order": 4
+                        },
+                        {
+                            "id": "episerver.episervercommerce",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Retail execution",
+                    "titleId": "Retail execution"
+                }
+            ]
+        },
+        "dataLoaded": {
+            "business": true
+        },
+        "partnerAppDataLoaded": false,
+        "curatedDataLoaded": {
+            "business": true
+        },
+        "subsetData": [],
+        "subsetSearchQuery": "",
+        "temporaryInitialLoadingEntityDetailData": null,
+        "temporaryInitialRenderedTileExtraData": {}
+    },
+    "users": {
+        "id": "10037FFE97B3883F",
+        "group": [
+            "aad"
+        ],
+        "signedIn": true,
+        "idToken": "",
+        "idTokenPayload": "",
+        "accessToken": {
+            "spza": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6InBpVmxsb1FEU01LeGgxbTJ5Z3FHU1ZkZ0ZwQSIsImtpZCI6InBpVmxsb1FEU01LeGgxbTJ5Z3FHU1ZkZ0ZwQSJ9.eyJhdWQiOiJhMGUxZTM1My0xYTNlLTQyY2YtYThlYS0zYTk3NDZlZWM1OGMiLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC83MmY5ODhiZi04NmYxLTQxYWYtOTFhYi0yZDdjZDAxMWRiNDcvIiwiaWF0IjoxNTgwMTY1NzM1LCJuYmYiOjE1ODAxNjU3MzUsImV4cCI6MTU4MDE2OTYzNSwiYWNyIjoiMSIsImFpbyI6IkFVUUF1LzhPQUFBQUN3T2IydHJudFVVdEJPOW0rZHJDbERodWNnK0xtd3JjL1dwWTlhSS96R1lmdjRwRmtSYW1vdmlrZWJ1am94R2g4dWJicDVWc3pCSXlMNFU5aXd2ZUtBPT0iLCJhbXIiOlsicnNhIiwibWZhIl0sImFwcGlkIjoiYTBlMWUzNTMtMWEzZS00MmNmLWE4ZWEtM2E5NzQ2ZWVjNThjIiwiYXBwaWRhY3IiOiIyIiwiZGV2aWNlaWQiOiI4OThmZWM1Yy04NGUyLTRmMGYtOWFhNC05MmY3NjgyNDRmZTYiLCJmYW1pbHlfbmFtZSI6IkNoZW4iLCJnaXZlbl9uYW1lIjoiQXJlcyIsImlwYWRkciI6IjE2Ny4yMjAuMjMzLjE2MyIsIm5hbWUiOiJBcmVzIENoZW4iLCJvaWQiOiJmM2I5NGRkMy0yMGNjLTQ5YTMtOThjZS1iMTI4NzY1OGU4Y2YiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMjE0Njc3MzA4NS05MDMzNjMyODUtNzE5MzQ0NzA3LTIwOTMzMjMiLCJwdWlkIjoiMTAwMzdGRkU5N0IzODgzRiIsInNjcCI6IlVzZXIuUmVhZCIsInN1YiI6InpZdEl0S24tSjEtMjZfRlhtX0llblh1ZmhJNGFsbnRiZ2lSUDEwNkZFNlEiLCJ0aWQiOiI3MmY5ODhiZi04NmYxLTQxYWYtOTFhYi0yZDdjZDAxMWRiNDciLCJ1bmlxdWVfbmFtZSI6ImFyZWNoZW5AbWljcm9zb2Z0LmNvbSIsInVwbiI6ImFyZWNoZW5AbWljcm9zb2Z0LmNvbSIsInV0aSI6InZLcDRkbm5SZVVtUGRDTk1iX2M0QVEiLCJ2ZXIiOiIxLjAifQ.n9nG9rpN7Hn4rW6vtBIZ_M6VNV6aKJoNiwWoWP12S3MonNnvbpwXwiwj2stPXvQqv4Jy-e2QACylXco79T-pQFiJYUBzabdaNidF6r6DOMiJ3Su7-T2H_D0X36lafQvGs9tNqTNPzq_tSIP1LXBlax3mcHRHwLT5e0-86pE3nIGXv75hi0NkxG7t8yj8MOwoDMUWRoMZ3Lr414rab9xnGZ3hHhzNQ2MpsyTp3Fio9PLEAYvGRSWSp1kpXti2cIlAKcHII2nDZQd7-xBeWQz-BYtwrG0IMecap4eMwzfpfhcNjNNwOb_9gEPvuibL0ueTwbzCK39epgRPcIYjVVL0wA",
+            "testDrive": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6InBpVmxsb1FEU01LeGgxbTJ5Z3FHU1ZkZ0ZwQSIsImtpZCI6InBpVmxsb1FEU01LeGgxbTJ5Z3FHU1ZkZ0ZwQSJ9.eyJhdWQiOiJodHRwczovL3Rlc3Rkcml2ZS5henVyZS5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC83MmY5ODhiZi04NmYxLTQxYWYtOTFhYi0yZDdjZDAxMWRiNDcvIiwiaWF0IjoxNTgwMTY1NzM1LCJuYmYiOjE1ODAxNjU3MzUsImV4cCI6MTU4MDE2OTYzNSwiYWNyIjoiMSIsImFpbyI6IkFVUUF1LzhPQUFBQVhDRksvQ0N6ZlRSaW82S3VGaWxtUWlxbFUrcEhFWnA4YVFWMGRqTDRxTVdvck85TWZ4NXZvNG4ra292MEllRU5kbHhYSXpvMUp1TGF4SnpVVlFZbkJBPT0iLCJhbXIiOlsicnNhIiwibWZhIl0sImFwcGlkIjoiYTBlMWUzNTMtMWEzZS00MmNmLWE4ZWEtM2E5NzQ2ZWVjNThjIiwiYXBwaWRhY3IiOiIyIiwiZGV2aWNlaWQiOiI4OThmZWM1Yy04NGUyLTRmMGYtOWFhNC05MmY3NjgyNDRmZTYiLCJmYW1pbHlfbmFtZSI6IkNoZW4iLCJnaXZlbl9uYW1lIjoiQXJlcyIsImlwYWRkciI6IjE2Ny4yMjAuMjMzLjE2MyIsIm5hbWUiOiJBcmVzIENoZW4iLCJvaWQiOiJmM2I5NGRkMy0yMGNjLTQ5YTMtOThjZS1iMTI4NzY1OGU4Y2YiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMjE0Njc3MzA4NS05MDMzNjMyODUtNzE5MzQ0NzA3LTIwOTMzMjMiLCJwdWlkIjoiMTAwMzdGRkU5N0IzODgzRiIsInNjcCI6InVzZXJfaW1wZXJzb25hdGlvbiIsInN1YiI6IklmbE9UR0ZwNVFMdExRUlNpaU9DeERMTzhUSVRoTV9pQ2s1eHBlc2dGSHciLCJ0aWQiOiI3MmY5ODhiZi04NmYxLTQxYWYtOTFhYi0yZDdjZDAxMWRiNDciLCJ1bmlxdWVfbmFtZSI6ImFyZWNoZW5AbWljcm9zb2Z0LmNvbSIsInVwbiI6ImFyZWNoZW5AbWljcm9zb2Z0LmNvbSIsInV0aSI6InRZRmtpSDZpazBXeFp4UTFmd3NBQUEiLCJ2ZXIiOiIxLjAifQ.Xq1T2PRa931mQetfbh_2xV1X0HfHbmCBontNWtSrIK0DO2UizxH_xC7xy-VPby8RpY2oend2n-diBHXHb3wKiCuHZWMoRHXuEKbuPHKwTGW9QWEzR02c_CDAp-R2mKTjioxFQQOCCJtMn6j0lG8XeA247kYThdqX7VXym0gGGVGaJlVw-iNLBjAiI8upK_Riuv-PWksawA06QpGa4UmSRs-P-kCHn3FuNiJf8hHOuVVIf9cvquJkHUktFkTc-EmxnGtgtDnIgP0WHsXs8tXDCnGHO9aLkea518BJeOTzJrzxv70i09HmVOtrDe2CguU2u4w9kNE0PQUESB6dAIWVPA",
+            "fieldHub": "",
+            "pifd": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6InBpVmxsb1FEU01LeGgxbTJ5Z3FHU1ZkZ0ZwQSIsImtpZCI6InBpVmxsb1FEU01LeGgxbTJ5Z3FHU1ZkZ0ZwQSJ9.eyJhdWQiOiJodHRwczovL3BheW1lbnRpbnN0cnVtZW50cy5tcC5taWNyb3NvZnQuY29tLyIsImlzcyI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0LzcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0Ny8iLCJpYXQiOjE1ODAxNjU3MzUsIm5iZiI6MTU4MDE2NTczNSwiZXhwIjoxNTgwMTY5NjM1LCJhY3IiOiIxIiwiYWlvIjoiQVVRQXUvOE9BQUFBMUgwSWlKTFpEcmFjZjBreDZhUzhzbDFJZXNkMnd4VVBPcXA0Z1lIczRMbVByQVFEVUtjZjhyK2t4QzQ1cDNPdDBGWlc4VmhXR2NDS1BUcFRkeXZsOXc9PSIsImFtciI6WyJyc2EiLCJtZmEiXSwiYXBwaWQiOiJhMGUxZTM1My0xYTNlLTQyY2YtYThlYS0zYTk3NDZlZWM1OGMiLCJhcHBpZGFjciI6IjIiLCJkZXZpY2VpZCI6Ijg5OGZlYzVjLTg0ZTItNGYwZi05YWE0LTkyZjc2ODI0NGZlNiIsImZhbWlseV9uYW1lIjoiQ2hlbiIsImdpdmVuX25hbWUiOiJBcmVzIiwiaXBhZGRyIjoiMTY3LjIyMC4yMzMuMTYzIiwibmFtZSI6IkFyZXMgQ2hlbiIsIm9pZCI6ImYzYjk0ZGQzLTIwY2MtNDlhMy05OGNlLWIxMjg3NjU4ZThjZiIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS0yMTQ2NzczMDg1LTkwMzM2MzI4NS03MTkzNDQ3MDctMjA5MzMyMyIsInB1aWQiOiIxMDAzN0ZGRTk3QjM4ODNGIiwic2NwIjoicGlmZC5jcmVhdGUgcGlmZC5yZWFkIiwic3ViIjoiU3Bwd1VDVHVCeFZZQ0V5bVVzbkVxY093bHhHWGJybFlRZlJIZllXNU1EZyIsInRpZCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsInVuaXF1ZV9uYW1lIjoiYXJlY2hlbkBtaWNyb3NvZnQuY29tIiwidXBuIjoiYXJlY2hlbkBtaWNyb3NvZnQuY29tIiwidXRpIjoiSVgwQXNzOWpGay1MVDVBLWVhZWVBUSIsInZlciI6IjEuMCJ9.FM-lU3jaMK7MPAizxC1MT-9OYkAql4BTEKIzRnRBQ8M3KnWkMR5YmwKNVI9ef0SeHzm4PFI-0KlTyGS9hp9wGtPOJHDk89yDIz4NEP5dfV9mdiIv1ewCjjnrVNlFtv7HVPXM0MMK6B_Kw-uIPxEy_xBDCSxnV50eJsvAq6VZ0Utwh21tvseW4WBKAvHJIZ_SVLtDdbQod1MG0lA_YxfZ2eupzqaX4O26OVCh_r95IlQAtL1n7t08cVI-tyqLA1hE6GTFouWw8OnZebGJS_wTOSe7M-I2yidvHVtwNfUoh2iflm6BmfHTypkCTKWzdoRoQOB3pGadjAC8hV-Cmu3g1A"
+        },
+        "refreshToken": "0.ARoAv4j5cvGGr0GRqy180BHbR1Pj4aA-Gs9CqOo6l0buxYwaAHI.AQABAAAAAABeAFzDwllzTYGDLh_qYbH8sbRwctCz5-0cdk7z1GH2xErCFEEC-3P3zLXGh7IR5TucleGnuMnteB9pFcem0dPQXitJs7cfAc7wKGvqwksT4V-nT0WARgroD8pF92V-hfzhMRKTkqxxVbZ09wH3kDn6DCxzmZhH8cxr783mRt-6J_9n87pnIYHjnmHaWWyJSAHZalIPQ9aUGUa5raiKdJCWkX9NertsxIkXIK26dbo5AOef-Qi0QyKJZAuCWgnAX-08RKEW1PdvD4Ilok0gbKmq72UgZ1L_0ACz-BzszBjfb041vOhHPTC0i9NwWY6m-cpLNRm6qmxYN2MS14dYbvffOd3IY_o-znej9B5ll6Iy44OkUuT1sMvFnPoumoly0nnRSjv1HW-smy-LojtTSY-TbwRj_-wrnBawHGzZbtK3Oxm0F98o5CQfHGsymq1KhXYDj90FbU8cMaUmzqFHPE2v0ibQsfoRUbLqm9P56cxSRgFfauF22IRRQPqE43gg8TxGBsiYy2X9Pb-buTqp1o8NTOx0AUEw0tTDsXwryPnpsyL6nMt47w_N2gIPVl57u-GkKU2Kps1qSeD4nnlDmX_-9SNuoBflJyWHF7ICfV8a9-_uy2I-D3LT8vOzZ02of-MRTU_Ahf7-kZ0j2aOXmOQ23fGZvYKlTVBiLZKgiMUCF2-0JV8wtu2h109EJZ_TRsIif8QDE_betzqL7UbPclSJgj1aq_k0Sr0Iwz6UkY-tcFH0fOWa7jPp7Z8u8Bs9WqixWSsMdFPXllXqEj_i323f6H3qHo1QQunCLQ_A7QmWXhMRw2oR0nGuUYHXI_t1TNc4QhThXo8boQqE09wyglB7rIx69rJTKZ_cGE71hO0V5vP9dpsd2K_At-QSryxfkGq433EIdc0WuJP8u9YwvAtxKog_HVYlDNIbPQo0nBjNORS4xJ3_rpXlgySraONyqq-9dPmaJKH6v8YcURBmvAgTo2xFG5Dv8ibd9Tsrly5QFtbfEX--xNxJ2UoOKPntNir_C_IxJBpKX7MVx7yeG98iLUOWqnkD6qOMWt0pKJlqmSAA",
+        "firstName": "Ares",
+        "lastName": "Chen",
+        "uniqueName": "",
+        "displayName": "Ares%20Chen",
+        "oid": "f3b94dd3-20cc-49a3-98ce-b1287658e8cf",
+        "tid": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+        "puid": "",
+        "email": "arechen@microsoft.com",
+        "graphApi": "https://graph.microsoft.com",
+        "alternateEmail": "",
+        "isMSAUser": false,
+        "userSegment": 1,
+        "hasReview": false,
+        "fieldHubUserType": 0,
+        "profile": {
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "phone": "",
+            "country": "",
+            "company": "",
+            "title": "",
+            "updateRequired": null,
+            "isLatestProfile": false
+        },
+        "purchases": {
+            "loading": false
+        },
+        "tenantType": 0
+    },
+    "config": {
+        "isEmbedded": false,
+        "experiment": {
+            "optimizelyUserId": "",
+            "abTestingVersion_AMP": 0,
+            "abTestingVersion_newFilterAMP": 0
+        },
+        "embedHost": null,
+        "locStrings": {
+            "App_CaseStudies": "案例研究",
+            "App_Categories": "类别",
+            "App_Contact": "联系信息",
+            "App_Help": "帮助",
+            "App_Languages": "语言",
+            "App_LearnMore": "了解详细信息",
+            "App_Legal": "法律条款",
+            "App_LicenseAgreement": "许可协议",
+            "App_Link_Header": "Standard Contract for Microsoft commercial marketplace",
+            "App_UniversalAmendment": "Amendment",
+            "App_LicenseAgreementWithUniversalAmendment": "{0} | {1}",
+            "App_More": "更多",
+            "App_PrivacyPolicy": "隐私策略",
+            "App_Publisher": "发布者",
+            "App_Support": "客户支持",
+            "App_CertificationLink": "M365 认证详细信息",
+            "App_Certification": "认证",
+            "App_WorksWith": "支持的产品",
+            "App_Updated": "更新时间",
+            "App_Version": "版本",
+            "CTA_Get": "立即获取",
+            "CTA_RequestTrial": "请求试用版",
+            "CTA_Try": "免费试用",
+            "CuratedType_AppsFor": "{0}",
+            "CuratedType_FeaturedApps": "特色应用",
+            "Dialog_Close": "关闭",
+            "Dialog_Continue": "继续",
+            "FilterType_Categories": "类别",
+            "FilterType_Industries": "行业",
+            "FilterType_Products": "产品",
+            "FilterType_Type": "类型",
+            "HIW": "如何实现",
+            "Home_More": "更多",
+            "Home_RefineCat": "按类别优化",
+            "Home_RefineIndustry": "按行业优化",
+            "Home_RefineProduct": "按产品优化",
+            "Home_Subtitle": "查找适合你的企业需要的应用",
+            "Home_Subtitle2": "获取针对你所在的行业量身定制且适用于你已使用的产品的解决方案",
+            "Link_AllApps": "所有应用",
+            "Link_SeeAll": "查看全部",
+            "Link_SeeAllResults": "查看所有结果 ({0})",
+            "Link_SeeAll_WithCount": "查看全部({0} 个)",
+            "Page_Gallery": "库",
+            "RT_Company": "公司",
+            "RT_Country": "国家/地区",
+            "RT_DialogSubmittedText": "{0} 会尽快与你联系。",
+            "RT_DialogTitle": "只需几个详细信息便可保持联系",
+            "RT_DialogTitleSubmitted": "你的试用版请求已提交。",
+            "LeadForm_Submitted": "请求已提交。",
+            "RT_Disclaimer": "单击“{0}” 即表示我授权 Microsoft 共享我提供的 {1}，以便应用提供商和 Microsoft 可以与我联系讨论我的需求。我将就部署、定价、使用条款和隐私声明等相关事宜与提供商直接签订合同。Microsoft 不授予使用此应用的权利。请参阅 {2} 了解详细信息。",
+            "RT_Name": "名称",
+            "RT_FirstName": "名字",
+            "RT_LastName": "姓氏",
+            "RT_Phone": "电话号码",
+            "RT_Title": "职务",
+            "RT_WorkEmail": "工作电子邮件",
+            "SB_RefineTitle": "优化方式",
+            "SB_ShowAll": "显示“{0}”的所有结果",
+            "SB_ShowAllTitle": "全部显示",
+            "SB_TopResultsTitle": "最匹配的结果",
+            "Home_TopResultsTitle": "最匹配的结果",
+            "Tile_By": "创建者 {0}",
+            "Tile_For": "{0}",
+            "Title_AllResults": "所有结果",
+            "Title_LearnMore": "了解详细信息",
+            "TRY_DialogTitle": "还有一件事...",
+            "TRY_AccountInformation": "帐户信息",
+            "TRY_PrivacyPolicy": "隐私策略",
+            "TRY_Privacy": "隐私",
+            "TRY_AccountInformationText": "姓名、电子邮件、职务、公司名称、国家/地区和电话。",
+            "TRY_Here": "此处",
+            "TRY_Terms": "条款",
+            "TRY_Terms2": "使用条款",
+            "TRY_Terms3": "其他 Microsoft 条款",
+            "TRY_Amendment": "Amendment",
+            "TRY_Redirect": "带你进入 {0} 完成此过程",
+            "Filter_Agriculture": "农业",
+            "Filter_ArchitectureEngineering": "设计和工程",
+            "Filter_Distribution": "分销业",
+            "Filter_Education": "教育",
+            "Filter_FinancialServices": "金融服务",
+            "Filter_Government": "政府机关",
+            "Filter_HealthcareLifesciences": "运行状况",
+            "Filter_HospitalityTravel": "酒店餐饮和旅游",
+            "Filter_Manufacturing": "制造业",
+            "Filter_MediaEntertainment": "媒体和娱乐",
+            "Filter_NationalPublicSecurity": "国内和公共安全",
+            "Filter_Non profits": "非营利组织",
+            "Filter_PowerUtilities": "电力公共事业",
+            "Filter_Professionalservices": "专业服务",
+            "Filter_Realestate": "房地产",
+            "Filter_RetailConsumergoods": "Retail",
+            "Filter_Telecommunications": "电信",
+            "Filter_Other": "其他",
+            "Filter_Analytics": "分析",
+            "Filter_Collaboration": "协作",
+            "Filter_Customerservice": "客户服务",
+            "Filter_Finance": "财经",
+            "Filter_Gamification": "游戏化",
+            "Filter_Humanresources": "人力资源",
+            "Filter_ITadministration": "IT 和管理",
+            "Filter_Marketing": "市场营销",
+            "Filter_Operationssupplychain": "运营和供应链",
+            "Filter_Productivity": "生产力",
+            "Filter_Sales": "销售",
+            "Filter_CloudSolutions": "云解决方案",
+            "Filter_AZ_WebApps": "Web 应用",
+            "Filter_ArtificialIntelligence": "人工智能",
+            "User_Account": "用户帐户",
+            "SI_SignIn": "登录",
+            "SI_Signup": "注册",
+            "Loc_PageTitle": "其他国家/地区的这一网站:",
+            "Loc_AddIns": "加载项",
+            "Embedded_Apps": "应用",
+            "Embedded_MyOrganization": "我的组织",
+            "Embedded_No_MyOrg_Content": "你尚不具有来自组织的任何应用。",
+            "Embedded_No_MyOrg_Content_Action1_Title": "从合作伙伴签出应用",
+            "Embedded_No_MyOrg_Content_Action1_Bottom": "应用",
+            "Embedded_No_MyOrg_Content_Action2_Title": "自己创建自定义应用",
+            "Embedded_No_MyOrg_Content_PowerBI": "你尚不具有来自组织的任何内容。",
+            "Embedded_No_MyOrg_Content_Error": "抱歉，出现错误。请稍后重试。",
+            "Loading": "正在加载...",
+            "Embedded_PowerApps_Create_Link": "使用 {0} 创建自定义应用。",
+            "Embedded_PowerBI_Create_Link": "{0}如何为组织创建和填充内容。",
+            "Embedded_PowerBI_Create_Link_Learn_Link_Text": "了解",
+            "Embedded_Filter": "筛选",
+            "Embedded_ProductPickerHeader": "更多应用",
+            "Embedded_ProductPickerItem": "{0}",
+            "Embedded_ProductPickerAll": "所有应用",
+            "SearchButton_Tooltip": "搜索",
+            "SearchButton_Tooltip_WithSearch": "搜索 {0}",
+            "CloseButton_Toolip": "关闭",
+            "Home_Marketing1Header": "立即获取适合的应用",
+            "Home_Marketing1Content": "从 Microsoft 找到适合你的行业的顶级业务解决方案并选择合作伙伴，包括专用应用。",
+            "Home_Marketing2Header": "基于已有内容进行构建",
+            "Home_Marketing2Content": "向你的现有业务应用程序添加新功能。从 Dynamics 到 Power BI，你将找到相应的解决方案，以增强你已使用的应用。",
+            "Home_Marketing3Header": "从自信出发",
+            "Home_Marketing3Content": "购买任何应用之前可以免费试用，然后与受信任的 Microsoft 合作伙伴合作实施你的新解决方案。",
+            "Embedded_SearchPlaceholder": "搜索...",
+            "SI_WorkAccount": "使用你的工作帐户",
+            "SO_SignOut": "确实要注销?",
+            "SO_SignOutTitle": "注销",
+            "VID_Heading": "标题",
+            "VID_Description": "描述",
+            "VID_Play": "播放",
+            "VID_Fullscreen": "全屏",
+            "APP_For": "适用产品",
+            "SI_For": "没有帐户?",
+            "SU_Title": "让我们开始吧",
+            "APPS_NoResultsFound": "未找到任何结果",
+            "ERROR_Title": "出现问题",
+            "ERROR_Title_Embed": "抱歉，出现错误。",
+            "ERROR_Subtitle": "请转到主页，再次尝试。",
+            "ERROR_Subtitle_Embed": "请重试。",
+            "ERROR_Link": "主页",
+            "PAGINATION_Next": "下一页",
+            "PAGINATION_Previous": "上一页",
+            "APPDETAIL_AppNotFound": "正在加载...",
+            "Embed_NationalCloudFooter": "内容包可用于连接到第三方服务。连接可能会导入海外位置的数据。",
+            "NPS_SubmitButton": "提交",
+            "NPS_Title": "我们需要你的反馈",
+            "NPS_Likely": "极有可能",
+            "NPS_NotLikely": "完全不可能",
+            "NPS_RatingReasonQuestion": "告诉我们更多关于你的体验",
+            "Happy_Face": "愉快",
+            "Sad_Face": "忧伤",
+            "Email_Input": "电子邮件输入",
+            "Rating_Header": "评论此应用",
+            "Rating_PaneContent": "你的整体体验是",
+            "Rating_MyReviews": "我的评审",
+            "Rating_ConfirmDelete": "是否确实要删除此评审?",
+            "Rating_ReviewHeader": "评论标题",
+            "Rating_ReviewDetail": "评论详细信息",
+            "Rating_ReviewTitlePlacehoder": "标题",
+            "Rating_ReviewContentPlacehoder": "编写评审",
+            "Rating_ReviewFooter": "我们将与发行商共享此反馈，但计划在未来推出评审社区，在其中共享所有反馈。",
+            "Rating_SuccessHeader": "非常感谢你提供反馈!",
+            "Rating_SuccessButton": "完成",
+            "Rating_UpdateButton": "更新",
+            "Rating_FailedHeader": "糟糕，发现了一个问题!",
+            "Rating_FailedButton": "关闭",
+            "Rating_ExpiredHeader": "糟糕，链接已过期!",
+            "Rating_ExpiredBody": "审核此应用的请求已过期，或不再有效。",
+            "Rating_MyreviewEmpty": "当你为获得的应用或联系过的合作伙伴提交审阅后，它们将在此处显示。",
+            "Rating_OneStar": "糟糕。",
+            "Rating_TwoStar": "差。",
+            "Rating_ThreeStar": "一般。",
+            "Rating_FourStar": "好。",
+            "Rating_FiveStar": "很好。",
+            "Leadform_Disclaimer": "单击 {0}，即表示我授予 Microsoft 与合作伙伴或应用提供商共享我的联系人信息的权限，以便就我的要求进行讨论。我将就有关部署、定价、使用条款、隐私声明以及使用应用或解决方案的权利的事宜直接与合作伙伴或提供商进行联系。(请参阅 {1} 了解详细信息。)",
+            "Contact_Send": "发送",
+            "FilteredGallery_SegueAppResultsHeader": "最匹配的应用结果",
+            "FilteredGallery_SegueAppResultsSubHeader": "找到一些符合条件的应用",
+            "FilteredGallery_SegueAppResultsFooter": "查看符合条件的所有应用",
+            "FilteredGallery_AppResults": "应用结果({0} 个)",
+            "FilteredGallery_NoApps": "未找到应用。",
+            "FilteredGallery_ViewAppResults": "查看应用({0})",
+            "Partner_BackButton": "合作伙伴",
+            "Search_AppResults": "应用搜索结果({0} 个)",
+            "PartnerDetail_OverviewTab": "概述",
+            "PartnerDetail_ContactPartner": "联系信息",
+            "PartnerDetail_More": "更多...",
+            "SB_SearchAllApps": "搜索所有 {0} 应用",
+            "SB_SearchAllOCPSolutions": "在所有协同销售解决方案中搜索 {0}",
+            "SB_Apps": "应用",
+            "SB_Solutions": "解决方案",
+            "SB_SearchSuggestions": "搜索建议",
+            "Common_Yes": "是",
+            "Common_No": "否",
+            "Common_Edit": "编辑",
+            "Common_Delete": "删除",
+            "AppDetail_OverviewTab": "概述",
+            "skipLink_text": "跳到主内容",
+            "MacAppTileButton_PricingNotAvailable": "不可用",
+            "MacAppTileText_PricingNotAvailable": "仅在所选国家/地区可用",
+            "rating_contactRate1": "选择一个",
+            "rating_contactRate2": "5 天内",
+            "rating_contactRate3": "5 - 10 天",
+            "rating_contactRate4": "10 天以上",
+            "rating_contactRate5": "未达到",
+            "WorkOrMSAAccount": "使用工作帐户或 Microsoft 帐户",
+            "BillingCountry": "帐单邮寄国家/地区",
+            "About": "关于",
+            "ForPublishers": "关于发布者",
+            "ForCustomers": "面向客户",
+            "Calculator": "计算器",
+            "Documentation": "文档",
+            "Subscriptions": "订阅",
+            "Solutions": "解决方案",
+            "ContactUs": "与我们联系",
+            "Trademarks": "商标",
+            "PrivacyAndCookies": "隐私与 Cookie",
+            "Pricing": "定价",
+            "FilteredGallery_SegueProductResultsHeader": "主要产品结果",
+            "FilteredGallery_SegueProductResultsSubHeader": "找到一些匹配你条件的产品",
+            "FilteredGallery_ProductResults": "产品结果({0} 个)",
+            "FilteredGallery_ViewProductResults": "查看产品结果({0} 个)",
+            "CTA_ContactMe": "联系信息",
+            "CP_Title": "外接程序功能",
+            "CP_Disclaimer": "在使用此外接程序时，它",
+            "CP_Office1": "可从文档中读取",
+            "CP_Office2": "可通过 Internet 发送数据",
+            "CP_Office3": "可对文档作出更改或提出更改建议",
+            "CP_Office4": "可读取文档并对其作出更改",
+            "CP_Office5": "此外接程序可以访问活动邮件中的个人信息，如电话号码、邮寄地址或 URL。此外接程序可能会将此数据发送给第三方服务。将无法读取或修改你邮箱中的其他项目。 ",
+            "CP_Office6": "此加载项可访问活动邮件中的个人信息，如发件人姓名、收件人姓名、电子邮件地址、邮件正文和附件信息。此加载项可能会将此数据发送给第三方服务。将无法读取或修改你邮箱中的其他项目。 ",
+            "CP_Office7": "此加载项可读取或修改你邮箱中任何项目的内容，并能够创建新项目。它可以访问任何邮件或日历项目中的个人信息，如正文、主题、发件人、收件人或附件。它可能会将此数据发送给第三方服务。",
+            "CP_Office8": "此加载项可访问和修改活动邮件中的个人信息，如正文、主题、发件人、收件人和附件信息。它可能会将此数据发送给第三方服务。将无法读取或修改你的邮箱中的其他项目。 ",
+            "CP_Office9": "可从文档中读取并打开其文件",
+            "SignInModal_Title2": "切换到工作或学校帐户",
+            "SignInModal_SubTitle2": "所选应用({0})需要工作或学校帐户。若要继续，请输入与工作或学校帐户关联的电子邮件地址。",
+            "SignInModal_Disclaimer1": "如果可能，请使用工作或学校帐户。如果使用 Microsoft 帐户登录，要求使用工作或学校帐户的应用将不可用。",
+            "SignInModal_Disclaimer2": "所选应用({0})需要工作或学校帐户才能继续。此应用不支持 Microsoft 帐户。",
+            "SignInModal_AccountType1": "工作、学校或 Microsoft 帐户",
+            "SignInModal_AccountType2": "单位或学校帐户",
+            "SignInModal_SignUp": "注册免费帐户",
+            "Accounts_Supported": "获取方式",
+            "Microsoft_Account": "Microsoft 帐户",
+            "Login_Info": "你已使用 {0} ({1})身份登录。",
+            "Field_Hub": "帐户中心",
+            "Field_Insights": "获取帐户见解",
+            "Field_Insights_Desc": "利用帐户特定见解和建议推动新的市场产品交易",
+            "Field_Consumption": "推动消耗",
+            "Field_Consumption_Desc": "推动使用，并深入了解产品使用时间、核心计数以及帐户的消耗趋势",
+            "Field_EAPlan": "提升 EA 计划",
+            "Field_EAPlan_Desc": "将市场消耗和 ISV 交易纳入考量，以提升 EA 计划和续订",
+            "Field_NoAccess": "你无权访问帐户中心",
+            "Field_NoAccess_Desc1": "由于你在 MAL 中没有映射的帐户，因此无法访问帐户中心。",
+            "Field_NoAccess_Desc2": "请前往 ISC 联合销售仪表板，了解共享商机、ISV 联合销售交易以及热门产品趋势的信息。",
+            "Field_MarketplaceActivity": "市场活动",
+            "Field_Recommendations": "建议",
+            "Field_UsageHours": "使用时间",
+            "Field_ConsumptionTrends": "消耗趋势",
+            "Field_StickinessSignals": "粘性信号",
+            "Field_EAInsights": "EA 见解",
+            "Field_Feedback_Title": "对帐户中心提出反馈?",
+            "Field_Feedback_Desc": "我们可如何改善你的帐户中心体验?",
+            "Field_Submit": "提交反馈",
+            "Field_GotoISVCoSell": "ISV 联合销售仪表板 >",
+            "Field_Access_Title": "机密信息访问",
+            "Field_Access_Desc": "我确认自己是 Microsoft 员工，并明白我即将访问机密客户信息。",
+            "Field_DataDisclaimer": "报表只为所分配的这些帐户提供数据。如果不是帐户团队的成员，可能在报表中看不到这些帐户的数据。如果发现有误，请在下方提供反馈。",
+            "TestDrive_Dialog": "测试驱动器",
+            "LocaleChooser": "选择国家/地区",
+            "TestDrive_Error": "出现错误，我们正在调查...请稍后重试。",
+            "TestDrive_HotNavigation": "开始使用体验版",
+            "TestDrive_HotDuration": "体验版持续时间: 1 小时",
+            "TestDrive_ColdProgress": "体验版部署正在进行，请在几分钟后再次查看。",
+            "TestDrive_ColdNotification": "准备就绪时我们将向你发送电子邮件。",
+            "TestDrive_DialogTitle": "正在设置体验版...",
+            "AppDetails_TestDriveDurationTitle": "体验版持续时间",
+            "AppDetails_TestDriveDuration": "1 小时",
+            "TestDrive_Help": "什么是体验版?",
+            "TestDrive_DialogTitle_Hot": "试用体验版...",
+            "LeadForm_DialogTitle": "共享联系人信息",
+            "SelectBillingRegion": "选择一个帐单邮寄国家/地区",
+            "ChangeBillingRegion": "更改帐单邮寄国家/地区",
+            "SiteLicenseAlsoAvailable": "也可使用站点许可证",
+            "Pricing_Hour": "小时",
+            "Pricing_Month": "月",
+            "Pricing_Year": "年",
+            "Pricing_Free": "免费",
+            "AdditionalPurchaseMayBeRequired": "可能需要额外付费",
+            "AppPromotionPane_Content": "正在寻找 {0}? {1}",
+            "ReviewCollection_ReviewCounter": "{0}-{1}",
+            "ReportButton_Label": "报告此评审",
+            "ReviewItem_AnonymousName": "匿名",
+            "AppDetail_NoReviewsAvailable": "没有评论。",
+            "ReportModal_Title_Text": "报告评审",
+            "ReportModal_Category_Label": "类别",
+            "ReportModal_AdditionalComments_Label": "其他意见",
+            "ReportModal_SubmitButton_Label": "提交",
+            "AppDetail_LoadingText": "正在加载...",
+            "ReportModal_ReviewTitle_Label": "评论标题",
+            "ReportModal_None_Label": "选择类别",
+            "ReportModal_OffensiveContent_Label": "冒犯性内容",
+            "ReportModal_ThreatsCyberbullyingHarassment_Label": "恐吓、网络欺凌或骚扰",
+            "ReportModal_Other_Label": "其他",
+            "ReportModal_SpamAndAdvertising_Label": "垃圾邮件和广告",
+            "ReportModal_InvalidReview_Label": "无效的评审",
+            "ReportModal_Email_Label": "联系人电子邮件(以防我们有任何问题)",
+            "ReportModal_Success_Done_Label": "完成",
+            "AppPromotionPane_SeeYourOptions": "查看你的选项 ->",
+            "Link_GoToGallery": "转到库",
+            "PricingInformation": "定价信息",
+            "PriceVaries": "价格会有所不同",
+            "Pricing_FreeApp": "免费应用",
+            "ChangeBillingRegionLowercase": "更改帐单邮寄国家/地区",
+            "TwoConsecutiveStrings": "{0} {1}",
+            "Feedback_privacy": "隐私声明",
+            "Feedback_privacy_content": "可以就反馈与你取得联系。",
+            "Feedback_checkbox_header": "这些因素是否有助于提高你的体验?",
+            "Feedback_Header": "欢迎提供反馈",
+            "Feedback_subHeader2": "请说说你的感受",
+            "Feedback_invalidEmail": "*电子邮件地址无效",
+            "Feedback_Find_app_product": "查找应用",
+            "Feedback_Install_app_product": "正在安装应用",
+            "TestDrive_Title": "测试驱动器",
+            "TestDrive_PublisherTitle": "由 {0} 提供",
+            "TestDrive_DetailsTitle": "体验版详细信息",
+            "TestDrive_DocumentationTitle": "文档",
+            "TestDrive_ManualTitle": "体验版用户手册",
+            "TestDrive_VideoTitle": "关于此体验版",
+            "TestDrive_FetchingTitle": "获取“{0}”体验版",
+            "TestDrive_GettingReady": "准备就绪...",
+            "TestDrive_NavigateButton": "转到我的体验版",
+            "TestDrive_Active": "活动",
+            "TestDrive_RepeatButton": "重复体验版",
+            "TestDrive_RetryButton": "重试",
+            "TestDrive_Expired": "体验版完成",
+            "TimerHoursMinutes": "剩余 {0} 小时 {1} 分钟",
+            "TimerDaysHours": "剩余 {0} 天 {1} 小时",
+            "Filter_Refine": "优化",
+            "Filter_Refine_Aria_Label": "细化筛选器",
+            "Reset_filters": "重置筛选器",
+            "Reset_category_filters": "重置类别筛选器",
+            "Refine_filter_option_all": "全部",
+            "Other_Apps": "其他应用",
+            "TestDrive_GettingReady_Header": "正在准备...",
+            "TestDrive_GettingReady_Details": "这可能需要几分钟时间。准备就绪后，我们会向你发送电子邮件。",
+            "TestDrive_Active_1": "你的体验版已准备就绪",
+            "AppsFor_Title": "适用于 {0} 的应用",
+            "Search_NoApps": "找不到与该搜索匹配的应用。",
+            "Search_SimilarApps": "在 {0} 上查找类似的应用。",
+            "Search_SwitchTab": "转到 {0}，查看匹配的 {1} 个结果。",
+            "AppDetails_TestDriveDurationHour": "{0} 小时",
+            "AppDetails_TestDriveDurationHours": "{0} 小时",
+            "TestDrive_Unavailable": "此测试驱动器目前已达最大容量使用率。请在几分钟后重试。",
+            "AppSource_banner_get": "获取 {0}",
+            "AppSource_banner_install": "安装 {0}",
+            "CTA_MailTo": "通过邮件方式向我发送链接",
+            "mobileInviteNote": "你将收到一封电子邮件以在计算机上试用免费的体验版。",
+            "DrawerLabel_FullDescription": "完整描述",
+            "DrawerLabel_LearnMore": "了解详细信息",
+            "Loc_EnterpriseEdition": "企业版",
+            "Loc_BusinessEdition": "商业版",
+            "DrawerLabel_ProductDescription": "产品描述",
+            "DrawerLabel_WhatsTestDrive": "什么是测试驱动器",
+            "DrawerContent_ProductDescription": "测试驱动器是无障碍试用版的预配置虚拟机，用于提供临时的沙盒环境来快速评估在 Azure\r\n           上运行的软件解决方案，对信用卡或现有 Azure 订阅无任何要求。",
+            "CTA_TesDriveInvite": "向我发送测试驱动器邀请",
+            "CTA_UserProfileCompacted_Title": "此应用要求提供一些基本信息。你已提供了此信息，因此可继续操作!",
+            "CTA_UserProfileCompacted_EditButton": "编辑",
+            "EmailInput_Placeholder": "输入电子邮件",
+            "CTA_TestDriveNote": "注意: 体验版在计算机上最受支持。",
+            "CTA_TestEmailSubmitted": "感谢你的关注! 你将收到在计算机上运行体验版 {0} 的电子邮件邀请。",
+            "PowerBICertified_Static_Text": "Power BI 认证",
+            "PowerBICertifiedDetail_Static_Text": "获得认证的自定义视觉对象是指满足某些指定代码要求并由 Power BI 团队进行测试的市场视觉对象",
+            "Award_Static_Text": "Office 应用奖",
+            "Merchandise_Winner": "第一名",
+            "Merchandise_Second": "第二名",
+            "Merchandise_Third": "第三名",
+            "FilterType_ServiceType": "服务类型",
+            "Filter_Assessment": "评估",
+            "Filter_Briefing": "简介",
+            "Filter_Implementation": "实现",
+            "Filter_POC": "概念证明",
+            "Filter_Training": "培训",
+            "Filter_Workshop": "学习班",
+            "FilterType_Countries": "国家/地区",
+            "FilterType_States": "省/自治区/直辖市",
+            "CuratedType_ServicesFor": "{0}",
+            "FilteredGallery_ServicesResults": "咨询服务结果({0})",
+            "FilteredGallery_NoServices": "找不到咨询服务",
+            "FilteredGallery_SegueServicesResultsHeader": "主要的咨询服务结果",
+            "FilteredGallery_SegueServicesResultsSubHeader": "找到一些符合你条件的咨询服务",
+            "FilteredGallery_ViewServicesResults": "查看咨询服务({0})",
+            "FilterType_ServiceTypes": "服务类型",
+            "ServiceDetails_Country": "国家/地区",
+            "ServiceDetails_Regions": "省/自治区/直辖市",
+            "Services_BackButton": "咨询服务",
+            "ServiceDetails_GoldCompetencies": "金牌能力",
+            "ServiceDetails_SilverCompetencies": "银牌能力",
+            "Services_CTA_DialogTitle": "联系信息",
+            "Services_CTA_Button": "继续",
+            "CTA_Services": "与我联系",
+            "FilterType_Location": "你的位置",
+            "ServiceDetails_RibbonSubHeader": "来自 {0} 的其他咨询服务。",
+            "SB_Services": "咨询服务",
+            "SB_SearchAllServices": "搜索面向 {0} 的所有咨询服务",
+            "AppDetails_RibbonHeader": "{0} 中的其他应用程序",
+            "ServiceDetails_RibbonHeader": "来自 {0} 的其他咨询服务",
+            "ServicesLead_DialogSubmittedText": "{0} 将在接下来的两个工作日内向你发送电子邮件，以就此请求与你进行协商安排。",
+            "ServicesRegions_Header": "在 {0} 的以下省/自治区/直辖市所提供的服务",
+            "Link_AllServices": "所有咨询服务",
+            "servicesGallery_countryDisclaimer": "在美国，仅在客户所在地点现场提供咨询服务",
+            "FilteredGallery_ProductResultsDynamic_WithoutSearch": "{0} 中的结果({1})",
+            "FilteredGallery_ProductResultsDynamic_WithSearch": "{0} 中 {1} 的结果({2})",
+            "Latest_App_Awards_Year": "2018",
+            "Best_Business_Value_for_An": "{1} 中的 {0}: 最佳业务价值",
+            "Best_User_Experience_For_An": "{1} 中的 {0}: 最佳用户体验",
+            "Best_Office_Integration_For_An": "{1} 中的 {0}: 最佳 Office 集成",
+            "Mobile_Award_For_An": "{1} 中的 {0}: 最佳移动应用",
+            "Best_Overall_For_An": "{1} 中的 {0}: 最佳整体应用",
+            "Peoples_Choice_For_An": "{1} 中的 {0}: 最佳人气奖",
+            "SignInModal_ServiceDisclaimer2": "所选咨询服务({0})需要工作或学校帐户才能继续。此咨询服务不支持 Microsoft 帐户。",
+            "SignInModal_ECADisclaimer2": "所选列表({0})需要工作或学校帐户才能继续。此咨询服务不支持 Microsoft 帐户。",
+            "Rating_Privacy_Terms": "条款",
+            "Rating_Privacy_Text": "隐私",
+            "Industry_FeaturedApps": "特色",
+            "SignInModal_AppRequiresMSADisclaimer": "所选应用({0})需要个人帐户。若要继续，请输入与个人帐户关联的电子邮件地址。",
+            "SignInModal_PersonalAccount": "个人帐户",
+            "SignInModal_SwitchToPersonalAccount": "切换到你的个人帐户",
+            "Consent_accountInfoTitle": "帐户信息",
+            "Consent_accountInfoSubTitle": "联系信息",
+            "Consent_accountInfoFooter": "其他信息",
+            "Consent_accountInfoLicense": "动态许可证",
+            "Consent_accountInfoDispute": "不正确?",
+            "FilteredGallery_ConsultingServiceResults_WithSearch": "“咨询服务”中 {0} 的结果({1})",
+            "FilterType_SolutionAreas": "解决方案区域",
+            "Nominate_PageTitle": "提名",
+            "App_Industries": "行业",
+            "SolutionMaps_Banner_Heading": "Microsoft 优选解决方案",
+            "SolutionMaps_Banner_Link": "了解详细信息 >",
+            "UserFavourite_NavigationBarButton_Title": "已保存项",
+            "UserFavourite_NavigationBarButton_NumberOfItemsUserSaved": "已保存 {0} 项",
+            "UserFavourite_Detail_AppTitle": "已保存的应用({0})",
+            "UserFavourite_Detail_ServiceTitle": "已保存的咨询服务({0})",
+            "UserFavourite_TileButton_Save": "保存此项供稍后使用",
+            "UserFavourite_TileButton_Remove": "将此项从已保存列表中删除",
+            "UserFavourite_TileDetailButton_Save": "保存供稍后使用",
+            "UserFavourite_TileDetailButton_Saved": "已保存",
+            "UserFavourite_TileDetailButton_Narrator_Save": "保存此项供稍后使用",
+            "UserFavourite_TileDetailButton_Narrator_Remove": "将此项从已保存列表中删除",
+            "UserFavourite_Detail_EmptyAppTile": "尚未保存任何应用",
+            "UserFavourite_Detail_EmptyServiceTile": "尚未保存任何咨询服务",
+            "UserFavourite_Detail_LoadingAppTiles": "正在加载收藏的应用...",
+            "UserFavourite_Detail_LoadingServiceTiles": "正在加载收藏的咨询服务...",
+            "Group_Header_ECA": "ECA 优惠",
+            "SB_SearchAllECA": "在 ECA 的所有产品/服务中搜索 {0}",
+            "UserFavourite_NavigationBarButton_MobileText": "我已保存的项({0})",
+            "Feedback_NavigationBarButton_MobileText": "反馈",
+            "LongContent_Less_Text": "阅读简略信息",
+            "LongContent_More_Text": "阅读详细信息",
+            "AppReviewCollection_Header_Text": "评论此应用",
+            "AppReviewCollection_SubHeader_Text": "用户评审",
+            "AppReviewCollection_Button_Text": "编写评审",
+            "RR_Success_Delete_Title_Text": "你的评审已被删除。",
+            "RR_Success_Update_SubTitle_Text": "你的评审将在 24 小时内发布。",
+            "RR_Success_Delete_SubTitle_Text": "我们将在 24 小时内更新该列表。",
+            "Rating_DeleteButton": "删除",
+            "Rating_Anonymous": "将以匿名方式公开发布",
+            "RR_Feedback_Consent": "{0} 可以就我的反馈在 {1} 联系我",
+            "EmbedCoSell_CTAText": "选择",
+            "EmbedCoSell_HeaderText": "联合销售解决方案查找器",
+            "CoSellPrioritized_Description": "*此解决方案在这些国家/地区和行业/解决方案区域中处于“优先进行合作销售”状态。",
+            "CoSellPrioritized_Tooltip": "此解决方案在以下国家/地区中针对 {0} 优先进行合作销售: {1}",
+            "Checkout_Page_Title": "{0} - 结帐",
+            "Checkout_Step_1_Title": "选择计划",
+            "Checkout_Panel_Selection_Heading": "选择计划",
+            "Checkout_Step_2_Title": "付款方式",
+            "Checkout_Order_Summary_Title": "订单摘要",
+            "Checkout_Place_Order_Button_Text": "下订单",
+            "Checkout_Disclaimer": "单击“下单”即表示我 (a) 同意与本页中所列市场产品/服务相关的{0}和{1}；并 (b) 同意 Microsoft 可出于支持、计费和其他交易活动之目的与产品/服务的提供商共享我的联系人、使用情况和交易信息。Microsoft 不提供针对第三方产品/服务的权利。有关适用的 Microsoft 付款和计费条款，请参阅{2}。",
+            "Checkout_Disclaimer_With_Amendments": "By clicking \"Place Order\", I (a) agree to the {0}, {1} and {2} associated with the Marketplace offering listed on this page; and (b) agree that Microsoft may share my contact, usage and transactional information with the provider of the offering for support, billing and other transactional activities. Microsoft doesn’t provide the rights for third-party offerings. See the {3} for the applicable Microsoft payment and billing terms.",
+            "Checkout_Order_Summary_Tax": "预估税:",
+            "Checkout_Order_Summary_Total": "总计",
+            "Total_Price": "总计: {0}",
+            "Tax_Price": "税费: {0}",
+            "Plan": "计划",
+            "Term": "条款:",
+            "Purchase_Terms": "销售条款",
+            "Purchase_Amendments": "Amendment",
+            "Purchase_Privacy": "隐私声明",
+            "Purchase_Marketplace_Terms": "市场条款",
+            "Purchase_Error": "出现了问题，你无法下单，请重试。如果问题仍然存在，请联系 Microsoft 支持人员。",
+            "CreateOrder_Error": "我们未能计算你的订单的总价格和适用税费，请重试。如果问题仍然存在，请联系 Microsoft 支持人员。",
+            "Change_Plan": "更改",
+            "Cancel": "取消",
+            "Save": "保存",
+            "Pricing_Monthly": "每月",
+            "Pricing_Yearly": "每年",
+            "Billing_Term": "计费期限",
+            "OrderConfirmation_Title": "感谢购买 {0}",
+            "Configure": "立即配置",
+            "OrderConfirmation_Manage": "管理订阅",
+            "OrderConfirmation_OrderPurchase_Pending": "你的购买已提交，你的订阅很快即可配置。",
+            "OrderConfirmation_OrderNumber": "订单号: {0}",
+            "OrderConfirmation_Receipt_Confirm": "我们向你发送一封电子邮件，确认你购买了 {0}。你的订阅可供配置。",
+            "OrderConfirmation_Error": "出现了问题，购买失败。相关 ID: {0}",
+            "Seat_Count": "{0} 个席位",
+            "Payment_Method": "付款方式",
+            "Payment_Error": "更新或检索你的付款信息时出错，请重试。如果问题仍然存在，请联系 Microsoft 支持人员。",
+            "Savings": "保存 {0}",
+            "Credit_Card_Selected": "{0} {1} 过期 {2}",
+            "Number_Users": "用户数({0}-{1})",
+            "Number_Users_ErrorMessage": "允许的值: {0}-{1}",
+            "Purchase_Details_Title": "你的购买详细信息",
+            "Purchase_Details_InvoicedTo": "受票方",
+            "Detail_PlansPricingTab": "计划 + 定价",
+            "Detail_PlansTab": "计划",
+            "Pricing_SoftwarePlanDetail_Title": "软件计划详细信息",
+            "Pricing_SoftwarePlanDetail_NotAvailableDescription": "所选的帐单邮寄国家/地区未提供此软件。若要查看可用的软件计划和价格，请在页脚选择帐单邮寄国家/地区。",
+            "User_Pricing_Hour": "用户/小时",
+            "User_Pricing_Month": "用户/月",
+            "User_Pricing_Year": "用户/年",
+            "OrderConfirmation_OfferTitle": "套餐: {0}",
+            "OrderConfirmation_PlanTitle": "计划: {0}",
+            "OrderConfirmation_TermTitle": "期限: {0}",
+            "Calculate_Now": "立即计算",
+            "Price_No_Tax": "{0} + 税",
+            "Total_Price_No_Tax": "总计: {0} + 税",
+            "OrderConfirmation_Refresh_Message": "本页面不再可用。可查看上次购买项的状态",
+            "OrderConfirmation_Loading": "请勿关闭浏览器或使用后退按钮。",
+            "Global_Loc_trials": "试用",
+            "Test_Drive": "体验版",
+            "Global_Loc_pricing-model": "定价模型",
+            "Global_Loc_pay-as-you-go": "即付即用",
+            "Global_Loc_ratings": "分级",
+            "Global_Loc_ratings_four": "至少 4 星",
+            "Global_Loc_ratings_three": "至少 3 星",
+            "Global_Loc_ratings_two": "至少 2 星",
+            "Global_Loc_ratings_one": "至少 1 星",
+            "Checkout_FreeTrial_Disclaimer": "仅在与此订阅关联的首月免费试用期结束之后，才向你的信用卡收费。",
+            "Checkout_FreeTrial_WhatYouPayToday": "今天支付的费用",
+            "First_Month_Free_Trial": "第一个月免费，之后",
+            "Monthly_Price": "每月价格",
+            "Yearly_Price": "全年价格",
+            "PricingInclude": "{0} 包括{1}{2} {3}",
+            "PricingPlus": "{0} 外加{1}{2} {3}{4}",
+            "FreeTrialFirstMonthFree": "{0} 第一个月免费，之后按 {1} 收费",
+            "FreeTrialFirstSomeMonthsFree": "{0} 前 {1} 个月免费，之后按 {2} 收费",
+            "PaymentChallenge_Error": "你的发卡行无法验证此付款方式。请联系发卡行了解详细信息。",
+            "PaymentChallenge_Timeout": "你未完成与发卡行的身份验证，请重试。",
+            "Feedback_browse": "浏览 AppSource",
+            "Field_Description": "使用 AppSource 分析、了解和推动消耗",
+            "TRY_Disclaimer_Consent": "我同意提供商的 {0} 和 {1}，并理解如果 Microsoft 不是提供商，Microsoft 将不授予使用此产品的权利。对 AppSource 的使用受 {2} 和 {3} 单独约束。",
+            "TRY_Disclaimer_Consent_With_Amendment": "I agree to the provider's {0}, {1} and {2} and understand that the rights to use this product do not come from Microsoft, unless Microsoft is the provider. Use of AppSource is governed by separate {3} and {4}.",
+            "TRY_Disclaimer_Consent_Dynamics365": "我同意 Microsoft 可共享联系人、使用情况和交易信息来进行支持、计费和其他交易活动。我同意提供商的{0}和{1}，并理解 Microsoft 不授予使用此产品的权利，除非提供商为 Microsoft。AppSource 的使用受到单独的{2}和{3}约束。",
+            "TRY_Disclaimer_Consent_Dynamics365_With_Amendment": "I agree that Microsoft may share contact, usage, and transactional information for support, billing, and other transactional activities. I agree to the provider's {0}, {1} and {2} and understand that the rights to use this product do not come from Microsoft, unless Microsoft is the provider. Use of AppSource is governed by separate {3} and {4}.",
+            "TRY_Disclaimer_LeadConsent": "我授权 Microsoft 使用或共享我的 {0}，以便提供商或 Microsoft 可以与我联系，商讨此产品及其相关产品的事宜。我同意提供商的 {1} 和 {2}，并理解 Microsoft 不授予使用此产品的权利，除非提供商为 Microsoft。AppSource 的使用受到单独的 {3} 和 {4} 的约束。",
+            "TRY_Disclaimer_LeadConsent_Dynamics365": "我授权 Microsoft 使用或共享我的 {0}，以便提供商或 Microsoft 可与我联系，商讨此产品及其相关产品的事宜；Microsoft 可共享联系人、使用情况和交易信息来进行支持、计费和其他交易活动。我同意提供商的{1}和{2}，并理解 Microsoft 不授予使用此产品的权利，除非提供商为 Microsoft。AppSource 的使用受到单独的{3}和{4}约束。",
+            "ProductOnTheWeb": "{0} 网页版",
+            "ProductVersionOrLater": "{0}+",
+            "NPS_RatingQuestion": "有多大可能你会向朋友或同事推荐 AppSource?",
+            "Link_Learn": "了解 AppSource",
+            "RT_Terms": "Microsoft AppSource 条款",
+            "SB_Placeholder": "搜索 Microsoft AppSource",
+            "TRY_Disclaimer": "我授权 Microsoft 使用或共享我的 {0}，以便提供商或 Microsoft 可以与我联系，商讨此产品及其相关产品的事宜。我同意提供商的 {1} 和 {2}，并理解 Microsoft 不授予使用此产品的权利，除非提供商为 Microsoft。AppSource 的使用受到单独的 {3} 和 {4} 的约束。",
+            "TRY_Disclaimer2": "我同意提供商的 {0} 和 {1}，并理解如果 Microsoft 不是提供商，Microsoft 将不授予使用此产品的权利。对 AppSource 的使用受 {2} 和 {3} 单独约束。",
+            "SI_SignInAppSource": "登录 Microsoft AppSource",
+            "Embedded_FooterCTA": "在 AppSource 中查找更多应用和合作伙伴",
+            "TITLE_BrowserTitle": "找到正确应用 | Microsoft AppSource",
+            "Embed_FooterLink": "在 AppSource 中查找更多应用和咨询服务",
+            "Leadform_Terms": "Microsoft AppSource 条款",
+            "CTA_UserProfile_Title": "此应用要求提供一些基本信息。我们已经读取了你的 Microsoft 帐户数据以帮助你快速开始。AppSource 将保存你的信息供下次使用。",
+            "home_pageTitle": "Microsoft AppSource – 商业应用的目标",
+            "appGallery_pageTitle": "业务应用 - Microsoft AppSource",
+            "filteredApp_pageTitle": "应用结果 – Microsoft AppSource",
+            "detail_pageTitle": "{0} – Microsoft AppSource",
+            "marketing_pageTitle": "列于 AppSource – Microsoft AppSource",
+            "submitApp_pageTitle": "提交应用 – Microsoft AppSource",
+            "listAsPartner_pageTitle": "列出咨询服务 – Microsoft AppSource",
+            "reviewModal_pageTitle": "审阅 {0} – Microsoft AppSource",
+            "review_pageTitle": "我的审阅 – Microsoft AppSource",
+            "SignInModal_Title1": "登录到 Microsoft AppSource",
+            "SignInModal_SubTitle1": "在 AppSource 上购买应用时请输入要使用的帐户的电子邮件地址。",
+            "SignInModal_Disclaimer3": "你将从 AppSource 上的 Microsoft 帐户({0})自动注销。",
+            "TRY_Disclaimer3": "我同意提供商的 {0} 和 {1}，并理解如果 Microsoft 不是提供商，Microsoft 将不授予使用此产品的权利。对 AppSource 的使用受 {2} 和 {3} 单独约束。",
+            "Services_Disclaimer_Consent": "单击“继续”即表示我授权 Microsoft 使用或共享我的 {0}，使提供商或 Microsoft 可就此咨询服务与我联系。我将直接与提供商签署有关部署和定价的合同。此外，我明白此咨询服务并非由 Microsoft 提供。AppSource 的使用受到单独的 {1} 和 {2} 的约束。",
+            "Services_ContactTitle": "Microsoft 需要向 {0} 提供你的帐户信息，便于他们能联系你来规划此服务",
+            "Services_ContactTitle_ContactFormFilled": "Microsoft 需要将你的帐户信息提供给 {0}，使其能就此服务的安排与你联系。你已提供此信息，因此可继续操作!",
+            "servicesGallery_pageTitle": "所有咨询服务 – Microsoft AppSource",
+            "AppDetail_ReviewsTab": "审阅",
+            "ReportModal_Success_Done_Text": "报表已记录。我们将进行审核，如果内容违反 AppSource 使用条款，将删除该内容。",
+            "SignInModal_GenericAutoLogout": "你将从 AppSource 上的 Microsoft 帐户({0})中自动被注销。",
+            "Service_Disclaimer_LeadConsent": "单击“继续”即表示我授权 Microsoft 使用或共享我的 {0}，使提供商或 Microsoft 可就此咨询服务与我联系。我将直接与提供商签署有关部署和定价的合同。此外，我明白此咨询服务并非由 Microsoft 提供。AppSource 的使用受到单独的 {1} 和 {2} 的约束。",
+            "SolutionMaps_Banner_Text": "此解决方案已通过额外的认证和客户验证。Microsoft 建议你的行业使用。",
+            "Gallery_Header_Featured": "精选解决方案",
+            "Gallery_Header_AllApps": "所有应用({0})",
+            "AppSource_Banner_LearnMore": "了解详细信息",
+            "OCP_Contact_Microsoft": "Microsoft 联系人",
+            "OCP_Contact_Partner": "合作伙伴联系人",
+            "OCP_Detail_Back": "解决方案",
+            "OCP_Detail_Country": "国家/地区",
+            "OCP_Detail_State": "国家/区域",
+            "OCP_Detail_Contact_C1": "全名",
+            "OCP_Detail_Contact_C2": "角色",
+            "OCP_Detail_Contact_C3": "电子邮件",
+            "OCP_Detail_Contact_C4": "国家/地区",
+            "OCPFilterHeader_Country": "销售国家/地区",
+            "OCPFilterHeader_State": "在国家/区域销售",
+            "OCPFilterHeader_Industry": "行业",
+            "OCPFilterHeader_SolutionArea": "解决方案领域",
+            "OCPFilterHeader_Readiness": "准备情况",
+            "OCPFilterHeader_SolutionType": "解决方案类型",
+            "OCPFilterHeader_Platforms": "平台",
+            "OCPFilterHeader_EndCustomerSegment": "最终客户细分",
+            "OCPFilterHeader_Incentives": "奖励措施",
+            "RR_NotAcquire_SubTitle_Text": "仅当从 AppSource 获取应用时才可提交评审。若要获取应用，请选择",
+            "RR_NotAcquire_Title_Text": "要提交评审，请首先从 AppSource 获取应用。",
+            "Rating_PrivacyHeader": "AppSource 可能会将我的评论作为 {0} 公开发布。如果未勾选，评论将匿名发布。",
+            "Appsource_Header_Apps": "应用",
+            "Appsource_Header_Consulting_Services": "咨询服务",
+            "Appsource_Header_Co_Sell": "联合销售",
+            "Appsource_Header_Sell": "销售",
+            "Appsource_Header_Blog": "博客",
+            "Appsource_Header_More": "更多",
+            "Appsource_Header_My_Orders": "我的订单",
+            "Price": "价格",
+            "Description": "描述",
+            "StartingAtPrice": "{0} 最低价格",
+            "SoftwarePlansStartAt": "软件计划起步价",
+            "Global_Loc_free-trial": "免费试用"
+        },
+        "locale": "zh-cn",
+        "user": "",
+        "flightCodes": null,
+        "searchAPIKey": "9D7AAFE7DE289AD2966FE30D9A5B0BCC",
+        "searchUrl": "https://smp-searchservice-prod-wus.search.windows.net/indexes/smpappsv6/docs",
+        "correlationId": "0d27d6ac-07fd-4831-8ae3-fffc399ffa29",
+        "currentView": "appDetails",
+        "landingView": "appDetails",
+        "currentGalleryViewIsCurated": false,
+        "breadcrumbUrl": null,
+        "appViewTelemetryLoggedCount": 0,
+        "nationalCloud": "",
+        "billingCountryCode": "us",
+        "pricingDataLoaded": false,
+        "featureFlags": {
+            "AppReviews": "false",
+            "ProfileExp": "false",
+            "AltAuth": "false"
+        },
+        "servicesSearchUrl": "https://smp-searchservice-prod-wus.search.windows.net/indexes/smpservices/docs",
+        "marketplaceApiHost": "marketplaceapi.microsoft.com",
+        "isMobile": false,
+        "gaTrackingId": "UA-98451538-1",
+        "nominationCPPOnboardURL": "https://login.microsoftonline.com/common/oauth2/authorize?response_type=id_token&client_id=a4807ddb-eeb3-4d95-9f54-18a12c534fa8&redirect_uri=https%3A%2F%2Fcloudpartner.azure.com%2F&state=d3abde46-2934-4aef-8136-977b224758d9&x-client-SKU=Js&x-client-Ver=1.0.0&nonce=c39a94f1-180f-4551-a01e-449294d9f84e&sso_reload=true",
+        "isAppSource": true,
+        "signupUrl": "",
+        "pidlEnv": "prod",
+        "jsllConfig": {
+            "userConsentCookieName": "privacyConsentAcceptedDate",
+            "coreData": {
+                "appId": "AppSource",
+                "env": "Production"
+            }
+        }
+    },
+    "testDrive": [
+        {
+            "entityId": "",
+            "expirationDate": null,
+            "id": "",
+            "outputs": null,
+            "state": ""
+        }
+    ],
+    "dynamicCampaign": {
+        "html": ""
+    },
+    "userFavourite": {
+        "fetchDataStatus": "Invalid",
+        "apps": [],
+        "services": []
+    },
+    "ecaData": {
+        "ecaOffers": [],
+        "offerListSize": 0,
+        "ecaOfferDetails": null,
+        "ecaClientSideCache": [],
+        "ecaSubSetData": [],
+        "ecaSubSetSearchFilteringData": [],
+        "ecaSubSetSearchQuery": "",
+        "ecaSearchClientSideCache": []
+    },
+    "checkout": {
+        "items": [],
+        "customers": null,
+        "activeCustomer": null,
+        "payment": null,
+        "order": null,
+        "purchaseResponse": {
+            "purchaseComplete": false
+        },
+        "purchaseStatusUrl": null,
+        "publisherToken": null
+    },
+    "services": {
+        "dataList": [],
+        "curatedData": {
+            "top": [],
+            "everything": [
+                {
+                    "id": "926ca42031ce8aa7366a60c30062a7932f208da21af14f9942873d37887ef846",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "fullscope.crm_adoption_and_readiness",
+                            "order": 1
+                        },
+                        {
+                            "id": "new-signature.microsoft_relationship_sales",
+                            "order": 2
+                        },
+                        {
+                            "id": "sikich.sikich_dynamics365_deepdive",
+                            "order": 3
+                        },
+                        {
+                            "id": "arbela.customerengagement_workshop",
+                            "order": 4
+                        },
+                        {
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Sales",
+                    "titleId": 128
+                },
+                {
+                    "id": "c0e10bc8e3778d9ad95f5ba466cd419b3c02d29351ad1a79da9685cc25c9d9fe",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "armanino_llp.armanino_crm_health_check",
+                            "order": 1
+                        },
+                        {
+                            "id": "journeyteam.journeyteam_1hr_dynamics365_field_service",
+                            "order": 2
+                        },
+                        {
+                            "id": "fullscope.crm_core_team_prep",
+                            "order": 3
+                        },
+                        {
+                            "id": "vnb.vnb_d365_cust_eng_poc",
+                            "order": 4
+                        },
+                        {
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Field Services",
+                    "titleId": 256
+                },
+                {
+                    "id": "fb62af1f80a869aefe066ce2752965c0f22c906d0e196737c6a2b8c16a8ad846",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "catapult.catapult_1week_dynamics_system_health_check",
+                            "order": 1
+                        },
+                        {
+                            "id": "new-signature.dynamics_365_customer_engagement",
+                            "order": 2
+                        },
+                        {
+                            "id": "dynamicsedge.de_customer_service_success_workshop_01",
+                            "order": 3
+                        },
+                        {
+                            "id": "pragmasys.pragmaquickstartd365",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Customer Services",
+                    "titleId": 1024
+                },
+                {
+                    "id": "15db676a767c45e341a8e63f30a72497827f639cfd3918579c1e7f1f47623240",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 4,
+                    "items": [
+                        {
+                            "id": "bkd.brf-slct",
+                            "order": 1
+                        },
+                        {
+                            "id": "crowe_horwath.project_management_assessment",
+                            "order": 2
+                        },
+                        {
+                            "id": "ciellos.ciellos_dynamics365_migration_upgrade_workshop",
+                            "order": 3
+                        },
+                        {
+                            "id": "mcaconnectllc.developmentbestpractice",
+                            "order": 4
+                        },
+                        {
+                            "id": "arbela.analyticsaaservice_arbela",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Operations",
+                    "titleId": 1
+                },
+                {
+                    "id": "f3723032fdf4ce005e68475de062a8b5f07219014231249404989b2d62cdc5b1",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 5,
+                    "items": [
+                        {
+                            "id": "websan-solutions-inc.websan-solutionsinc-30-min-d365-assessment",
+                            "order": 1
+                        },
+                        {
+                            "id": "interdynartis.iad365briefing",
+                            "order": 2
+                        },
+                        {
+                            "id": "sbs-group.financials-for-your-business",
+                            "order": 3
+                        },
+                        {
+                            "id": "interdynbmi.interdynbmi_d365besmartstart",
+                            "order": 4
+                        },
+                        {
+                            "id": "tmc.dynamics_365_implementation_and_support_plans",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Financials",
+                    "titleId": 8
+                },
+                {
+                    "id": "dec7b3ecd5ee21a83e322d99f9c01ea659e61d3074ac8b097c7d33b33f2db54f",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 6,
+                    "items": [
+                        {
+                            "id": "dellemc.dell-emc-pbi-assess-us",
+                            "order": 1
+                        },
+                        {
+                            "order": 2
+                        },
+                        {
+                            "id": "cloudsonmars.cloudsonmars_2_us_dashboard_creation",
+                            "order": 3
+                        },
+                        {
+                            "id": "epmstrategy.epm_strategy_pbi_sharepoint",
+                            "order": 4
+                        },
+                        {
+                            "id": "freshbi.freshbi_dashdesign_ps",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Power BI",
+                    "titleId": 16
+                },
+                {
+                    "id": "87931c0b0bc010f26caaa0367223edd34c32677479335fb6c38de6902c516ff3",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 7,
+                    "items": [
+                        {
+                            "id": "vnb.vnb_poaps_flow_ws",
+                            "order": 1
+                        },
+                        {
+                            "id": "slalom.slalom_bizplatform_powerapps_flow_power_bi",
+                            "order": 2
+                        },
+                        {
+                            "id": "spadeworx.spadeworx_app_in_a_day_powerapps",
+                            "order": 3
+                        },
+                        {
+                            "id": "cloudsonmars.cloudsonmars_3_us_power_app_mobile",
+                            "order": 4
+                        },
+                        {
+                            "id": "confluent.confluent_powerapps_infopath_lotusnotes_4day",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "PowerApps",
+                    "titleId": 2048
+                },
+                {
+                    "id": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "parentId": "8ba041bd514a4cf1c170173486c14a2926ac55f84935cb5918332bbd2fcde7fb",
+                    "order": 8,
+                    "items": [],
+                    "sectionId": "Dynamics 365",
+                    "titleId": 2
+                }
+            ],
+            "Dynamics 365": [
+                {
+                    "id": "71705f36b3db28535f497c99d3ad185e95b5e3aee9639b54a7c31304a53e8eda",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 1,
+                    "items": [
+                        {
+                            "id": "fullscope.crm_adoption_and_readiness",
+                            "order": 1
+                        },
+                        {
+                            "id": "new-signature.microsoft_relationship_sales",
+                            "order": 2
+                        },
+                        {
+                            "id": "sikich.sikich_dynamics365_deepdive",
+                            "order": 3
+                        },
+                        {
+                            "id": "arbela.customerengagement_workshop",
+                            "order": 4
+                        },
+                        {
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Sales",
+                    "titleId": 128
+                },
+                {
+                    "id": "e7de4c4133ab35f0709a6b44c50327c08371e0b62fa73a5ef1286a59ee9f228a",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 2,
+                    "items": [
+                        {
+                            "id": "armanino_llp.armanino_crm_health_check",
+                            "order": 1
+                        },
+                        {
+                            "id": "journeyteam.journeyteam_1hr_dynamics365_field_service",
+                            "order": 2
+                        },
+                        {
+                            "id": "fullscope.crm_core_team_prep",
+                            "order": 3
+                        },
+                        {
+                            "id": "vnb.vnb_d365_cust_eng_poc",
+                            "order": 4
+                        },
+                        {
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Field Services",
+                    "titleId": 256
+                },
+                {
+                    "id": "07e2b84100bab41eec3c900994c41be8d3aa8b8d729d6da54a1c07ce65137c9d",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 3,
+                    "items": [
+                        {
+                            "id": "catapult.catapult_1week_dynamics_system_health_check",
+                            "order": 1
+                        },
+                        {
+                            "id": "new-signature.dynamics_365_customer_engagement",
+                            "order": 2
+                        },
+                        {
+                            "id": "dynamicsedge.de_customer_service_success_workshop_01",
+                            "order": 3
+                        },
+                        {
+                            "id": "pragmasys.pragmaquickstartd365",
+                            "order": 4
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Customer Services",
+                    "titleId": 1024
+                },
+                {
+                    "id": "ba040db3b0573b1086721abac3a202b0639933b5c4466137400109c45008c6da",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 4,
+                    "items": [
+                        {
+                            "id": "bkd.brf-slct",
+                            "order": 1
+                        },
+                        {
+                            "id": "crowe_horwath.project_management_assessment",
+                            "order": 2
+                        },
+                        {
+                            "id": "ciellos.ciellos_dynamics365_migration_upgrade_workshop",
+                            "order": 3
+                        },
+                        {
+                            "id": "mcaconnectllc.developmentbestpractice",
+                            "order": 4
+                        },
+                        {
+                            "id": "arbela.analyticsaaservice_arbela",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Operations",
+                    "titleId": 1
+                },
+                {
+                    "id": "adbf28921ae65bace96c5b35a3cda0632edeab2c8f42aa4d7b9beccfbe16603f",
+                    "parentId": "f9d069c866180223c04a6267cf518b7aaa3c2b4cf69d56ddb5ba9656cf3fd597",
+                    "order": 5,
+                    "items": [
+                        {
+                            "id": "websan-solutions-inc.websan-solutionsinc-30-min-d365-assessment",
+                            "order": 1
+                        },
+                        {
+                            "id": "interdynartis.iad365briefing",
+                            "order": 2
+                        },
+                        {
+                            "id": "sbs-group.financials-for-your-business",
+                            "order": 3
+                        },
+                        {
+                            "id": "interdynbmi.interdynbmi_d365besmartstart",
+                            "order": 4
+                        },
+                        {
+                            "id": "tmc.dynamics_365_implementation_and_support_plans",
+                            "order": 5
+                        }
+                    ],
+                    "sectionId": "Dynamics 365 for Financials",
+                    "titleId": 8
+                }
+            ]
+        },
+        "dataLoaded": {
+            "Services": true
+        },
+        "curatedDataLoaded": {
+            "Services": true
+        },
+        "subsetData": [],
+        "subsetSearchQuery": "",
+        "entityType": 2,
+        "selectedCountry": "US",
+        "selectedRegion": "",
+        "temporaryInitialRenderedTileExtraData": {}
+    }
+}
