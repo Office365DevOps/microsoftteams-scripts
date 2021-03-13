@@ -1,3 +1,7 @@
+# 批量下载可用于Teams会议视频背景的图片
+# 作者：陈希章 2021-3-13
+
+
 function GetEncoder() {
     $format = [Drawing.Imaging.ImageFormat]::Jpeg
 
