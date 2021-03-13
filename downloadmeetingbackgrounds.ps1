@@ -13,10 +13,9 @@ function GetEncoder() {
 
 function GenerateThumbnail {
     param (
-        [string]$filePath, 
-        [string]$fileName
+        [string]$filePath
     )
-
+    $fileName = Split-Path $filePath -Leaf
     $thumbName = "$($fileName.Split('.')[0])_thumb.jpg"
     
     $full = [System.Drawing.Image]::FromFile($filePath);
@@ -49,5 +48,5 @@ $images | ForEach-Object {
     $fileName = Split-Path $_ -Leaf
     $filePath = "$path\$fileName"
     Invoke-WebRequest -Uri $_ -OutFile $filePath
-    GenerateThumbnail -filePath $filePath -fileName $fileName
+    GenerateThumbnail -filePath $filePath
 }
