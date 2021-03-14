@@ -2,6 +2,10 @@
 # 作者：陈希章 2021-3-13
 
 
+if ($PSVersionTable.PSVersion.Major -lt 6) {
+    # 老版本Powershell需要手工导入这个图像库
+    Add-Type -AssemblyName System.Drawing
+}
 function GetEncoder() {
     $format = [Drawing.Imaging.ImageFormat]::Jpeg
 
