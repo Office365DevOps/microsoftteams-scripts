@@ -46,11 +46,17 @@ if (-not (Test-Path $path)) {
     New-Item $path -ItemType Directory | Out-Null
 }
 
+# UseBasicparsing 可以提高性能，而且避免弹出一个对话框的问题，因为它不会尝试用IE去解析文档。（使用老版本的PowerShell的话）
 $images = (Invoke-WebRequest -Uri "https://adoption.microsoft.com/microsoft-teams/custom-backgrounds-gallery/" -UseBasicParsing).Links.href | Where-Object { ($_ -like "https://adoption.azureedge.net/wp-content/custom-backgrounds-gallery*.jpg") -and (-not (Test-Path "$path\$(Split-Path $_ -Leaf)")) } | Select-Object -Unique 
 
+$wc = New-Object System.Net.WebClient
+
 $images | ForEach-Object {
+    
     $fileName = Split-Path $_ -Leaf
     $filePath = "$path\$fileName"
-    Invoke-WebRequest -Uri $_ -OutFile $filePath
+    # 使用web client可以明显提高性能
+    $wc.DownloadFile($_, $filePath) 
+    # Invoke-WebRequest -Uri $_ -OutFile $filePath 
     GenerateThumbnail -filePath $filePath
 }
