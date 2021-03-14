@@ -10,4 +10,4 @@
 
 > 2021-3-13 陈希章
 
-打开本地的 PowerShell，运行这一行代码即可 `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Office365DevOps/microsoftteams-scripts/master/downloadmeetingbackgrounds.ps1'))`
+打开本地的 PowerShell，运行这一行代码即可 `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://aka.ms/dl_teams_backgrounds'))`

@@ -50,6 +50,8 @@ if (-not (Test-Path $path)) {
 $images = (Invoke-WebRequest -Uri "https://adoption.microsoft.com/microsoft-teams/custom-backgrounds-gallery/" -UseBasicParsing).Links.href | Where-Object { ($_ -like "https://adoption.azureedge.net/wp-content/custom-backgrounds-gallery*.jpg") -and (-not (Test-Path "$path\$(Split-Path $_ -Leaf)")) } | Select-Object -Unique 
 
 $wc = New-Object System.Net.WebClient
+$index = 1
+$count = $images.Count
 
 $images | ForEach-Object {
     
@@ -57,6 +59,12 @@ $images | ForEach-Object {
     $filePath = "$path\$fileName"
     # 使用web client可以明显提高性能
     $wc.DownloadFile($_, $filePath) 
+    Write-Progress -Activity "Download Background image" -Status "Save file: $_" -PercentComplete ($index / $count * 100)
+
     # Invoke-WebRequest -Uri $_ -OutFile $filePath 
     GenerateThumbnail -filePath $filePath
+
+    Write-Progress -Activity "Download Background image" -Status "Generate thumbnail: $fileName" -PercentComplete ($index / $count * 100)
+
+    $index = $index + 1
 }
